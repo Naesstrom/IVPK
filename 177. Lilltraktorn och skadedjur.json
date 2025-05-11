@@ -1,2981 +1,2708 @@
 {
   "Titel": "177. Lilltraktorn och skadedjur",
   "Beskrivning": "Okänt",
-  "Datum": "20250221",
+  "Datum": "20250511",
   "Avsnittsnummer": "Okänt",
   "Säsong": "Okänt",
   "Totaltid": "3271",
-  "dialogue": [
+  "Deltagare": [
+    {
+      "Namn": "Patrik",
+      "Roll": "Värd"
+    },
+    {
+      "Namn": "Kalle",
+      "Roll": "Värd"
+    },
+    {
+      "Namn": "Ing-Marie 'Ingo' Sellman",
+      "Roll": "Gäst"
+    }
+  ],
+  "Ämnen": [
+    "Ämne 1",
+    "Ämne 2",
+    "Ämne 3"
+  ],
+  "Dialog": [
     
     {
-      "i": 1,
       "UID": "UID-1",
-      "speaker": "Kalle",
-      "text": "Hallååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååå",
-      "start": "00:00:00,000",
-      "end": "00:00:30,000",
-      "duration": "30000"
-    }
+      "Speaker": "Kalle",
+      "Text": "Hallååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååååå",
+      "Start": "00:00:00,000",
+      "End": "00:00:30,000",
+      "Duration": "30000"
+    },
     
     {
-      "i": 2,
       "UID": "UID-2",
-      "speaker": "Patrick",
-      "text": "Så jag tänkte att jag åker och dricker kaffe med han och så tipsar om vad det var för sorter och sånt han skulle ordla och så där.",
-      "start": "00:00:30,000",
-      "end": "00:00:37,000",
-      "duration": "7000"
-    }
+      "Speaker": "Patrick",
+      "Text": "Så jag tänkte att jag åker och dricker kaffe med han och så tipsar om vad det var för sorter och sånt han skulle ordla och så där.",
+      "Start": "00:00:30,000",
+      "End": "00:00:37,000",
+      "Duration": "7000"
+    },
     
     {
-      "i": 3,
       "UID": "UID-3",
-      "speaker": "Patrick",
-      "text": "Nej, det gillar du ju, du är ju inte sen åka dit och dricka kaffe.",
-      "start": "00:00:37,000",
-      "end": "00:00:40,000",
-      "duration": "3000"
-    }
+      "Speaker": "Patrick",
+      "Text": "Nej, det gillar du ju, du är ju inte sen åka dit och dricka kaffe.",
+      "Start": "00:00:37,000",
+      "End": "00:00:40,000",
+      "Duration": "3000"
+    },
     
     {
-      "i": 4,
       "UID": "UID-4",
-      "speaker": "Patrick",
-      "text": "Nej, det gjorde jag ju faktiskt, men då ringer ju, ja, men då smsar ju får Lian.",
-      "start": "00:00:40,000",
-      "end": "00:00:46,000",
-      "duration": "6000"
-    }
+      "Speaker": "Patrick",
+      "Text": "Nej, det gjorde jag ju faktiskt, men då ringer ju, ja, men då smsar ju får Lian.",
+      "Start": "00:00:40,000",
+      "End": "00:00:46,000",
+      "Duration": "6000"
+    },
     
     {
-      "i": 5,
       "UID": "UID-5",
-      "speaker": "Patrick",
-      "text": "Jag var hälsad på, han också drack kaffe, nej, det gjorde jag inte, jag drack te där, jag drack te där, kommer jag ihåg nu.",
-      "start": "00:00:46,000",
-      "end": "00:00:54,000",
-      "duration": "8000"
-    }
+      "Speaker": "Patrick",
+      "Text": "Jag var hälsad på, han också drack kaffe, nej, det gjorde jag inte, jag drack te där, jag drack te där, kommer jag ihåg nu.",
+      "Start": "00:00:46,000",
+      "End": "00:00:54,000",
+      "Duration": "8000"
+    },
     
     {
-      "i": 6,
       "UID": "UID-6",
-      "speaker": "",
-      "text": "Ja, ja.Före Eira, hans käresta, hon har ju börjat jobba i Arvika, hade hon gjort hela hussten, men vi har inte hört hur det har gått före henne där, så vi var dit och hälsade på.",
-      "start": "00:00:54,000",
-      "end": "00:01:09,000",
-      "duration": "15000"
-    }
+      "Speaker": "",
+      "Text": "Ja, ja.Före Eira, hans käresta, hon har ju börjat jobba i Arvika, hade hon gjort hela hussten, men vi har inte hört hur det har gått före henne där, så vi var dit och hälsade på.",
+      "Start": "00:00:54,000",
+      "End": "00:01:09,000",
+      "Duration": "15000"
+    },
     
     {
-      "i": 7,
       "UID": "UID-7",
-      "speaker": "",
-      "text": "Men nu har ju han åkt till Norge.Alltså själva Lian.Får Lian åkte till Norge, ja, det var därför vi åkte dit i måndag för förra veckan då.",
-      "start": "00:01:09,000",
-      "end": "00:01:19,000",
-      "duration": "10000"
-    }
+      "Speaker": "",
+      "Text": "Men nu har ju han åkt till Norge.Alltså själva Lian.Får Lian åkte till Norge, ja, det var därför vi åkte dit i måndag för förra veckan då.",
+      "Start": "00:01:09,000",
+      "End": "00:01:19,000",
+      "Duration": "10000"
+    },
     
     {
-      "i": 8,
       "UID": "UID-8",
-      "speaker": "",
-      "text": "Och nu är spännande vad den här historien ska ta vägen, är det bara en rapport om hur olika människor har gjort, tänker jag ju inte, men hur mycket vi byggde folk.Nej, och så åkte ju, Johan så åkte ju till affärn själv.Undrar om han ligger sjuk?",
-      "start": "00:01:19,000",
-      "end": "00:01:35,000",
-      "duration": "16000"
-    }
+      "Speaker": "",
+      "Text": "Och nu är spännande vad den här historien ska ta vägen, är det bara en rapport om hur olika människor har gjort, tänker jag ju inte, men hur mycket vi byggde folk.Nej, och så åkte ju, Johan så åkte ju till affärn själv.Undrar om han ligger sjuk?",
+      "Start": "00:01:19,000",
+      "End": "00:01:35,000",
+      "Duration": "16000"
+    },
     
     {
-      "i": 9,
       "UID": "UID-9",
-      "speaker": "",
-      "text": "Ja, undrar du det med gubben?Nej, men han åker ju dit och klipper och är borta tror jag för den veckan nu då, mitt i landningen.Och herre gud, Lian, hur gör du?",
-      "start": "00:01:35,000",
-      "end": "00:01:47,000",
-      "duration": "12000"
-    }
+      "Speaker": "",
+      "Text": "Ja, undrar du det med gubben?Nej, men han åker ju dit och klipper och är borta tror jag för den veckan nu då, mitt i landningen.Och herre gud, Lian, hur gör du?",
+      "Start": "00:01:35,000",
+      "End": "00:01:47,000",
+      "Duration": "12000"
+    },
     
     {
-      "i": 10,
       "UID": "UID-10",
-      "speaker": "",
-      "text": "Ja, precis, och Eira jobbar ju heltid och är hemma ensam med landen nu då.Men då smsar Lian det, att det krånger med landning, så då får jag ju åka, åker jag dit då, direkt, och det visar sig ju, att jag är ju i huset bredvid vötter, i princip.Jaha.Så det, ja, så det var jag gjorde igår, och då är man ju lite uppe varv när man kommer hem.Ja, vad, ville du säga något om landningen?",
-      "start": "00:01:47,000",
-      "end": "00:02:14,000",
-      "duration": "27000"
-    }
+      "Speaker": "",
+      "Text": "Ja, precis, och Eira jobbar ju heltid och är hemma ensam med landen nu då.Men då smsar Lian det, att det krånger med landning, så då får jag ju åka, åker jag dit då, direkt, och det visar sig ju, att jag är ju i huset bredvid vötter, i princip.Jaha.Så det, ja, så det var jag gjorde igår, och då är man ju lite uppe varv när man kommer hem.Ja, vad, ville du säga något om landningen?",
+      "Start": "00:01:47,000",
+      "End": "00:02:14,000",
+      "Duration": "27000"
+    },
     
     {
-      "i": 11,
       "UID": "UID-11",
-      "speaker": "",
-      "text": "Ja, det var ju, första lammet kom ut, som tur var, och jättefint då, men de hade ju hållit på ett bra tag att försöka få ut ejera och grannarna där då.",
-      "start": "00:02:14,000",
-      "end": "00:02:30,000",
-      "duration": "16000"
-    }
+      "Speaker": "",
+      "Text": "Ja, det var ju, första lammet kom ut, som tur var, och jättefint då, men de hade ju hållit på ett bra tag att försöka få ut ejera och grannarna där då.",
+      "Start": "00:02:14,000",
+      "End": "00:02:30,000",
+      "Duration": "16000"
+    },
     
     {
-      "i": 12,
       "UID": "UID-12",
-      "speaker": "",
-      "text": "Men det satt fast alltså, och det var som huvudet böjdes neråt mellan benen, och då blev det jobbigt att dra ut då, men vi fick upp det till slut, men det var trögt ändå, men så kommer det där läget till slut, då släpper det bara.",
-      "start": "00:02:30,000",
-      "end": "00:02:47,000",
-      "duration": "17000"
-    }
+      "Speaker": "",
+      "Text": "Men det satt fast alltså, och det var som huvudet böjdes neråt mellan benen, och då blev det jobbigt att dra ut då, men vi fick upp det till slut, men det var trögt ändå, men så kommer det där läget till slut, då släpper det bara.",
+      "Start": "00:02:30,000",
+      "End": "00:02:47,000",
+      "Duration": "17000"
+    },
     
     {
-      "i": 13,
       "UID": "UID-13",
-      "speaker": "",
-      "text": "Det är ju också en underbar känsla, alltså.Alltså, det är det, för att man är så mycket på spänn där, och omedvetet, för man är ju så fokuserad också, och så då när det släpper skänd, då blir man väldigt glad, alltså.",
-      "start": "00:02:47,000",
-      "end": "00:03:05,000",
-      "duration": "18000"
-    }
+      "Speaker": "",
+      "Text": "Det är ju också en underbar känsla, alltså.Alltså, det är det, för att man är så mycket på spänn där, och omedvetet, för man är ju så fokuserad också, och så då när det släpper skänd, då blir man väldigt glad, alltså.",
+      "Start": "00:02:47,000",
+      "End": "00:03:05,000",
+      "Duration": "18000"
+    },
     
     {
-      "i": 14,
       "UID": "UID-14",
-      "speaker": "",
-      "text": "Det är ju lite i samband med mänskliga förlåsningar, att de håller på så länge, och så plötsligt bara, voh, så kommer det.Ja, så är det.Och vad härligt.",
-      "start": "00:03:05,000",
-      "end": "00:03:19,000",
-      "duration": "14000"
-    }
+      "Speaker": "",
+      "Text": "Det är ju lite i samband med mänskliga förlåsningar, att de håller på så länge, och så plötsligt bara, voh, så kommer det.Ja, så är det.Och vad härligt.",
+      "Start": "00:03:05,000",
+      "End": "00:03:19,000",
+      "Duration": "14000"
+    },
     
     {
-      "i": 15,
       "UID": "UID-15",
-      "speaker": "",
-      "text": "Jag har ju en tacka som har haft fler med hennes landning vid fler tillfällen, och att man har behövt jobb att kämpa ut dem, men nu, hon blir inte betäcklig ordnen, nu är det slut för henne, det blir ingen felande för henne.",
-      "start": "00:03:19,000",
-      "end": "00:03:32,000",
-      "duration": "13000"
-    }
+      "Speaker": "",
+      "Text": "Jag har ju en tacka som har haft fler med hennes landning vid fler tillfällen, och att man har behövt jobb att kämpa ut dem, men nu, hon blir inte betäcklig ordnen, nu är det slut för henne, det blir ingen felande för henne.",
+      "Start": "00:03:19,000",
+      "End": "00:03:32,000",
+      "Duration": "13000"
+    },
     
     {
-      "i": 16,
       "UID": "UID-16",
-      "speaker": "",
-      "text": "Nej, det är väl sånt, om det krånglar för mycket, alltså, det kan ju vara slump en gång, om man inte har så många tacker, men om det är flera gånger, då ska man inte fortsätta, det är för dåliga gener också.",
-      "start": "00:03:32,000",
-      "end": "00:03:44,000",
-      "duration": "12000"
-    }
+      "Speaker": "",
+      "Text": "Nej, det är väl sånt, om det krånglar för mycket, alltså, det kan ju vara slump en gång, om man inte har så många tacker, men om det är flera gånger, då ska man inte fortsätta, det är för dåliga gener också.",
+      "Start": "00:03:32,000",
+      "End": "00:03:44,000",
+      "Duration": "12000"
+    },
     
     {
-      "i": 17,
       "UID": "UID-17",
-      "speaker": "",
-      "text": "Men du, vad är det för tidig landning, vad beror det på?",
-      "start": "00:03:44,000",
-      "end": "00:03:49,000",
-      "duration": "5000"
-    }
+      "Speaker": "",
+      "Text": "Men du, vad är det för tidig landning, vad beror det på?",
+      "Start": "00:03:44,000",
+      "End": "00:03:49,000",
+      "Duration": "5000"
+    },
     
     {
-      "i": 18,
       "UID": "UID-18",
-      "speaker": "",
-      "text": "Liam är ju, han har ju värmelamper och sånt inne i fårhuset då, jag tror, om jag känner Liam rätt, han kan ju en del om får han, så det är ju som väldigt kraftig i det tidigabetet, när det kommer i maj.",
-      "start": "00:03:49,000",
-      "end": "00:04:08,000",
-      "duration": "19000"
-    }
+      "Speaker": "",
+      "Text": "Liam är ju, han har ju värmelamper och sånt inne i fårhuset då, jag tror, om jag känner Liam rätt, han kan ju en del om får han, så det är ju som väldigt kraftig i det tidigabetet, när det kommer i maj.",
+      "Start": "00:03:49,000",
+      "End": "00:04:08,000",
+      "Duration": "19000"
+    },
     
     {
-      "i": 19,
       "UID": "UID-19",
-      "speaker": "",
-      "text": "Ja, jag misstänker, jag faktiskt inte, han har inte gett någon förklaring, men jag misstänker, att han vill utnyttja det där tidigabetet så bra som möjligt.",
-      "start": "00:04:08,000",
-      "end": "00:04:18,000",
-      "duration": "10000"
-    }
+      "Speaker": "",
+      "Text": "Ja, jag misstänker, jag faktiskt inte, han har inte gett någon förklaring, men jag misstänker, att han vill utnyttja det där tidigabetet så bra som möjligt.",
+      "Start": "00:04:08,000",
+      "End": "00:04:18,000",
+      "Duration": "10000"
+    },
     
     {
-      "i": 20,
       "UID": "UID-20",
-      "speaker": "",
-      "text": "Alltså han tänker, att de ska dia nu fram tills gräs börjar växa och då?",
-      "start": "00:04:18,000",
-      "end": "00:04:23,000",
-      "duration": "5000"
-    }
+      "Speaker": "",
+      "Text": "Alltså han tänker, att de ska dia nu fram tills gräs börjar växa och då?",
+      "Start": "00:04:18,000",
+      "End": "00:04:23,000",
+      "Duration": "5000"
+    },
     
     {
-      "i": 21,
       "UID": "UID-21",
-      "speaker": "",
-      "text": "Ja, det är det jag tänker, att han vill göra då.",
-      "start": "00:04:23,000",
-      "end": "00:04:26,000",
-      "duration": "3000"
-    }
+      "Speaker": "",
+      "Text": "Ja, det är det jag tänker, att han vill göra då.",
+      "Start": "00:04:23,000",
+      "End": "00:04:26,000",
+      "Duration": "3000"
+    },
     
     {
-      "i": 22,
       "UID": "UID-22",
-      "speaker": "",
-      "text": "Ja, för jag brukar tänka så här, fan tidig landning är bara krångel, men om han har bra infrastruktur, så är väl det inte ett problem, kanske?",
-      "start": "00:04:26,000",
-      "end": "00:04:37,000",
-      "duration": "11000"
-    }
+      "Speaker": "",
+      "Text": "Ja, för jag brukar tänka så här, fan tidig landning är bara krångel, men om han har bra infrastruktur, så är väl det inte ett problem, kanske?",
+      "Start": "00:04:26,000",
+      "End": "00:04:37,000",
+      "Duration": "11000"
+    },
     
     {
-      "i": 23,
       "UID": "UID-23",
-      "speaker": "",
-      "text": "Nej, jag tror, att han, jag har inte pratat med han om det längre, så jag ska inte säga en massa saker, jag inte tror, men.",
-      "start": "00:04:37,000",
-      "end": "00:04:47,000",
-      "duration": "10000"
-    }
+      "Speaker": "",
+      "Text": "Nej, jag tror, att han, jag har inte pratat med han om det längre, så jag ska inte säga en massa saker, jag inte tror, men.",
+      "Start": "00:04:37,000",
+      "End": "00:04:47,000",
+      "Duration": "10000"
+    },
     
     {
-      "i": 24,
       "UID": "UID-24",
-      "speaker": "",
-      "text": "Faktiskt, jag tror att jag lämnade.",
-      "start": "00:04:47,000",
-      "end": "00:04:50,000",
-      "duration": "3000"
-    }
+      "Speaker": "",
+      "Text": "Faktiskt, jag tror att jag lämnade.",
+      "Start": "00:04:47,000",
+      "End": "00:04:50,000",
+      "Duration": "3000"
+    },
     
     {
-      "i": 25,
       "UID": "UID-25",
-      "speaker": "",
-      "text": "Ja, bra, du hade jag sett förra veckan eller?",
-      "start": "00:04:50,000",
-      "end": "00:04:54,000",
-      "duration": "4000"
-    }
+      "Speaker": "",
+      "Text": "Ja, bra, du hade jag sett förra veckan eller?",
+      "Start": "00:04:50,000",
+      "End": "00:04:54,000",
+      "Duration": "4000"
+    },
     
     {
-      "i": 26,
       "UID": "UID-26",
-      "speaker": "",
-      "text": "Ja, evansan, och du hade varit ute och det var ju lite inslag om barnen där.",
-      "start": "00:04:54,000",
-      "end": "00:04:59,000",
-      "duration": "5000"
-    }
+      "Speaker": "",
+      "Text": "Ja, evansan, och du hade varit ute och det var ju lite inslag om barnen där.",
+      "Start": "00:04:54,000",
+      "End": "00:04:59,000",
+      "Duration": "5000"
+    },
     
     {
-      "i": 27,
       "UID": "UID-27",
-      "speaker": "",
-      "text": "Just det, jag såg det själv, ja.",
-      "start": "00:04:59,000",
-      "end": "00:05:03,000",
-      "duration": "4000"
-    }
+      "Speaker": "",
+      "Text": "Just det, jag såg det själv, ja.",
+      "Start": "00:04:59,000",
+      "End": "00:05:03,000",
+      "Duration": "4000"
+    },
     
     {
-      "i": 28,
       "UID": "UID-28",
-      "speaker": "",
-      "text": "Polly Grip, jag vet inte om du såg filmen på Instagram?",
-      "start": "00:05:03,000",
-      "end": "00:05:08,000",
-      "duration": "5000"
-    }
+      "Speaker": "",
+      "Text": "Polly Grip, jag vet inte om du såg filmen på Instagram?",
+      "Start": "00:05:03,000",
+      "End": "00:05:08,000",
+      "Duration": "5000"
+    },
     
     {
-      "i": 29,
       "UID": "UID-29",
-      "speaker": "",
-      "text": "Ja, just det.",
-      "start": "00:05:08,000",
-      "end": "00:05:11,000",
-      "duration": "3000"
-    }
+      "Speaker": "",
+      "Text": "Ja, just det.",
+      "Start": "00:05:08,000",
+      "End": "00:05:11,000",
+      "Duration": "3000"
+    },
     
     {
-      "i": 30,
       "UID": "UID-30",
-      "speaker": "",
-      "text": "Ja, vad roligt, jag sitter faktiskt med Polly Grip i handen, när vi pratar, jag tänkte så här, nu ser han mig, vad konstigt.",
-      "start": "00:05:11,000",
-      "end": "00:05:22,000",
-      "duration": "11000"
-    }
+      "Speaker": "",
+      "Text": "Ja, vad roligt, jag sitter faktiskt med Polly Grip i handen, när vi pratar, jag tänkte så här, nu ser han mig, vad konstigt.",
+      "Start": "00:05:11,000",
+      "End": "00:05:22,000",
+      "Duration": "11000"
+    },
     
     {
-      "i": 31,
       "UID": "UID-31",
-      "speaker": "",
-      "text": "Kalle, varför har du en Polly Grip i handen, när du spelar in podd?",
-      "start": "00:05:22,000",
-      "end": "00:05:27,000",
-      "duration": "5000"
-    }
+      "Speaker": "",
+      "Text": "Kalle, varför har du en Polly Grip i handen, när du spelar in podd?",
+      "Start": "00:05:22,000",
+      "End": "00:05:27,000",
+      "Duration": "5000"
+    },
     
     {
-      "i": 32,
       "UID": "UID-32",
-      "speaker": "",
-      "text": "Är det nog så här, i stället för att sitta och kludra på ett papper, så sitter jag och leker med en Polly Grip?",
-      "start": "00:05:27,000",
-      "end": "00:05:32,000",
-      "duration": "5000"
-    }
+      "Speaker": "",
+      "Text": "Är det nog så här, i stället för att sitta och kludra på ett papper, så sitter jag och leker med en Polly Grip?",
+      "Start": "00:05:27,000",
+      "End": "00:05:32,000",
+      "Duration": "5000"
+    },
     
     {
-      "i": 33,
       "UID": "UID-33",
-      "speaker": "",
-      "text": "Jag har det.",
-      "start": "00:05:32,000",
-      "end": "00:05:35,000",
-      "duration": "3000"
-    }
+      "Speaker": "",
+      "Text": "Jag har det.",
+      "Start": "00:05:32,000",
+      "End": "00:05:35,000",
+      "Duration": "3000"
+    },
     
     {
-      "i": 34,
       "UID": "UID-34",
-      "speaker": "",
-      "text": "Det låg på skrivbordet här.Du, ska vi köra lite frågor eller?",
-      "start": "00:05:35,000",
-      "end": "00:05:38,000",
-      "duration": "3000"
-    }
+      "Speaker": "",
+      "Text": "Det låg på skrivbordet här.Du, ska vi köra lite frågor eller?",
+      "Start": "00:05:35,000",
+      "End": "00:05:38,000",
+      "Duration": "3000"
+    },
     
     {
-      "i": 35,
       "UID": "UID-35",
-      "speaker": "",
-      "text": "Jag tycker att det känns lite lagom med frågor idag, faktiskt.",
-      "start": "00:05:38,000",
-      "end": "00:05:43,000",
-      "duration": "5000"
-    }
+      "Speaker": "",
+      "Text": "Jag tycker att det känns lite lagom med frågor idag, faktiskt.",
+      "Start": "00:05:38,000",
+      "End": "00:05:43,000",
+      "Duration": "5000"
+    },
     
     {
-      "i": 36,
       "UID": "UID-36",
-      "speaker": "",
-      "text": "Du, vi har ju Patreon-medlemmar, som får tillgång till vår Discord-server, där det chattas friskt om prepping och småbruk och odling och allt möjligt.",
-      "start": "00:05:43,000",
-      "end": "00:05:58,000",
-      "duration": "15000"
-    }
+      "Speaker": "",
+      "Text": "Du, vi har ju Patreon-medlemmar, som får tillgång till vår Discord-server, där det chattas friskt om prepping och småbruk och odling och allt möjligt.",
+      "Start": "00:05:43,000",
+      "End": "00:05:58,000",
+      "Duration": "15000"
+    },
     
     {
-      "i": 37,
       "UID": "UID-37",
-      "speaker": "",
-      "text": "Meningen, meningen med livet, diskuteras svårt också, just i tillfället.",
-      "start": "00:05:58,000",
-      "end": "00:06:03,000",
-      "duration": "5000"
-    }
+      "Speaker": "",
+      "Text": "Meningen, meningen med livet, diskuteras svårt också, just i tillfället.",
+      "Start": "00:05:58,000",
+      "End": "00:06:03,000",
+      "Duration": "5000"
+    },
     
     {
-      "i": 38,
       "UID": "UID-38",
-      "speaker": "",
-      "text": "Du har det småbrukan talar i onsdagsfrösten.Ja, de saknar dig, Kalle, de vill att du kommer och är med.Ja, roligt, vad berättar om, vad snackar vi om?",
-      "start": "00:06:03,000",
-      "end": "00:06:17,000",
-      "duration": "14000"
-    }
+      "Speaker": "",
+      "Text": "Du har det småbrukan talar i onsdagsfrösten.Ja, de saknar dig, Kalle, de vill att du kommer och är med.Ja, roligt, vad berättar om, vad snackar vi om?",
+      "Start": "00:06:03,000",
+      "End": "00:06:17,000",
+      "Duration": "14000"
+    },
     
     {
-      "i": 39,
       "UID": "UID-39",
-      "speaker": "",
-      "text": "Alltså, ja, det kändes som att det började hitta bra format nu, för nu tyckte jag att det var väldigt roligt på det viset, att det var flera som kom in, för det har ju det där, att vår admins då ledde ju det där, och så är det folk som vill säga någonting och ställa frågor eller diskutera något, då kommer de in i talarbordet också då, och det blev väldigt bra sist, tycker jag.",
-      "start": "00:06:17,000",
-      "end": "00:06:46,000",
-      "duration": "29000"
-    }
+      "Speaker": "",
+      "Text": "Alltså, ja, det kändes som att det började hitta bra format nu, för nu tyckte jag att det var väldigt roligt på det viset, att det var flera som kom in, för det har ju det där, att vår admins då ledde ju det där, och så är det folk som vill säga någonting och ställa frågor eller diskutera något, då kommer de in i talarbordet också då, och det blev väldigt bra sist, tycker jag.",
+      "Start": "00:06:17,000",
+      "End": "00:06:46,000",
+      "Duration": "29000"
+    },
     
     {
-      "i": 40,
       "UID": "UID-40",
-      "speaker": "",
-      "text": "Det var flera stycken som kom in där.Kul, så det var kul.Ja, det jag kommer ihåg spontant så här, det var ju, att jag blev tillfrågad om hur det gick med kaninerna, jag hade ju pratat om det där med att göra tre vägskorsningar och få upp bra produktion på det.",
-      "start": "00:06:46,000",
-      "end": "00:07:09,000",
-      "duration": "23000"
-    }
+      "Speaker": "",
+      "Text": "Det var flera stycken som kom in där.Kul, så det var kul.Ja, det jag kommer ihåg spontant så här, det var ju, att jag blev tillfrågad om hur det gick med kaninerna, jag hade ju pratat om det där med att göra tre vägskorsningar och få upp bra produktion på det.",
+      "Start": "00:06:46,000",
+      "End": "00:07:09,000",
+      "Duration": "23000"
+    },
     
     {
-      "i": 41,
       "UID": "UID-41",
-      "speaker": "",
-      "text": "Men det är ju så här, att ja, det hände ju ganska mycket, så att jag har ju fått backa på flera områden, bland annat barnbarnens scoutverksamhet, och jag har lagt ner biolins kurser, jag har sålt den sista biokrupen nu, kan du?Åh, herre gud, vilken grej.Ja, så är det, den blev beställd nu.Men biolins kurser kör vidare, får jag väl säga då.",
-      "start": "00:07:09,000",
-      "end": "00:07:36,000",
-      "duration": "27000"
-    }
+      "Speaker": "",
+      "Text": "Men det är ju så här, att ja, det hände ju ganska mycket, så att jag har ju fått backa på flera områden, bland annat barnbarnens scoutverksamhet, och jag har lagt ner biolins kurser, jag har sålt den sista biokrupen nu, kan du?Åh, herre gud, vilken grej.Ja, så är det, den blev beställd nu.Men biolins kurser kör vidare, får jag väl säga då.",
+      "Start": "00:07:09,000",
+      "End": "00:07:36,000",
+      "Duration": "27000"
+    },
     
     {
-      "i": 42,
       "UID": "UID-42",
-      "speaker": "",
-      "text": "Men i alla fall, så jag har ju fått göra det, så att jag har ett par New Zealand Red kvar, så att de är med kaninerna, men jag har inte gjort det jag tänkte göra.Det är väldigt mycket som inte är gjort som jag tänkte göra, om jag ska vara riktigt ärlig.Ja, så är det, men hon har ju att göra lista i huvudet.Ja, så är det, men det har hänt i andra saker och sånt där också.",
-      "start": "00:07:36,000",
-      "end": "00:08:05,000",
-      "duration": "29000"
-    }
+      "Speaker": "",
+      "Text": "Men i alla fall, så jag har ju fått göra det, så att jag har ett par New Zealand Red kvar, så att de är med kaninerna, men jag har inte gjort det jag tänkte göra.Det är väldigt mycket som inte är gjort som jag tänkte göra, om jag ska vara riktigt ärlig.Ja, så är det, men hon har ju att göra lista i huvudet.Ja, så är det, men det har hänt i andra saker och sånt där också.",
+      "Start": "00:07:36,000",
+      "End": "00:08:05,000",
+      "Duration": "29000"
+    },
     
     {
-      "i": 43,
       "UID": "UID-43",
-      "speaker": "",
-      "text": "Jag sa det på podd eller på småbrukan talar där att nu har jag tappat räkningen igen, men jag har några aktiebolag.",
-      "start": "00:08:05,000",
-      "end": "00:08:16,000",
-      "duration": "11000"
-    }
+      "Speaker": "",
+      "Text": "Jag sa det på podd eller på småbrukan talar där att nu har jag tappat räkningen igen, men jag har några aktiebolag.",
+      "Start": "00:08:05,000",
+      "End": "00:08:16,000",
+      "Duration": "11000"
+    },
     
     {
-      "i": 44,
       "UID": "UID-44",
-      "speaker": "",
-      "text": "För man får ju göra ett nytt bolag med olika konstellationer hela tiden, så det blir ju några tycken då.",
-      "start": "00:08:16,000",
-      "end": "00:08:22,000",
-      "duration": "6000"
-    }
+      "Speaker": "",
+      "Text": "För man får ju göra ett nytt bolag med olika konstellationer hela tiden, så det blir ju några tycken då.",
+      "Start": "00:08:16,000",
+      "End": "00:08:22,000",
+      "Duration": "6000"
+    },
     
     {
-      "i": 45,
       "UID": "UID-45",
-      "speaker": "",
-      "text": "Jaha, ja. Det är som Elon Musk.",
-      "start": "00:08:22,000",
-      "end": "00:08:28,000",
-      "duration": "6000"
-    }
+      "Speaker": "",
+      "Text": "Jaha, ja. Det är som Elon Musk.",
+      "Start": "00:08:22,000",
+      "End": "00:08:28,000",
+      "Duration": "6000"
+    },
     
     {
-      "i": 46,
       "UID": "UID-46",
-      "speaker": "",
-      "text": "Första fråga kom från Robert, han skrev så här, hej, vi småbrukar är vår bästa år, det vill säga fyra småbarn och heltidsjobb bor på myndighård.",
-      "start": "00:08:28,000",
-      "end": "00:08:48,000",
-      "duration": "20000"
-    }
+      "Speaker": "",
+      "Text": "Första fråga kom från Robert, han skrev så här, hej, vi småbrukar är vår bästa år, det vill säga fyra småbarn och heltidsjobb bor på myndighård.",
+      "Start": "00:08:28,000",
+      "End": "00:08:48,000",
+      "Duration": "20000"
+    },
     
     {
-      "i": 47,
       "UID": "UID-47",
-      "speaker": "",
-      "text": "Åh herre gull. Vi vill gärna effektivisera olingen och börjat stela på en en axlad traktor, vad ska vi tänka på?",
-      "start": "00:08:48,000",
-      "end": "00:08:55,000",
-      "duration": "7000"
-    }
+      "Speaker": "",
+      "Text": "Åh herre gull. Vi vill gärna effektivisera olingen och börjat stela på en en axlad traktor, vad ska vi tänka på?",
+      "Start": "00:08:48,000",
+      "End": "00:08:55,000",
+      "Duration": "7000"
+    },
     
     {
-      "i": 48,
       "UID": "UID-48",
-      "speaker": "",
-      "text": "Vad är egentligen skillnad mellan den gröna och den blå, är det värt det?",
-      "start": "00:08:55,000",
-      "end": "00:08:59,000",
-      "duration": "4000"
-    }
+      "Speaker": "",
+      "Text": "Vad är egentligen skillnad mellan den gröna och den blå, är det värt det?",
+      "Start": "00:08:55,000",
+      "End": "00:08:59,000",
+      "Duration": "4000"
+    },
     
     {
-      "i": 49,
       "UID": "UID-49",
-      "speaker": "",
-      "text": "Det hade ni varit inne på förut, Patrik, men det kanske är dags för repetition.",
-      "start": "00:08:59,000",
-      "end": "00:09:02,000",
-      "duration": "3000"
-    }
+      "Speaker": "",
+      "Text": "Det hade ni varit inne på förut, Patrik, men det kanske är dags för repetition.",
+      "Start": "00:08:59,000",
+      "End": "00:09:02,000",
+      "Duration": "3000"
+    },
     
     {
-      "i": 50,
       "UID": "UID-50",
-      "speaker": "",
-      "text": "Ja, det är det. Det är så här att det är ju mycket strukturomvandlingar i världen, det är ju ganska få fabriker som gör saker och ting nu för tiden, och så är det faktiskt på det här området också, så att det som skiljer BCS och Ferrari ifrån numera, det är, vad är det egentligen skillnad mellan den gröna och den blå, är det värt det?",
-      "start": "00:09:02,000",
-      "end": "00:09:24,000",
-      "duration": "22000"
-    }
+      "Speaker": "",
+      "Text": "Ja, det är det. Det är så här att det är ju mycket strukturomvandlingar i världen, det är ju ganska få fabriker som gör saker och ting nu för tiden, och så är det faktiskt på det här området också, så att det som skiljer BCS och Ferrari ifrån numera, det är, vad är det egentligen skillnad mellan den gröna och den blå, är det värt det?",
+      "Start": "00:09:02,000",
+      "End": "00:09:24,000",
+      "Duration": "22000"
+    },
     
     {
-      "i": 51,
       "UID": "UID-51",
-      "speaker": "",
-      "text": "Det är färgen på plastkåpan.",
-      "start": "00:09:24,000",
-      "end": "00:09:28,000",
-      "duration": "4000"
-    }
+      "Speaker": "",
+      "Text": "Det är färgen på plastkåpan.",
+      "Start": "00:09:24,000",
+      "End": "00:09:28,000",
+      "Duration": "4000"
+    },
     
     {
-      "i": 52,
       "UID": "UID-52",
-      "speaker": "",
-      "text": "Ja.",
-      "start": "00:09:28,000",
-      "end": "00:09:29,000",
-      "duration": "1000"
-    }
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:09:28,000",
+      "End": "00:09:29,000",
+      "Duration": "1000"
+    },
     
     {
-      "i": 53,
       "UID": "UID-53",
-      "speaker": "",
-      "text": "Så det är väl om han sätter väldigt stor värde på om den är blå eller grön då som han kan välja, men sen är det ju så att, åh, vad är det, Halland heter han, som säljer Ferrari trådigt, det är en kille som har dratt igång och importerar, ja, det gör han, han heter Halland, men det är alltså Halland, men så blir det Lant på slutet ett annat fall.",
-      "start": "00:09:29,000",
-      "end": "00:09:50,000",
-      "duration": "21000"
-    }
+      "Speaker": "",
+      "Text": "Så det är väl om han sätter väldigt stor värde på om den är blå eller grön då som han kan välja, men sen är det ju så att, åh, vad är det, Halland heter han, som säljer Ferrari trådigt, det är en kille som har dratt igång och importerar, ja, det gör han, han heter Halland, men det är alltså Halland, men så blir det Lant på slutet ett annat fall.",
+      "Start": "00:09:29,000",
+      "End": "00:09:50,000",
+      "Duration": "21000"
+    },
     
     {
-      "i": 54,
       "UID": "UID-54",
-      "speaker": "",
-      "text": "Ja, ja, som lantbruksgrej.Precis, han är ju återförsäljare av Ferrari, men då har inte han att återförsälja nät i stället, vilket kostar en del, såklart då, men å andra sidan så har han inte så mycket service- och reparatörverkstäder heller runt om i landet då, men det blir ju rejält mycket billigare maschiner, faktiskt.",
-      "start": "00:09:50,000",
-      "end": "00:10:13,000",
-      "duration": "23000"
-    }
+      "Speaker": "",
+      "Text": "Ja, ja, som lantbruksgrej.Precis, han är ju återförsäljare av Ferrari, men då har inte han att återförsälja nät i stället, vilket kostar en del, såklart då, men å andra sidan så har han inte så mycket service- och reparatörverkstäder heller runt om i landet då, men det blir ju rejält mycket billigare maschiner, faktiskt.",
+      "Start": "00:09:50,000",
+      "End": "00:10:13,000",
+      "Duration": "23000"
+    },
     
     {
-      "i": 55,
       "UID": "UID-55",
-      "speaker": "",
-      "text": "Jag tycker nog nästan att det är två tredjedelar, tre fjärdedelar av priset där.",
-      "start": "00:10:13,000",
-      "end": "00:10:21,000",
-      "duration": "8000"
-    }
+      "Speaker": "",
+      "Text": "Jag tycker nog nästan att det är två tredjedelar, tre fjärdedelar av priset där.",
+      "Start": "00:10:13,000",
+      "End": "00:10:21,000",
+      "Duration": "8000"
+    },
     
     {
-      "i": 56,
       "UID": "UID-56",
-      "speaker": "",
-      "text": "Han skulle inte äta på ett vackert området som den heter Ferrari.",
-      "start": "00:10:21,000",
-      "end": "00:10:25,000",
-      "duration": "4000"
-    }
+      "Speaker": "",
+      "Text": "Han skulle inte äta på ett vackert området som den heter Ferrari.",
+      "Start": "00:10:21,000",
+      "End": "00:10:25,000",
+      "Duration": "4000"
+    },
     
     {
-      "i": 57,
       "UID": "UID-57",
-      "speaker": "",
-      "text": "Ja, precis.",
-      "start": "00:10:25,000",
-      "end": "00:10:27,000",
-      "duration": "2000"
-    }
+      "Speaker": "",
+      "Text": "Ja, precis.",
+      "Start": "00:10:25,000",
+      "End": "00:10:27,000",
+      "Duration": "2000"
+    },
     
     {
-      "i": 58,
       "UID": "UID-58",
-      "speaker": "",
-      "text": "Det måste ju vara krångligt för, liksom, brandteam på Ferrari-bilar, att de bara, ja, sen har vi ju det här Steve Barnet, de ena aktieaktörerna.",
-      "start": "00:10:27,000",
-      "end": "00:10:39,000",
-      "duration": "12000"
-    }
+      "Speaker": "",
+      "Text": "Det måste ju vara krångligt för, liksom, brandteam på Ferrari-bilar, att de bara, ja, sen har vi ju det här Steve Barnet, de ena aktieaktörerna.",
+      "Start": "00:10:27,000",
+      "End": "00:10:39,000",
+      "Duration": "12000"
+    },
     
     {
-      "i": 59,
       "UID": "UID-59",
-      "speaker": "",
-      "text": "Ja, precis.Vi har formulatten, testarossa och de ena aktieaktörerna.Ja, precis.Så du får ju språka Ferrari?",
-      "start": "00:10:39,000",
-      "end": "00:10:50,000",
-      "duration": "11000"
-    }
+      "Speaker": "",
+      "Text": "Ja, precis.Vi har formulatten, testarossa och de ena aktieaktörerna.Ja, precis.Så du får ju språka Ferrari?",
+      "Start": "00:10:39,000",
+      "End": "00:10:50,000",
+      "Duration": "11000"
+    },
     
     {
-      "i": 60,
       "UID": "UID-60",
-      "speaker": "",
-      "text": "Alltså, det är ju bra, det beror ju, om han servar själv och såna där grejmaskinerna, det tror jag väl de flesta gör.Jag har ju, jag köpte ju en BCS för flera år sedan, 740 heter den, det är en, jag ville ju ha diesel.",
-      "start": "00:10:50,000",
-      "end": "00:11:08,000",
-      "duration": "18000"
-    }
+      "Speaker": "",
+      "Text": "Alltså, det är ju bra, det beror ju, om han servar själv och såna där grejmaskinerna, det tror jag väl de flesta gör.Jag har ju, jag köpte ju en BCS för flera år sedan, 740 heter den, det är en, jag ville ju ha diesel.",
+      "Start": "00:10:50,000",
+      "End": "00:11:08,000",
+      "Duration": "18000"
+    },
     
     {
-      "i": 61,
       "UID": "UID-61",
-      "speaker": "",
-      "text": "Förlagringsegenskapen är diesel.Ja, då kan du ha lite diesel hemma då, men sen har jag ett elverk också, med likadan motor i dem, så att det är, liksom, en helhet där, det är samma servisdelar och såna taker till dem då.",
-      "start": "00:11:08,000",
-      "end": "00:11:26,000",
-      "duration": "18000"
-    }
+      "Speaker": "",
+      "Text": "Förlagringsegenskapen är diesel.Ja, då kan du ha lite diesel hemma då, men sen har jag ett elverk också, med likadan motor i dem, så att det är, liksom, en helhet där, det är samma servisdelar och såna taker till dem då.",
+      "Start": "00:11:08,000",
+      "End": "00:11:26,000",
+      "Duration": "18000"
+    },
     
     {
-      "i": 62,
       "UID": "UID-62",
-      "speaker": "",
-      "text": "Jaså, så det kan vara en grej att tänka på.Ja, och det är ju, den är tio på tio hästkraften, den där, och då kan man ha alla redskap, men den väger en del, alltså, och jag måste väl säga så här att, jaha, det finns ju en del avsnitt inspelat om det där, just det här, jag gick och tänkte på det mycket när jag fick maskinen, hur, jag har ju kört, och visste, jag har haft såna här kultivatorer, som det kallas, som man rriver runt med, för att, ja, ja, det kan man säga.",
-      "start": "00:11:26,000",
-      "end": "00:11:55,000",
-      "duration": "29000"
-    }
+      "Speaker": "",
+      "Text": "Jaså, så det kan vara en grej att tänka på.Ja, och det är ju, den är tio på tio hästkraften, den där, och då kan man ha alla redskap, men den väger en del, alltså, och jag måste väl säga så här att, jaha, det finns ju en del avsnitt inspelat om det där, just det här, jag gick och tänkte på det mycket när jag fick maskinen, hur, jag har ju kört, och visste, jag har haft såna här kultivatorer, som det kallas, som man rriver runt med, för att, ja, ja, det kan man säga.",
+      "Start": "00:11:26,000",
+      "End": "00:11:55,000",
+      "Duration": "29000"
+    },
     
     {
-      "i": 63,
       "UID": "UID-63",
-      "speaker": "",
-      "text": "Det finns ju, ja, precis i folkmän kallas det väl för det också, men då är, de är ju lätta och smidiga, men då blev det så tydligt, just det här, hur man fick anpassa eftermaskinen, och det är ju så när man skaffar en ny maskin, speciellt en sådan tung maskin, och du ska hålla i den, alltså, det blir ju bråttning i början, alltså.",
-      "start": "00:11:55,000",
-      "end": "00:12:20,000",
-      "duration": "25000"
-    }
+      "Speaker": "",
+      "Text": "Det finns ju, ja, precis i folkmän kallas det väl för det också, men då är, de är ju lätta och smidiga, men då blev det så tydligt, just det här, hur man fick anpassa eftermaskinen, och det är ju så när man skaffar en ny maskin, speciellt en sådan tung maskin, och du ska hålla i den, alltså, det blir ju bråttning i början, alltså.",
+      "Start": "00:11:55,000",
+      "End": "00:12:20,000",
+      "Duration": "25000"
+    },
     
     {
-      "i": 64,
       "UID": "UID-64",
-      "speaker": "",
-      "text": "Oj, vad har jag köpt här, alltså, besvikelsen kommer, men sen lär man ju känna maskinen, och då blir man väldigt glad för den då, så är det, och jag är väldigt glad.",
-      "start": "00:12:20,000",
-      "end": "00:12:36,000",
-      "duration": "16000"
-    }
+      "Speaker": "",
+      "Text": "Oj, vad har jag köpt här, alltså, besvikelsen kommer, men sen lär man ju känna maskinen, och då blir man väldigt glad för den då, så är det, och jag är väldigt glad.",
+      "Start": "00:12:20,000",
+      "End": "00:12:36,000",
+      "Duration": "16000"
+    },
     
     {
-      "i": 65,
       "UID": "UID-65",
-      "speaker": "",
-      "text": "Ja, och den har lite min läningskurva, kan man säga.Ja, lite grann har han det, den är ganska låg, så det här, liksom, har en massa diken och upphöjningar och samma väg, du vill ha en slät yta, helt enkelt.Ja.När då, om du ska använda dem där, men sen är den helt fantastisk, tycker jag, till väldigt mycket saker.Och eftersom jag bad om det här förut, så tänker vi, vi kör en snabb repetition bara, vilka redskap man ska ha.",
-      "start": "00:12:36,000",
-      "end": "00:13:05,000",
-      "duration": "29000"
-    }
+      "Speaker": "",
+      "Text": "Ja, och den har lite min läningskurva, kan man säga.Ja, lite grann har han det, den är ganska låg, så det här, liksom, har en massa diken och upphöjningar och samma väg, du vill ha en slät yta, helt enkelt.Ja.När då, om du ska använda dem där, men sen är den helt fantastisk, tycker jag, till väldigt mycket saker.Och eftersom jag bad om det här förut, så tänker vi, vi kör en snabb repetition bara, vilka redskap man ska ha.",
+      "Start": "00:12:36,000",
+      "End": "00:13:05,000",
+      "Duration": "29000"
+    },
     
     {
-      "i": 66,
       "UID": "UID-66",
-      "speaker": "",
-      "text": "Alltså, det är ju redskap, alltså man får väl säga det rätt över, att Håman nu har ju gamla begagnade traktoredskap och sånt där också draget iväg, faktiskt, men.",
-      "start": "00:13:05,000",
-      "end": "00:13:17,160",
-      "duration": "12160"
-    }
+      "Speaker": "",
+      "Text": "Alltså, det är ju redskap, alltså man får väl säga det rätt över, att Håman nu har ju gamla begagnade traktoredskap och sånt där också draget iväg, faktiskt, men.",
+      "Start": "00:13:05,000",
+      "End": "00:13:17,160",
+      "Duration": "12160"
+    },
     
     {
-      "i": 67,
       "UID": "UID-67",
-      "speaker": "",
-      "text": "Däremot, det blir ju pengar, fast på andra sidan så har det ju varit mycket inflation också nu på sista tiden, tyvärr och inte lönerna hängt med då, men.",
-      "start": "00:13:17,160",
-      "end": "00:13:27,160",
-      "duration": "10000"
-    }
+      "Speaker": "",
+      "Text": "Däremot, det blir ju pengar, fast på andra sidan så har det ju varit mycket inflation också nu på sista tiden, tyvärr och inte lönerna hängt med då, men.",
+      "Start": "00:13:17,160",
+      "End": "00:13:27,160",
+      "Duration": "10000"
+    },
     
     {
-      "i": 68,
       "UID": "UID-68",
-      "speaker": "",
-      "text": "Det är rätt dyra redskap då, men jag har satsat i det, jag har inte gjort så många stora investeringar i livet då, så nu slog jag till, faktiskt, men då är det ju jordbearbetningen, det är ju grunden ändå, får man väl säga.",
-      "start": "00:13:27,160",
-      "end": "00:13:43,160",
-      "duration": "16000"
-    }
+      "Speaker": "",
+      "Text": "Det är rätt dyra redskap då, men jag har satsat i det, jag har inte gjort så många stora investeringar i livet då, så nu slog jag till, faktiskt, men då är det ju jordbearbetningen, det är ju grunden ändå, får man väl säga.",
+      "Start": "00:13:27,160",
+      "End": "00:13:43,160",
+      "Duration": "16000"
+    },
     
     {
-      "i": 69,
       "UID": "UID-69",
-      "speaker": "",
-      "text": "Och där har du ett åtta centimeter fräsaggregat, till och med större traktorerna då, också så här, att då behöver du nästan ha bearbetad jord, det är ingenting som du bryter upp no vallar eller någonting med, den klättrar upp på gräsfålen, helt enkelt.",
-      "start": "00:13:43,160",
-      "end": "00:14:07,160",
-      "duration": "24000"
-    }
+      "Speaker": "",
+      "Text": "Och där har du ett åtta centimeter fräsaggregat, till och med större traktorerna då, också så här, att då behöver du nästan ha bearbetad jord, det är ingenting som du bryter upp no vallar eller någonting med, den klättrar upp på gräsfålen, helt enkelt.",
+      "Start": "00:13:43,160",
+      "End": "00:14:07,160",
+      "Duration": "24000"
+    },
     
     {
-      "i": 70,
       "UID": "UID-70",
-      "speaker": "",
-      "text": "Och sen är jag lite så där, att jag tycker inte om att fräsa för mycket, men det är bra att ha det, om du behöver fräsa ner, just eller några sådana saker, du kan ha en rulle bakom, som du reglerar fräsdjupet med, så att du inte fräser så djupt, om man till exempel vill göra sovbäddar och sånt, och då har du en nätväld, som går bakom, och så kan du välja exakt på centimetern hur djupt du vill fräsa då, så blir det jämt.",
-      "start": "00:14:07,160",
-      "end": "00:14:31,160",
-      "duration": "24000"
-    }
+      "Speaker": "",
+      "Text": "Och sen är jag lite så där, att jag tycker inte om att fräsa för mycket, men det är bra att ha det, om du behöver fräsa ner, just eller några sådana saker, du kan ha en rulle bakom, som du reglerar fräsdjupet med, så att du inte fräser så djupt, om man till exempel vill göra sovbäddar och sånt, och då har du en nätväld, som går bakom, och så kan du välja exakt på centimetern hur djupt du vill fräsa då, så blir det jämt.",
+      "Start": "00:14:07,160",
+      "End": "00:14:31,160",
+      "Duration": "24000"
+    },
     
     {
-      "i": 71,
       "UID": "UID-71",
-      "speaker": "",
-      "text": "Och sen har du en nätväld, som går bakom, och så kan du välja exakt på centimetern hur djupt du vill fräsa då, så blir det jämt och fint och lätt tillpackat efter dem.",
-      "start": "00:14:31,160",
-      "end": "00:14:40,160",
-      "duration": "9000"
-    }
+      "Speaker": "",
+      "Text": "Och sen har du en nätväld, som går bakom, och så kan du välja exakt på centimetern hur djupt du vill fräsa då, så blir det jämt och fint och lätt tillpackat efter dem.",
+      "Start": "00:14:31,160",
+      "End": "00:14:40,160",
+      "Duration": "9000"
+    },
     
     {
-      "i": 72,
       "UID": "UID-72",
-      "speaker": "",
-      "text": "Men sen har jag en rotorplog, som är en spiral, som går ner i backen, det är som en enskäre plog, och den lägger, den kan du, det är ju den jag hade när jag hjälpte dig och gör ordning tobaxland, tror jag det var.",
-      "start": "00:14:40,160",
-      "end": "00:14:53,160",
-      "duration": "13000"
-    }
+      "Speaker": "",
+      "Text": "Men sen har jag en rotorplog, som är en spiral, som går ner i backen, det är som en enskäre plog, och den lägger, den kan du, det är ju den jag hade när jag hjälpte dig och gör ordning tobaxland, tror jag det var.",
+      "Start": "00:14:40,160",
+      "End": "00:14:53,160",
+      "Duration": "13000"
+    },
     
     {
-      "i": 73,
       "UID": "UID-73",
-      "speaker": "",
-      "text": "Varför då bröt du verkligen vall?",
-      "start": "00:14:53,160",
-      "end": "00:14:55,160",
-      "duration": "2000"
-    }
+      "Speaker": "",
+      "Text": "Varför då bröt du verkligen vall?",
+      "Start": "00:14:53,160",
+      "End": "00:14:55,160",
+      "Duration": "2000"
+    },
     
     {
-      "i": 74,
       "UID": "UID-74",
-      "speaker": "",
-      "text": "Ja, det var väl nästan, ja, som var 60-70 centimeter hög då, och ser ett fluffigt land, när man är fädig, men den kan du ju också köra upp rabatter, upphöjda bäddar, alltså för den kastar ju jorden lite i sidan, men du kan också köra ganska djupa diken med den.",
-      "start": "00:14:55,160",
-      "end": "00:15:18,160",
-      "duration": "23000"
-    }
+      "Speaker": "",
+      "Text": "Ja, det var väl nästan, ja, som var 60-70 centimeter hög då, och ser ett fluffigt land, när man är fädig, men den kan du ju också köra upp rabatter, upphöjda bäddar, alltså för den kastar ju jorden lite i sidan, men du kan också köra ganska djupa diken med den.",
+      "Start": "00:14:55,160",
+      "End": "00:15:18,160",
+      "Duration": "23000"
+    },
     
     {
-      "i": 75,
       "UID": "UID-75",
-      "speaker": "",
-      "text": "Om du vill få ner en kabel till exempel, eller en versklang eller någonting i backen en bit, du kanske grävar ner den jättejupt då, men då kör du åt ena hållet, kör tillbaka, och så kör du en gång till ner, så kommer du ner djupar och djupare med den där, kastar jorden mot sidan, så får du.",
-      "start": "00:15:18,160",
-      "end": "00:15:32,160",
-      "duration": "14000"
-    }
+      "Speaker": "",
+      "Text": "Om du vill få ner en kabel till exempel, eller en versklang eller någonting i backen en bit, du kanske grävar ner den jättejupt då, men då kör du åt ena hållet, kör tillbaka, och så kör du en gång till ner, så kommer du ner djupar och djupare med den där, kastar jorden mot sidan, så får du.",
+      "Start": "00:15:18,160",
+      "End": "00:15:32,160",
+      "Duration": "14000"
+    },
     
     {
-      "i": 76,
       "UID": "UID-76",
-      "speaker": "",
-      "text": "Kanske till exempel vill du ha en Ethernet-kabel till din P-E-kamera?",
-      "start": "00:15:32,160",
-      "end": "00:15:36,160",
-      "duration": "4000"
-    }
+      "Speaker": "",
+      "Text": "Kanske till exempel vill du ha en Ethernet-kabel till din P-E-kamera?",
+      "Start": "00:15:32,160",
+      "End": "00:15:36,160",
+      "Duration": "4000"
+    },
     
     {
-      "i": 77,
       "UID": "UID-77",
-      "speaker": "",
-      "text": "Perfekt, till det skulle jag säga, verkligen, så rotorplogen är väl, skulle jag nog säga, mitt viktigaste redskap, faktiskt, om jag fick välja ett, så är det den.",
-      "start": "00:15:36,160",
-      "end": "00:15:50,160",
-      "duration": "14000"
-    }
+      "Speaker": "",
+      "Text": "Perfekt, till det skulle jag säga, verkligen, så rotorplogen är väl, skulle jag nog säga, mitt viktigaste redskap, faktiskt, om jag fick välja ett, så är det den.",
+      "Start": "00:15:36,160",
+      "End": "00:15:50,160",
+      "Duration": "14000"
+    },
     
     {
-      "i": 78,
       "UID": "UID-78",
-      "speaker": "",
-      "text": "Fräsen är den, men sen har jag även en rotorharv, och det är en med loderäta pinnar ner, som roterar, och så har du den sådan här väld efter, så du verkligen kan reglera djupet då, den är ju, och så är det lite schaktblad på den, men jag satt den jämna till ytan väldigt mycket.",
-      "start": "00:15:50,160",
-      "end": "00:16:14,160",
-      "duration": "24000"
-    }
+      "Speaker": "",
+      "Text": "Fräsen är den, men sen har jag även en rotorharv, och det är en med loderäta pinnar ner, som roterar, och så har du den sådan här väld efter, så du verkligen kan reglera djupet då, den är ju, och så är det lite schaktblad på den, men jag satt den jämna till ytan väldigt mycket.",
+      "Start": "00:15:50,160",
+      "End": "00:16:14,160",
+      "Duration": "24000"
+    },
     
     {
-      "i": 79,
       "UID": "UID-79",
-      "speaker": "",
-      "text": "Och om du vill göra en anlägga gräsmatter hos folk, då är ju den perfekt för att få den här jämna fina gräsmattan, men den är ju också så otroligt perfekt att göra sovältsberedning i landet med, och så får du inte den här djupa bearbetningen då.",
-      "start": "00:16:14,160",
-      "end": "00:16:30,160",
-      "duration": "16000"
-    }
+      "Speaker": "",
+      "Text": "Och om du vill göra en anlägga gräsmatter hos folk, då är ju den perfekt för att få den här jämna fina gräsmattan, men den är ju också så otroligt perfekt att göra sovältsberedning i landet med, och så får du inte den här djupa bearbetningen då.",
+      "Start": "00:16:14,160",
+      "End": "00:16:30,160",
+      "Duration": "16000"
+    },
     
     {
-      "i": 80,
       "UID": "UID-80",
-      "speaker": "",
-      "text": "Okej.Så den är, ja, i och med att den kör då lodlätra fingrar, som sticker ner, som bara rör om med jorden och inte kastar runt den, som du gör med en fräs eller kultivator då, just det, så det har jag gjort med arbetet.Lite som en bred grep.",
-      "start": "00:16:30,160",
-      "end": "00:16:49,160",
-      "duration": "19000"
-    }
+      "Speaker": "",
+      "Text": "Okej.Så den är, ja, i och med att den kör då lodlätra fingrar, som sticker ner, som bara rör om med jorden och inte kastar runt den, som du gör med en fräs eller kultivator då, just det, så det har jag gjort med arbetet.Lite som en bred grep.",
+      "Start": "00:16:30,160",
+      "End": "00:16:49,160",
+      "Duration": "19000"
+    },
     
     {
-      "i": 81,
       "UID": "UID-81",
-      "speaker": "",
-      "text": "Ja, för det har sig skulle man nog kanske kunna säga lite grann då, fast de är helt lodlätta och roterar runt då, men sen finns det ju då kupplogar och såna saker också, de redskapen är ju inte särskilt dyra då.",
-      "start": "00:16:49,160",
-      "end": "00:17:04,160",
-      "duration": "15000"
-    }
+      "Speaker": "",
+      "Text": "Ja, för det har sig skulle man nog kanske kunna säga lite grann då, fast de är helt lodlätta och roterar runt då, men sen finns det ju då kupplogar och såna saker också, de redskapen är ju inte särskilt dyra då.",
+      "Start": "00:16:49,160",
+      "End": "00:17:04,160",
+      "Duration": "15000"
+    },
     
     {
-      "i": 82,
       "UID": "UID-82",
-      "speaker": "",
-      "text": "Okej.Men då vill du tå lite tyngd i maskinen, jag har ju en av de tyngsta, det finns någon som är ännu tyngre, men jag tycker ändå att, det får inte vara för tung jord, om man ska räcka till där alltså.",
-      "start": "00:17:04,160",
-      "end": "00:17:18,160",
-      "duration": "14000"
-    }
+      "Speaker": "",
+      "Text": "Okej.Men då vill du tå lite tyngd i maskinen, jag har ju en av de tyngsta, det finns någon som är ännu tyngre, men jag tycker ändå att, det får inte vara för tung jord, om man ska räcka till där alltså.",
+      "Start": "00:17:04,160",
+      "End": "00:17:18,160",
+      "Duration": "14000"
+    },
     
     {
-      "i": 83,
       "UID": "UID-83",
-      "speaker": "",
-      "text": "Så är det, så även om det är en stor, man får fundera lite på vad det är man ska göra, är det mycket jordbearbetning och sånt, och ska man nog ha en av de här större maskinerna i så fall?",
-      "start": "00:17:18,160",
-      "end": "00:17:32,160",
-      "duration": "14000"
-    }
+      "Speaker": "",
+      "Text": "Så är det, så även om det är en stor, man får fundera lite på vad det är man ska göra, är det mycket jordbearbetning och sånt, och ska man nog ha en av de här större maskinerna i så fall?",
+      "Start": "00:17:18,160",
+      "End": "00:17:32,160",
+      "Duration": "14000"
+    },
     
     {
-      "i": 84,
       "UID": "UID-84",
-      "speaker": "",
-      "text": "Det låter ju som att det är mest jordenbearbetning, du håller på med med den maskinerna.",
-      "start": "00:17:32,160",
-      "end": "00:17:36,160",
-      "duration": "4000"
-    }
+      "Speaker": "",
+      "Text": "Det låter ju som att det är mest jordenbearbetning, du håller på med med den maskinerna.",
+      "Start": "00:17:32,160",
+      "End": "00:17:36,160",
+      "Duration": "4000"
+    },
     
     {
-      "i": 85,
       "UID": "UID-85",
-      "speaker": "",
-      "text": "Ja, men sen har jag ju, det var det jag tänkte vara så här, jordbearbetning och sen vill jag ha potatis linje, maskin linje och till hö.",
-      "start": "00:17:36,160",
-      "end": "00:17:49,160",
-      "duration": "13000"
-    }
+      "Speaker": "",
+      "Text": "Ja, men sen har jag ju, det var det jag tänkte vara så här, jordbearbetning och sen vill jag ha potatis linje, maskin linje och till hö.",
+      "Start": "00:17:36,160",
+      "End": "00:17:49,160",
+      "Duration": "13000"
+    },
     
     {
-      "i": 86,
       "UID": "UID-86",
-      "speaker": "",
-      "text": "Och hö det har jag ju fått ta lite successivt, så där har jag en slottebalk, en vanlig slottebalk, jag tror min är en och trettifem bred, det finns ganska breda till de här också.",
-      "start": "00:17:49,160",
-      "end": "00:18:03,160",
-      "duration": "14000"
-    }
+      "Speaker": "",
+      "Text": "Och hö det har jag ju fått ta lite successivt, så där har jag en slottebalk, en vanlig slottebalk, jag tror min är en och trettifem bred, det finns ganska breda till de här också.",
+      "Start": "00:17:49,160",
+      "End": "00:18:03,160",
+      "Duration": "14000"
+    },
     
     {
-      "i": 87,
       "UID": "UID-87",
-      "speaker": "",
-      "text": "Jävlar!Ja, för att slå gräs med då, och sen har jag faktiskt en gaffelsidreffsa också, det är en sådan här gammal hövändare, vet han satt vad som sprätter åt sidan, och vill du stränglägga så fäller du ner en arm då som tar emotåt och lägger en sträng där.",
-      "start": "00:18:03,160",
-      "end": "00:18:23,160",
-      "duration": "20000"
-    }
+      "Speaker": "",
+      "Text": "Jävlar!Ja, för att slå gräs med då, och sen har jag faktiskt en gaffelsidreffsa också, det är en sådan här gammal hövändare, vet han satt vad som sprätter åt sidan, och vill du stränglägga så fäller du ner en arm då som tar emotåt och lägger en sträng där.",
+      "Start": "00:18:03,160",
+      "End": "00:18:23,160",
+      "Duration": "20000"
+    },
     
     {
-      "i": 88,
       "UID": "UID-88",
-      "speaker": "",
-      "text": "Och sen har jag även en hög gaffel till den då, Buck Rake heter det på engelska.Vad är den?",
-      "start": "00:18:23,160",
-      "end": "00:18:32,160",
-      "duration": "9000"
-    }
+      "Speaker": "",
+      "Text": "Och sen har jag även en hög gaffel till den då, Buck Rake heter det på engelska.Vad är den?",
+      "Start": "00:18:23,160",
+      "End": "00:18:32,160",
+      "Duration": "9000"
+    },
     
     {
-      "i": 89,
       "UID": "UID-89",
-      "speaker": "",
-      "text": "Det är en, vad ska jag säga, du har rör som går framåt, piggar, och sen är det nittio grader upp då med en, som en rygg, så du kan alltså köra, när om du har gjort stränglaggt högt, så kan du köra längs med de är stränglagda och köra ihop i högar, helt enkelt, och även köra iväg med ett reellt lassenbita.",
-      "start": "00:18:32,160",
-      "end": "00:19:00,160",
-      "duration": "28000"
-    }
+      "Speaker": "",
+      "Text": "Det är en, vad ska jag säga, du har rör som går framåt, piggar, och sen är det nittio grader upp då med en, som en rygg, så du kan alltså köra, när om du har gjort stränglaggt högt, så kan du köra längs med de är stränglagda och köra ihop i högar, helt enkelt, och även köra iväg med ett reellt lassenbita.",
+      "Start": "00:18:32,160",
+      "End": "00:19:00,160",
+      "Duration": "28000"
+    },
     
     {
-      "i": 90,
       "UID": "UID-90",
-      "speaker": "",
-      "text": "Johan var vad som skrev frågan, han undrade också, Robert, förlåt, Robert skrivde så här, är det värt det?",
-      "start": "00:19:00,160",
-      "end": "00:19:06,720",
-      "duration": "6560"
-    }
+      "Speaker": "",
+      "Text": "Johan var vad som skrev frågan, han undrade också, Robert, förlåt, Robert skrivde så här, är det värt det?",
+      "Start": "00:19:00,160",
+      "End": "00:19:06,720",
+      "Duration": "6560"
+    },
     
     {
-      "i": 91,
       "UID": "UID-91",
-      "speaker": "",
-      "text": "Ja, alltså, det är ju, det är faktiskt ett frågetecken där, för jag tycker att det är mycket pengar, det beror på vad man har för alternativ.",
-      "start": "00:19:06,720",
-      "end": "00:19:16,920",
-      "duration": "10200"
-    }
+      "Speaker": "",
+      "Text": "Ja, alltså, det är ju, det är faktiskt ett frågetecken där, för jag tycker att det är mycket pengar, det beror på vad man har för alternativ.",
+      "Start": "00:19:06,720",
+      "End": "00:19:16,920",
+      "Duration": "10200"
+    },
     
     {
-      "i": 92,
       "UID": "UID-92",
-      "speaker": "",
-      "text": "Men jag ska väl också säga, vad jag har i potatislinjen också då, då finns det, om man har sett gamla potatissättar från hästiden, då man körde med hästar,",
-      "start": "00:19:16,920",
-      "end": "00:19:29,920",
-      "duration": "13000"
-    }
+      "Speaker": "",
+      "Text": "Men jag ska väl också säga, vad jag har i potatislinjen också då, då finns det, om man har sett gamla potatissättar från hästiden, då man körde med hästar,",
+      "Start": "00:19:16,920",
+      "End": "00:19:29,920",
+      "Duration": "13000"
+    },
     
     {
-      "i": 93,
       "UID": "UID-93",
-      "speaker": "",
-      "text": "och hade enradiga potatissättare, då är det en behållare, och så är det ett band, som tar en potatis åt gången, och så är det en kupplog, och så lägger den ner potatisarna på rätt avstånd, och så är det två tallviker, sen, som kupar över då, va?",
-      "start": "00:19:29,920",
-      "end": "00:19:46,160",
-      "duration": "16240"
-    }
+      "Speaker": "",
+      "Text": "och hade enradiga potatissättare, då är det en behållare, och så är det ett band, som tar en potatis åt gången, och så är det en kupplog, och så lägger den ner potatisarna på rätt avstånd, och så är det två tallviker, sen, som kupar över då, va?",
+      "Start": "00:19:29,920",
+      "End": "00:19:46,160",
+      "Duration": "16240"
+    },
     
     {
-      "i": 94,
       "UID": "UID-94",
-      "speaker": "",
-      "text": "Så en sådan har jag, och dessutom så har jag, när jag började så hade jag en, en speciell kupplog med fingrar, som gör att du kupar upp potatisen, du kör under potatisraden, och så, men då måste du verkligen ha tagit bort blasten i tid och sådana grejer, för att det ska funka bra, men då lägger sig potatisarna, kupar upp dem, så lägger potatisarna sig på backen då.",
-      "start": "00:19:46,160",
-      "end": "00:20:14,160",
-      "duration": "28000"
-    }
+      "Speaker": "",
+      "Text": "Så en sådan har jag, och dessutom så har jag, när jag började så hade jag en, en speciell kupplog med fingrar, som gör att du kupar upp potatisen, du kör under potatisraden, och så, men då måste du verkligen ha tagit bort blasten i tid och sådana grejer, för att det ska funka bra, men då lägger sig potatisarna, kupar upp dem, så lägger potatisarna sig på backen då.",
+      "Start": "00:19:46,160",
+      "End": "00:20:14,160",
+      "Duration": "28000"
+    },
     
     {
-      "i": 95,
       "UID": "UID-95",
-      "speaker": "",
-      "text": "Men då har jag även en mekanisk potatisupptagare då som du kör i och som skakar och som har sådana här fingrar, kan vi säga då, så att jord och sånt rillar ner.",
-      "start": "00:20:14,160",
-      "end": "00:20:26,160",
-      "duration": "12000"
-    }
+      "Speaker": "",
+      "Text": "Men då har jag även en mekanisk potatisupptagare då som du kör i och som skakar och som har sådana här fingrar, kan vi säga då, så att jord och sånt rillar ner.",
+      "Start": "00:20:14,160",
+      "End": "00:20:26,160",
+      "Duration": "12000"
+    },
     
     {
-      "i": 96,
       "UID": "UID-96",
-      "speaker": "",
-      "text": "Men sten och potatis samlar på på mark ytan då, det är ju liksom nästa steg efter hacka, kan man säga då, eller ja, efter kruplogen.",
-      "start": "00:20:26,160",
-      "end": "00:20:35,560",
-      "duration": "9400"
-    }
+      "Speaker": "",
+      "Text": "Men sten och potatis samlar på på mark ytan då, det är ju liksom nästa steg efter hacka, kan man säga då, eller ja, efter kruplogen.",
+      "Start": "00:20:26,160",
+      "End": "00:20:35,560",
+      "Duration": "9400"
+    },
     
     {
-      "i": 97,
       "UID": "UID-97",
-      "speaker": "",
-      "text": "Så det går att odla hyfsat mycket potatis, men det blir ju inte, går ju inte, det är inte lika effektivt som på stora potatisupptagarna, det är långt bort i dem, kan jag väl säga, så att det är ingen sådan lönsam, utan det är ju, jag tror att man får det göra sig inte, men sten och potatis samlar på på på mark ytan då, det är ju liksom nästa steg efter hacka, kan man säga då, eller ja, efter kruplogen.",
-      "start": "00:20:35,560",
-      "end": "00:20:35,560",
-      "duration": "0"
-    }
+      "Speaker": "",
+      "Text": "Så det går att odla hyfsat mycket potatis, men det blir ju inte, går ju inte, det är inte lika effektivt som på stora potatisupptagarna, det är långt bort i dem, kan jag väl säga, så att det är ingen sådan lönsam, utan det är ju, jag tror att man får det göra sig inte, men sten och potatis samlar på på på mark ytan då, det är ju liksom nästa steg efter hacka, kan man säga då, eller ja, efter kruplogen.",
+      "Start": "00:20:35,560",
+      "End": "00:20:35,560",
+      "Duration": "0"
+    },
     
     {
-      "i": 98,
       "UID": "UID-98",
-      "speaker": "",
-      "text": "Så det går att odla hyfsat mycket potatis, men det blir ju inte, går ju inte, det är inte lika effektivt som på stora potatisupptagarna, det är långt bort i dem, kan jag väl säga, så att det är ingen sådan lönsam, utan det är ju, jag tror att man får det göra sig här, om man ska ha sådana där grejer, så får man faktiskt lägga mycket på beredskapskontot, helt enkelt.",
-      "start": "00:20:35,560",
-      "end": "00:21:03,800",
-      "duration": "28240"
-    }
+      "Speaker": "",
+      "Text": "Så det går att odla hyfsat mycket potatis, men det blir ju inte, går ju inte, det är inte lika effektivt som på stora potatisupptagarna, det är långt bort i dem, kan jag väl säga, så att det är ingen sådan lönsam, utan det är ju, jag tror att man får det göra sig här, om man ska ha sådana där grejer, så får man faktiskt lägga mycket på beredskapskontot, helt enkelt.",
+      "Start": "00:20:35,560",
+      "End": "00:21:03,800",
+      "Duration": "28240"
+    },
     
     {
-      "i": 99,
       "UID": "UID-99",
-      "speaker": "",
-      "text": "För där har du ju just det här, att de här maskinerna, det är en transmission och en motor, i princip, med handtag.",
-      "start": "00:21:03,800",
-      "end": "00:21:12,360",
-      "duration": "8560"
-    }
+      "Speaker": "",
+      "Text": "För där har du ju just det här, att de här maskinerna, det är en transmission och en motor, i princip, med handtag.",
+      "Start": "00:21:03,800",
+      "End": "00:21:12,360",
+      "Duration": "8560"
+    },
     
     {
-      "i": 100,
       "UID": "UID-100",
-      "speaker": "",
-      "text": "Alltså du har ingen extra last, ingenting, så det är ju oerhörd, och så är det fina motorer då, det är ju jannemar, diesel i dem, och det är ju bland de finaste dieslarna som finns, små dieslar alltså, så att de är ju otroligt energieffektiva då, alltså dra lite bränsle, så är det.",
-      "start": "00:21:12,360",
-      "end": "00:21:36,760",
-      "duration": "24400"
-    }
+      "Speaker": "",
+      "Text": "Alltså du har ingen extra last, ingenting, så det är ju oerhörd, och så är det fina motorer då, det är ju jannemar, diesel i dem, och det är ju bland de finaste dieslarna som finns, små dieslar alltså, så att de är ju otroligt energieffektiva då, alltså dra lite bränsle, så är det.",
+      "Start": "00:21:12,360",
+      "End": "00:21:36,760",
+      "Duration": "24400"
+    },
     
     {
-      "i": 101,
       "UID": "UID-101",
-      "speaker": "",
-      "text": "Så på det sättet så är de ju, man får nog mycket god vilja lägga till mycket på beredskapskontot.",
-      "start": "00:21:36,760",
-      "end": "00:21:44,920",
-      "duration": "8160"
-    }
+      "Speaker": "",
+      "Text": "Så på det sättet så är de ju, man får nog mycket god vilja lägga till mycket på beredskapskontot.",
+      "Start": "00:21:36,760",
+      "End": "00:21:44,920",
+      "Duration": "8160"
+    },
     
     {
-      "i": 102,
       "UID": "UID-102",
-      "speaker": "",
-      "text": "Ja, det är liksom en dyr investering, men man har också glädje av den.",
-      "start": "00:21:44,920",
-      "end": "00:21:48,680",
-      "duration": "3760"
-    }
+      "Speaker": "",
+      "Text": "Ja, det är liksom en dyr investering, men man har också glädje av den.",
+      "Start": "00:21:44,920",
+      "End": "00:21:48,680",
+      "Duration": "3760"
+    },
     
     {
-      "i": 103,
       "UID": "UID-103",
-      "speaker": "",
-      "text": "Ja, det är det som jag skulle vilja ha till också, det är ju faktiskt en valpress, och då är det en rundval-press faktiskt, men den gör rundvalar som väger typ trettio, fyrtio kilo.",
-      "start": "00:21:48,680",
-      "end": "00:22:04,920",
-      "duration": "16240"
-    }
+      "Speaker": "",
+      "Text": "Ja, det är det som jag skulle vilja ha till också, det är ju faktiskt en valpress, och då är det en rundval-press faktiskt, men den gör rundvalar som väger typ trettio, fyrtio kilo.",
+      "Start": "00:21:48,680",
+      "End": "00:22:04,920",
+      "Duration": "16240"
+    },
     
     {
-      "i": 104,
       "UID": "UID-104",
-      "speaker": "",
-      "text": "Ja, det är ju det, du vet du åker ut med en fyrhjuliga traktorn, så kallade dacia-dusten, på en väbkläppkärra, och lastar upp de här balarna då, men, men det är ju så, jag brukar ta den liknelsen när, när jag, vi har liekurser när vi går med liarna där och härsar och torkar och går med hörefter alltså på lägsta basic-nivån då, på småbrukakursen.",
-      "start": "00:22:04,920",
-      "end": "00:22:34,120",
-      "duration": "29200"
-    }
+      "Speaker": "",
+      "Text": "Ja, det är ju det, du vet du åker ut med en fyrhjuliga traktorn, så kallade dacia-dusten, på en väbkläppkärra, och lastar upp de här balarna då, men, men det är ju så, jag brukar ta den liknelsen när, när jag, vi har liekurser när vi går med liarna där och härsar och torkar och går med hörefter alltså på lägsta basic-nivån då, på småbrukakursen.",
+      "Start": "00:22:04,920",
+      "End": "00:22:34,120",
+      "Duration": "29200"
+    },
     
     {
-      "i": 105,
       "UID": "UID-105",
-      "speaker": "",
-      "text": "Den ligger också ute, för resten, och det finns platser kvar där.",
-      "start": "00:22:34,120",
-      "end": "00:22:37,720",
-      "duration": "3600"
-    }
+      "Speaker": "",
+      "Text": "Den ligger också ute, för resten, och det finns platser kvar där.",
+      "Start": "00:22:34,120",
+      "End": "00:22:37,720",
+      "Duration": "3600"
+    },
     
     {
-      "i": 106,
       "UID": "UID-106",
-      "speaker": "",
-      "text": "Kul.",
-      "start": "00:22:37,720",
-      "end": "00:22:38,520",
-      "duration": "800"
-    }
+      "Speaker": "",
+      "Text": "Kul.",
+      "Start": "00:22:37,720",
+      "End": "00:22:38,520",
+      "Duration": "800"
+    },
     
     {
-      "i": 107,
       "UID": "UID-107",
-      "speaker": "",
-      "text": "Ja, ja, det blev, det är väldigt roligt, faktiskt, ska jag säga, det är bland det roligast jag har gjort det, men då berättar jag ju, liksom, om det här moderna jordbruket med deras slåttaraggregat och så vidare när de kör, va, som gör att Höt faktiskt, relativt sett, är väldigt billigt fortfarande då, va, om du köper stor balar och sånt där, och jag anser Lars och så.",
-      "start": "00:22:38,520",
-      "end": "00:23:03,320",
-      "duration": "24800"
-    }
+      "Speaker": "",
+      "Text": "Ja, ja, det blev, det är väldigt roligt, faktiskt, ska jag säga, det är bland det roligast jag har gjort det, men då berättar jag ju, liksom, om det här moderna jordbruket med deras slåttaraggregat och så vidare när de kör, va, som gör att Höt faktiskt, relativt sett, är väldigt billigt fortfarande då, va, om du köper stor balar och sånt där, och jag anser Lars och så.",
+      "Start": "00:22:38,520",
+      "End": "00:23:03,320",
+      "Duration": "24800"
+    },
     
     {
-      "i": 108,
       "UID": "UID-108",
-      "speaker": "",
-      "text": "Det finns en anledning till det och, liksom, han är ju inte i närheten där, utan du har möjlighet att producera mycket hög, helt enkelt, jämfört med om du inte har maskiner, så är det.",
-      "start": "00:23:03,320",
-      "end": "00:23:17,320",
-      "duration": "14000"
-    }
+      "Speaker": "",
+      "Text": "Det finns en anledning till det och, liksom, han är ju inte i närheten där, utan du har möjlighet att producera mycket hög, helt enkelt, jämfört med om du inte har maskiner, så är det.",
+      "Start": "00:23:03,320",
+      "End": "00:23:17,320",
+      "Duration": "14000"
+    },
     
     {
-      "i": 109,
       "UID": "UID-109",
-      "speaker": "",
-      "text": "Ja, okej, så Robert får bestämmelser för vad man tycker att det är värt det.",
-      "start": "00:23:17,320",
-      "end": "00:23:21,320",
-      "duration": "4000"
-    }
+      "Speaker": "",
+      "Text": "Ja, okej, så Robert får bestämmelser för vad man tycker att det är värt det.",
+      "Start": "00:23:17,320",
+      "End": "00:23:21,320",
+      "Duration": "4000"
+    },
     
     {
-      "i": 110,
       "UID": "UID-110",
-      "speaker": "",
-      "text": "Ja, jag får väl säga så här, att för mig är det så här nu när jag fyller ju 60 år i år, och jag håller ju på med det här, och jag, det känns ju väldigt bra att ha den där maskinen, och vet att man har hjälp av den, när man åldrar sig ännu, för jordbearbetning och sånt där, och man odlar lite större ytor, och sen har jag ju möjlighet att åka och hjälpa folk också, och ta upp land i gamla vallar och sånt där.",
-      "start": "00:23:21,320",
-      "end": "00:23:46,320",
-      "duration": "25000"
-    }
+      "Speaker": "",
+      "Text": "Ja, jag får väl säga så här, att för mig är det så här nu när jag fyller ju 60 år i år, och jag håller ju på med det här, och jag, det känns ju väldigt bra att ha den där maskinen, och vet att man har hjälp av den, när man åldrar sig ännu, för jordbearbetning och sånt där, och man odlar lite större ytor, och sen har jag ju möjlighet att åka och hjälpa folk också, och ta upp land i gamla vallar och sånt där.",
+      "Start": "00:23:21,320",
+      "End": "00:23:46,320",
+      "Duration": "25000"
+    },
     
     {
-      "i": 111,
       "UID": "UID-111",
-      "speaker": "",
-      "text": "Ja, för det var det jag tänkte så här, om man bara ska göra hemåt sig själv, då känns det som att det är, liksom, lite mycket pengar för det.",
-      "start": "00:23:46,320",
-      "end": "00:23:56,320",
-      "duration": "10000"
-    }
+      "Speaker": "",
+      "Text": "Ja, för det var det jag tänkte så här, om man bara ska göra hemåt sig själv, då känns det som att det är, liksom, lite mycket pengar för det.",
+      "Start": "00:23:46,320",
+      "End": "00:23:56,320",
+      "Duration": "10000"
+    },
     
     {
-      "i": 112,
       "UID": "UID-112",
-      "speaker": "",
-      "text": "Ja, det är det, men då är det ju, ja, precis, det är ju en sådan, man kan ju göra en förening och gå ihop och köpa en eller ha den, på annat sätt, men det brukar oftast vara bra, att det är en som äger.",
-      "start": "00:23:56,320",
-      "end": "00:24:10,320",
-      "duration": "14000"
-    }
+      "Speaker": "",
+      "Text": "Ja, det är det, men då är det ju, ja, precis, det är ju en sådan, man kan ju göra en förening och gå ihop och köpa en eller ha den, på annat sätt, men det brukar oftast vara bra, att det är en som äger.",
+      "Start": "00:23:56,320",
+      "End": "00:24:10,320",
+      "Duration": "14000"
+    },
     
     {
-      "i": 113,
       "UID": "UID-113",
-      "speaker": "",
-      "text": "Ja, och så får folk hyra in den.",
-      "start": "00:24:10,320",
-      "end": "00:24:12,320",
-      "duration": "2000"
-    }
+      "Speaker": "",
+      "Text": "Ja, och så får folk hyra in den.",
+      "Start": "00:24:10,320",
+      "End": "00:24:12,320",
+      "Duration": "2000"
+    },
     
     {
-      "i": 114,
       "UID": "UID-114",
-      "speaker": "",
-      "text": "Exakt, exakt.",
-      "start": "00:24:12,320",
-      "end": "00:24:15,320",
-      "duration": "3000"
-    }
+      "Speaker": "",
+      "Text": "Exakt, exakt.",
+      "Start": "00:24:12,320",
+      "End": "00:24:15,320",
+      "Duration": "3000"
+    },
     
     {
-      "i": 115,
       "UID": "UID-115",
-      "speaker": "",
-      "text": "Du får betala en annan fråga också, han är i stugan på att skapa tunnelväxthus för odling och förvara hönsen där på vintern, funkar det?",
-      "start": "00:24:15,320",
-      "end": "00:24:22,320",
-      "duration": "7000"
-    }
+      "Speaker": "",
+      "Text": "Du får betala en annan fråga också, han är i stugan på att skapa tunnelväxthus för odling och förvara hönsen där på vintern, funkar det?",
+      "Start": "00:24:15,320",
+      "End": "00:24:22,320",
+      "Duration": "7000"
+    },
     
     {
-      "i": 116,
       "UID": "UID-116",
-      "speaker": "",
-      "text": "Ja, det går jättebra, det som man kan säga så här då, det är, att man får ordna med ventilation bra.",
-      "start": "00:24:22,320",
-      "end": "00:24:33,320",
-      "duration": "11000"
-    }
+      "Speaker": "",
+      "Text": "Ja, det går jättebra, det som man kan säga så här då, det är, att man får ordna med ventilation bra.",
+      "Start": "00:24:22,320",
+      "End": "00:24:33,320",
+      "Duration": "11000"
+    },
     
     {
-      "i": 117,
       "UID": "UID-117",
-      "speaker": "",
-      "text": "Jag har själv då, det är ju dörrar i gamlarna, och det är ju det man får använda, och sen så fort solen börjar ligga på så blir det väldigt varmt i växthuset på vår vår vintern, så där, vad som nu kan det bli det, det är jätteskönt att gå in i växthuset och sköta hönerna igen, men då har jag så att jag öppnar dörrarna i båda ändarna.",
-      "start": "00:24:33,320",
-      "end": "00:25:00,320",
-      "duration": "27000"
-    }
+      "Speaker": "",
+      "Text": "Jag har själv då, det är ju dörrar i gamlarna, och det är ju det man får använda, och sen så fort solen börjar ligga på så blir det väldigt varmt i växthuset på vår vår vintern, så där, vad som nu kan det bli det, det är jätteskönt att gå in i växthuset och sköta hönerna igen, men då har jag så att jag öppnar dörrarna i båda ändarna.",
+      "Start": "00:24:33,320",
+      "End": "00:25:00,320",
+      "Duration": "27000"
+    },
     
     {
-      "i": 118,
       "UID": "UID-118",
-      "speaker": "",
-      "text": "Och ställer på något nät, eller hur?",
-      "start": "00:25:00,320",
-      "end": "00:25:03,320",
-      "duration": "3000"
-    }
+      "Speaker": "",
+      "Text": "Och ställer på något nät, eller hur?",
+      "Start": "00:25:00,320",
+      "End": "00:25:03,320",
+      "Duration": "3000"
+    },
     
     {
-      "i": 119,
       "UID": "UID-119",
-      "speaker": "",
-      "text": "Ja, jag har gjort så här, att jag har satt ett femtio, hundra nät, alltså du vet, typ kompostgallrar, maskor, och så har jag satt fast det i dörren, och så det går liksom att vika längs med dörren, men sen om jag öppnar dörren och lägger en sten utanför, så kan jag fälla ut det här nätet, så är det typ en halv meter uppning där, va?",
-      "start": "00:25:03,320",
-      "end": "00:25:26,320",
-      "duration": "23000"
-    }
+      "Speaker": "",
+      "Text": "Ja, jag har gjort så här, att jag har satt ett femtio, hundra nät, alltså du vet, typ kompostgallrar, maskor, och så har jag satt fast det i dörren, och så det går liksom att vika längs med dörren, men sen om jag öppnar dörren och lägger en sten utanför, så kan jag fälla ut det här nätet, så är det typ en halv meter uppning där, va?",
+      "Start": "00:25:03,320",
+      "End": "00:25:26,320",
+      "Duration": "23000"
+    },
     
     {
-      "i": 120,
       "UID": "UID-120",
-      "speaker": "",
-      "text": "Ja, men snyggt.",
-      "start": "00:25:26,320",
-      "end": "00:25:27,320",
-      "duration": "1000"
-    }
+      "Speaker": "",
+      "Text": "Ja, men snyggt.",
+      "Start": "00:25:26,320",
+      "End": "00:25:27,320",
+      "Duration": "1000"
+    },
     
     {
-      "i": 121,
       "UID": "UID-121",
-      "speaker": "",
-      "text": "Och det är både värme, men man ska också tänka fukt, det blir lättfuktigt där inne, om du har lite mer djur, det beror ju på hur mycket djur du har och ett stort växthus du har och så vidare, jag ska nog säga, ska man ha djur i växthuset så, så kanske man ska ha en hyfsad volym i alla fall, så att det inte blir för snabba temperaturförändringar då.",
-      "start": "00:25:27,320",
-      "end": "00:25:51,320",
-      "duration": "24000"
-    }
+      "Speaker": "",
+      "Text": "Och det är både värme, men man ska också tänka fukt, det blir lättfuktigt där inne, om du har lite mer djur, det beror ju på hur mycket djur du har och ett stort växthus du har och så vidare, jag ska nog säga, ska man ha djur i växthuset så, så kanske man ska ha en hyfsad volym i alla fall, så att det inte blir för snabba temperaturförändringar då.",
+      "Start": "00:25:27,320",
+      "End": "00:25:51,320",
+      "Duration": "24000"
+    },
     
     {
-      "i": 122,
       "UID": "UID-122",
-      "speaker": "",
-      "text": "Gusten.",
-      "start": "00:25:51,320",
-      "end": "00:25:52,320",
-      "duration": "1000"
-    }
+      "Speaker": "",
+      "Text": "Gusten.",
+      "Start": "00:25:51,320",
+      "End": "00:25:52,320",
+      "Duration": "1000"
+    },
     
     {
-      "i": 123,
       "UID": "UID-123",
-      "speaker": "",
-      "text": "Men ventilationen är det som man behöver se över då, och sen, ja, man måste ju ha reden och sippbinnar och sånt där som är förutbara, som man kan ha i växthuset också då.",
-      "start": "00:25:52,320",
-      "end": "00:26:07,320",
-      "duration": "15000"
-    }
+      "Speaker": "",
+      "Text": "Men ventilationen är det som man behöver se över då, och sen, ja, man måste ju ha reden och sippbinnar och sånt där som är förutbara, som man kan ha i växthuset också då.",
+      "Start": "00:25:52,320",
+      "End": "00:26:07,320",
+      "Duration": "15000"
+    },
     
     {
-      "i": 124,
       "UID": "UID-124",
-      "speaker": "",
-      "text": "Ja, jag har mina ankor i mitt växthus, och det funkar bra, men det föras också till nästa fråga som Robert har, han undrar hur skydde man djuren från rovdjur?",
-      "start": "00:26:07,320",
-      "end": "00:26:20,320",
-      "duration": "13000"
-    }
+      "Speaker": "",
+      "Text": "Ja, jag har mina ankor i mitt växthus, och det funkar bra, men det föras också till nästa fråga som Robert har, han undrar hur skydde man djuren från rovdjur?",
+      "Start": "00:26:07,320",
+      "End": "00:26:20,320",
+      "Duration": "13000"
+    },
     
     {
-      "i": 125,
       "UID": "UID-125",
-      "speaker": "",
-      "text": "Ja.",
-      "start": "00:26:20,320",
-      "end": "00:26:22,320",
-      "duration": "2000"
-    }
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:26:20,320",
+      "End": "00:26:22,320",
+      "Duration": "2000"
+    },
     
     {
-      "i": 126,
       "UID": "UID-126",
-      "speaker": "",
-      "text": "Och då har jag sett att drävarna för att gräva sig in under en av dörrarna på gavlarna, men den har inte lyckats, för att jag har, vad heter det, markduk, med ett tunt lager träflis på.",
-      "start": "00:26:22,320",
-      "end": "00:26:36,320",
-      "duration": "14000"
-    }
+      "Speaker": "",
+      "Text": "Och då har jag sett att drävarna för att gräva sig in under en av dörrarna på gavlarna, men den har inte lyckats, för att jag har, vad heter det, markduk, med ett tunt lager träflis på.",
+      "Start": "00:26:22,320",
+      "End": "00:26:36,320",
+      "Duration": "14000"
+    },
     
     {
-      "i": 127,
       "UID": "UID-127",
-      "speaker": "",
-      "text": "Så man får tänka ut något smart för vad man har för underlag i skarven mellan växthus och mark helt enkelt.",
-      "start": "00:26:36,320",
-      "end": "00:26:44,320",
-      "duration": "8000"
-    }
+      "Speaker": "",
+      "Text": "Så man får tänka ut något smart för vad man har för underlag i skarven mellan växthus och mark helt enkelt.",
+      "Start": "00:26:36,320",
+      "End": "00:26:44,320",
+      "Duration": "8000"
+    },
     
     {
-      "i": 128,
       "UID": "UID-128",
-      "speaker": "",
-      "text": "Ja, ofta håller du ju plast som går ut då, och det är väl ett visst skydd, men jag tror det.",
-      "start": "00:26:44,320",
-      "end": "00:26:51,320",
-      "duration": "7000"
-    }
+      "Speaker": "",
+      "Text": "Ja, ofta håller du ju plast som går ut då, och det är väl ett visst skydd, men jag tror det.",
+      "Start": "00:26:44,320",
+      "End": "00:26:51,320",
+      "Duration": "7000"
+    },
     
     {
-      "i": 129,
       "UID": "UID-129",
-      "speaker": "",
-      "text": "Och så på precis på sidorna, ja.",
-      "start": "00:26:51,320",
-      "end": "00:26:53,320",
-      "duration": "2000"
-    }
+      "Speaker": "",
+      "Text": "Och så på precis på sidorna, ja.",
+      "Start": "00:26:51,320",
+      "End": "00:26:53,320",
+      "Duration": "2000"
+    },
     
     {
-      "i": 130,
       "UID": "UID-130",
-      "speaker": "",
-      "text": "Ja, men även markduken där, för den är ju mycket segare.",
-      "start": "00:26:53,320",
-      "end": "00:26:56,320",
-      "duration": "3000"
-    }
+      "Speaker": "",
+      "Text": "Ja, men även markduken där, för den är ju mycket segare.",
+      "Start": "00:26:53,320",
+      "End": "00:26:56,320",
+      "Duration": "3000"
+    },
     
     {
-      "i": 131,
       "UID": "UID-131",
-      "speaker": "",
-      "text": "Ja.",
-      "start": "00:26:56,320",
-      "end": "00:26:58,320",
-      "duration": "2000"
-    }
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:26:56,320",
+      "End": "00:26:58,320",
+      "Duration": "2000"
+    },
     
     {
-      "i": 132,
       "UID": "UID-132",
-      "speaker": "",
-      "text": "Men sen är ju gavlarna då, hur gör man där? Ja, det är ju så här, jag bor ju ute i de värmländska skogarna, här finns rovfåglarna.",
-      "start": "00:26:58,320",
-      "end": "00:27:08,320",
-      "duration": "10000"
-    }
+      "Speaker": "",
+      "Text": "Men sen är ju gavlarna då, hur gör man där? Ja, det är ju så här, jag bor ju ute i de värmländska skogarna, här finns rovfåglarna.",
+      "Start": "00:26:58,320",
+      "End": "00:27:08,320",
+      "Duration": "10000"
+    },
     
     {
-      "i": 133,
       "UID": "UID-133",
-      "speaker": "",
-      "text": "Rovfåglar, det finns rävar, det finns mårdar, det finns, oj, vad heter de här invasiva arten, som kommer nordifrån?",
-      "start": "00:27:08,320",
-      "end": "00:27:22,320",
-      "duration": "14000"
-    }
+      "Speaker": "",
+      "Text": "Rovfåglar, det finns rävar, det finns mårdar, det finns, oj, vad heter de här invasiva arten, som kommer nordifrån?",
+      "Start": "00:27:08,320",
+      "End": "00:27:22,320",
+      "Duration": "14000"
+    },
     
     {
-      "i": 134,
       "UID": "UID-134",
-      "speaker": "",
-      "text": "Mårdhund!",
-      "start": "00:27:22,320",
-      "end": "00:27:24,320",
-      "duration": "2000"
-    }
+      "Speaker": "",
+      "Text": "Mårdhund!",
+      "Start": "00:27:22,320",
+      "End": "00:27:24,320",
+      "Duration": "2000"
+    },
     
     {
-      "i": 135,
       "UID": "UID-135",
-      "speaker": "",
-      "text": "Ja, och det dykte upp var grannen, som såg från bilen, faktiskt.",
-      "start": "00:27:24,320",
-      "end": "00:27:28,320",
-      "duration": "4000"
-    }
+      "Speaker": "",
+      "Text": "Ja, och det dykte upp var grannen, som såg från bilen, faktiskt.",
+      "Start": "00:27:24,320",
+      "End": "00:27:28,320",
+      "Duration": "4000"
+    },
     
     {
-      "i": 136,
       "UID": "UID-136",
-      "speaker": "",
-      "text": "Jaha, då skulle jag skjuta om man ser dem.",
-      "start": "00:27:28,320",
-      "end": "00:27:30,320",
-      "duration": "2000"
-    }
+      "Speaker": "",
+      "Text": "Jaha, då skulle jag skjuta om man ser dem.",
+      "Start": "00:27:28,320",
+      "End": "00:27:30,320",
+      "Duration": "2000"
+    },
     
     {
-      "i": 137,
       "UID": "UID-137",
-      "speaker": "",
-      "text": "Ja, och precis, jag tror att han rapporterade, att man ska rapportera in också, tror han, tror han gjorde det.",
-      "start": "00:27:30,320",
-      "end": "00:27:37,320",
-      "duration": "7000"
-    }
+      "Speaker": "",
+      "Text": "Ja, och precis, jag tror att han rapporterade, att man ska rapportera in också, tror han, tror han gjorde det.",
+      "Start": "00:27:30,320",
+      "End": "00:27:37,320",
+      "Duration": "7000"
+    },
     
     {
-      "i": 138,
       "UID": "UID-138",
-      "speaker": "",
-      "text": "Det, jag har ju, plantskyddsdängsel runt hela min tomt, och det är ju även för harar, rådjur, älgar och sånt där.",
-      "start": "00:27:37,320",
-      "end": "00:27:48,320",
-      "duration": "11000"
-    }
+      "Speaker": "",
+      "Text": "Det, jag har ju, plantskyddsdängsel runt hela min tomt, och det är ju även för harar, rådjur, älgar och sånt där.",
+      "Start": "00:27:37,320",
+      "End": "00:27:48,320",
+      "Duration": "11000"
+    },
     
     {
-      "i": 139,
       "UID": "UID-139",
-      "speaker": "",
-      "text": "Och det räcker ju egentligen inte till varken rådjur eller älgar eller jordar, men i kombination med våra tre hundar, som vi har, dessutom, och det räcker med en hund, vet jag av historiska skäl då.",
-      "start": "00:27:48,320",
-      "end": "00:28:02,320",
-      "duration": "14000"
-    }
+      "Speaker": "",
+      "Text": "Och det räcker ju egentligen inte till varken rådjur eller älgar eller jordar, men i kombination med våra tre hundar, som vi har, dessutom, och det räcker med en hund, vet jag av historiska skäl då.",
+      "Start": "00:27:48,320",
+      "End": "00:28:02,320",
+      "Duration": "14000"
+    },
     
     {
-      "i": 140,
       "UID": "UID-140",
-      "speaker": "",
-      "text": "Så, ja, men en skork har du ju också, alltså, om inte vi har hundarna, så vi kan ju inte ha detta, om inte vi har hundarna, så enkelt är det.",
-      "start": "00:28:02,320",
-      "end": "00:28:12,320",
-      "duration": "10000"
-    }
+      "Speaker": "",
+      "Text": "Så, ja, men en skork har du ju också, alltså, om inte vi har hundarna, så vi kan ju inte ha detta, om inte vi har hundarna, så enkelt är det.",
+      "Start": "00:28:02,320",
+      "End": "00:28:12,320",
+      "Duration": "10000"
+    },
     
     {
-      "i": 141,
       "UID": "UID-141",
-      "speaker": "",
-      "text": "Hade du en växling, där den gamla hunden gick bort, och så kom vår numoder här Liko då, som är åtta år i år, åtta år sedan alltså, då fick vi ingen potatis alls det året.",
-      "start": "00:28:12,320",
-      "end": "00:28:26,320",
-      "duration": "14000"
-    }
+      "Speaker": "",
+      "Text": "Hade du en växling, där den gamla hunden gick bort, och så kom vår numoder här Liko då, som är åtta år i år, åtta år sedan alltså, då fick vi ingen potatis alls det året.",
+      "Start": "00:28:12,320",
+      "End": "00:28:26,320",
+      "Duration": "14000"
+    },
     
     {
-      "i": 142,
       "UID": "UID-142",
-      "speaker": "",
-      "text": "Vi såg rester av vissa potatisar i vacken, på en första säsongen, var väldigt.",
-      "start": "00:28:26,320",
-      "end": "00:28:33,320",
-      "duration": "7000"
-    }
+      "Speaker": "",
+      "Text": "Vi såg rester av vissa potatisar i vacken, på en första säsongen, var väldigt.",
+      "Start": "00:28:26,320",
+      "End": "00:28:33,320",
+      "Duration": "7000"
+    },
     
     {
-      "i": 143,
       "UID": "UID-143",
-      "speaker": "",
-      "text": "Alltså, skork?",
-      "start": "00:28:33,320",
-      "end": "00:28:34,320",
-      "duration": "1000"
-    }
+      "Speaker": "",
+      "Text": "Alltså, skork?",
+      "Start": "00:28:33,320",
+      "End": "00:28:34,320",
+      "Duration": "1000"
+    },
     
     {
-      "i": 144,
       "UID": "UID-144",
-      "speaker": "",
-      "text": "Ja.",
-      "start": "00:28:34,320",
-      "end": "00:28:35,320",
-      "duration": "1000"
-    }
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:28:34,320",
+      "End": "00:28:35,320",
+      "Duration": "1000"
+    },
     
     {
-      "i": 145,
       "UID": "UID-145",
-      "speaker": "",
-      "text": "Helvete.",
-      "start": "00:28:35,320",
-      "end": "00:28:36,320",
-      "duration": "1000"
-    }
+      "Speaker": "",
+      "Text": "Helvete.",
+      "Start": "00:28:35,320",
+      "End": "00:28:36,320",
+      "Duration": "1000"
+    },
     
     {
-      "i": 146,
       "UID": "UID-146",
-      "speaker": "",
-      "text": "Ja, tre, väldigt, all möjligt.",
-      "start": "00:28:36,320",
-      "end": "00:28:39,320",
-      "duration": "3000"
-    }
+      "Speaker": "",
+      "Text": "Ja, tre, väldigt, all möjligt.",
+      "Start": "00:28:36,320",
+      "End": "00:28:39,320",
+      "Duration": "3000"
+    },
     
     {
-      "i": 147,
       "UID": "UID-147",
-      "speaker": "",
-      "text": "Naturen anfaller!",
-      "start": "00:28:39,320",
-      "end": "00:28:41,320",
-      "duration": "2000"
-    }
+      "Speaker": "",
+      "Text": "Naturen anfaller!",
+      "Start": "00:28:39,320",
+      "End": "00:28:41,320",
+      "Duration": "2000"
+    },
     
     {
-      "i": 148,
       "UID": "UID-148",
-      "speaker": "",
-      "text": "Ja, den känslan har vi ganska mycket, alltså, men det har vi pratat om förut också.",
-      "start": "00:28:41,320",
-      "end": "00:28:45,320",
-      "duration": "4000"
-    }
+      "Speaker": "",
+      "Text": "Ja, den känslan har vi ganska mycket, alltså, men det har vi pratat om förut också.",
+      "Start": "00:28:41,320",
+      "End": "00:28:45,320",
+      "Duration": "4000"
+    },
     
     {
-      "i": 149,
       "UID": "UID-149",
-      "speaker": "",
-      "text": "Ja.",
-      "start": "00:28:45,320",
-      "end": "00:28:46,320",
-      "duration": "1000"
-    }
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:28:45,320",
+      "End": "00:28:46,320",
+      "Duration": "1000"
+    },
     
     {
-      "i": 150,
       "UID": "UID-150",
-      "speaker": "",
-      "text": "Och tror att vi i vår tevepräver pratade ganska mycket om det också, man känner sig som en underständig attack.",
-      "start": "00:28:46,320",
-      "end": "00:28:50,320",
-      "duration": "4000"
-    }
+      "Speaker": "",
+      "Text": "Och tror att vi i vår tevepräver pratade ganska mycket om det också, man känner sig som en underständig attack.",
+      "Start": "00:28:46,320",
+      "End": "00:28:50,320",
+      "Duration": "4000"
+    },
     
     {
-      "i": 151,
       "UID": "UID-151",
-      "speaker": "",
-      "text": "Ja, alltså, vad ska vi säga, den urbana människan har en ganska romantisk syn på naturen, tror jag.",
-      "start": "00:28:50,320",
-      "end": "00:28:59,320",
-      "duration": "9000"
-    }
+      "Speaker": "",
+      "Text": "Ja, alltså, vad ska vi säga, den urbana människan har en ganska romantisk syn på naturen, tror jag.",
+      "Start": "00:28:50,320",
+      "End": "00:28:59,320",
+      "Duration": "9000"
+    },
     
     {
-      "i": 152,
       "UID": "UID-152",
-      "speaker": "",
-      "text": "Ja.",
-      "start": "00:28:59,320",
-      "end": "00:29:00,320",
-      "duration": "1000"
-    }
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:28:59,320",
+      "End": "00:29:00,320",
+      "Duration": "1000"
+    },
     
     {
-      "i": 153,
       "UID": "UID-153",
-      "speaker": "",
-      "text": "Ja, så jag tror att det är så, faktiskt, och det är väl dubbelt på något sätt, kan man säga då, alltså att vi är helt beroende av naturen, men samtidigt så är den ganska hård och skoningslös, om man ska vara riktigt ärlig.",
-      "start": "00:29:00,320",
-      "end": "00:29:19,320",
-      "duration": "19000"
-    }
+      "Speaker": "",
+      "Text": "Ja, så jag tror att det är så, faktiskt, och det är väl dubbelt på något sätt, kan man säga då, alltså att vi är helt beroende av naturen, men samtidigt så är den ganska hård och skoningslös, om man ska vara riktigt ärlig.",
+      "Start": "00:29:00,320",
+      "End": "00:29:19,320",
+      "Duration": "19000"
+    },
     
     {
-      "i": 154,
       "UID": "UID-154",
-      "speaker": "",
-      "text": "Ja.",
-      "start": "00:29:19,320",
-      "end": "00:29:20,320",
-      "duration": "1000"
-    }
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:29:19,320",
+      "End": "00:29:20,320",
+      "Duration": "1000"
+    },
     
     {
-      "i": 155,
       "UID": "UID-155",
-      "speaker": "",
-      "text": "Men tillbaka till frågan om Robert undrar hur man, alltså, men jag tänker bara, att det är mark, duk, alltså ett hundgårdgörelse, att man gräver ner armeringsgaller.",
-      "start": "00:29:20,320",
-      "end": "00:29:31,320",
-      "duration": "11000"
-    }
+      "Speaker": "",
+      "Text": "Men tillbaka till frågan om Robert undrar hur man, alltså, men jag tänker bara, att det är mark, duk, alltså ett hundgårdgörelse, att man gräver ner armeringsgaller.",
+      "Start": "00:29:20,320",
+      "End": "00:29:31,320",
+      "Duration": "11000"
+    },
     
     {
-      "i": 156,
       "UID": "UID-156",
-      "speaker": "",
-      "text": "Man kan ju tänka till när man bygger, faktiskt.",
-      "start": "00:29:31,320",
-      "end": "00:29:34,320",
-      "duration": "3000"
-    }
+      "Speaker": "",
+      "Text": "Man kan ju tänka till när man bygger, faktiskt.",
+      "Start": "00:29:31,320",
+      "End": "00:29:34,320",
+      "Duration": "3000"
+    },
     
     {
-      "i": 157,
       "UID": "UID-157",
-      "speaker": "",
-      "text": "Ja.",
-      "start": "00:29:34,320",
-      "end": "00:29:35,320",
-      "duration": "1000"
-    }
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:29:34,320",
+      "End": "00:29:35,320",
+      "Duration": "1000"
+    },
     
     {
-      "i": 158,
       "UID": "UID-158",
-      "speaker": "",
-      "text": "Att du tar armeringsjärn, helt enkelt, eller nätmatter eller någonting, och gräver ner vid gavlarna där då som grävskydd.",
-      "start": "00:29:35,320",
-      "end": "00:29:43,320",
-      "duration": "8000"
-    }
+      "Speaker": "",
+      "Text": "Att du tar armeringsjärn, helt enkelt, eller nätmatter eller någonting, och gräver ner vid gavlarna där då som grävskydd.",
+      "Start": "00:29:35,320",
+      "End": "00:29:43,320",
+      "Duration": "8000"
+    },
     
     {
-      "i": 159,
       "UID": "UID-159",
-      "speaker": "",
-      "text": "Ja.",
-      "start": "00:29:43,320",
-      "end": "00:29:44,320",
-      "duration": "1000"
-    }
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:29:43,320",
+      "End": "00:29:44,320",
+      "Duration": "1000"
+    },
     
     {
-      "i": 160,
       "UID": "UID-160",
-      "speaker": "",
-      "text": "Men för, beroende på vad växthuset är, om det står när ett hus, så är det kanske läskigt för räven som det är, men det blir väldigt suckigt ändå, om det är judar inne, så försöker det en gång, och så om det går bet då, så kanske den skiter i sig, liksom.",
-      "start": "00:29:44,320",
-      "end": "00:30:01,320",
-      "duration": "17000"
-    }
+      "Speaker": "",
+      "Text": "Men för, beroende på vad växthuset är, om det står när ett hus, så är det kanske läskigt för räven som det är, men det blir väldigt suckigt ändå, om det är judar inne, så försöker det en gång, och så om det går bet då, så kanske den skiter i sig, liksom.",
+      "Start": "00:29:44,320",
+      "End": "00:30:01,320",
+      "Duration": "17000"
+    },
     
     {
-      "i": 161,
       "UID": "UID-161",
-      "speaker": "",
-      "text": "För det är väl lite som, som du sade med präntskyddssträngslet och hundarna, att det är väl det som är kampen, att man bara, ingen lösning löser allt, utan man får bara hålla på att fylla på.",
-      "start": "00:30:01,320",
-      "end": "00:30:13,320",
-      "duration": "12000"
-    }
+      "Speaker": "",
+      "Text": "För det är väl lite som, som du sade med präntskyddssträngslet och hundarna, att det är väl det som är kampen, att man bara, ingen lösning löser allt, utan man får bara hålla på att fylla på.",
+      "Start": "00:30:01,320",
+      "End": "00:30:13,320",
+      "Duration": "12000"
+    },
     
     {
-      "i": 162,
       "UID": "UID-162",
-      "speaker": "",
-      "text": "Men lösningar, alltså, man får ha lite musfäller, man får bygga på ett sätt som gör att mössan inte kommer in, man får se till att inte en mat fram i köket, alltså att man gör så gott man kan, liksom.",
-      "start": "00:30:13,320",
-      "end": "00:30:28,320",
-      "duration": "15000"
-    }
+      "Speaker": "",
+      "Text": "Men lösningar, alltså, man får ha lite musfäller, man får bygga på ett sätt som gör att mössan inte kommer in, man får se till att inte en mat fram i köket, alltså att man gör så gott man kan, liksom.",
+      "Start": "00:30:13,320",
+      "End": "00:30:28,320",
+      "Duration": "15000"
+    },
     
     {
-      "i": 163,
       "UID": "UID-163",
-      "speaker": "",
-      "text": "Så är det, det är ett ganska brett spektrum av åtgärder, faktiskt.",
-      "start": "00:30:28,320",
-      "end": "00:30:33,320",
-      "duration": "5000"
-    }
+      "Speaker": "",
+      "Text": "Så är det, det är ett ganska brett spektrum av åtgärder, faktiskt.",
+      "Start": "00:30:28,320",
+      "End": "00:30:33,320",
+      "Duration": "5000"
+    },
     
     {
-      "i": 164,
       "UID": "UID-164",
-      "speaker": "",
-      "text": "Okej.",
-      "start": "00:30:33,320",
-      "end": "00:30:34,320",
-      "duration": "1000"
-    }
+      "Speaker": "",
+      "Text": "Okej.",
+      "Start": "00:30:33,320",
+      "End": "00:30:34,320",
+      "Duration": "1000"
+    },
     
     {
-      "i": 165,
       "UID": "UID-165",
-      "speaker": "",
-      "text": "Jag kan väl säga en sak till, jag ska ju ha fåren i mitt stora växthus.",
-      "start": "00:30:34,320",
-      "end": "00:30:38,320",
-      "duration": "4000"
-    }
+      "Speaker": "",
+      "Text": "Jag kan väl säga en sak till, jag ska ju ha fåren i mitt stora växthus.",
+      "Start": "00:30:34,320",
+      "End": "00:30:38,320",
+      "Duration": "4000"
+    },
     
     {
-      "i": 166,
       "UID": "UID-166",
-      "speaker": "",
-      "text": "Ja.",
-      "start": "00:30:38,320",
-      "end": "00:30:39,320",
-      "duration": "1000"
-    }
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:30:38,320",
+      "End": "00:30:39,320",
+      "Duration": "1000"
+    },
     
     {
-      "i": 167,
       "UID": "UID-167",
-      "speaker": "",
-      "text": "På vintern, med ett litet uttaget till då.",
-      "start": "00:30:39,320",
-      "end": "00:30:44,320",
-      "duration": "5000"
-    }
+      "Speaker": "",
+      "Text": "På vintern, med ett litet uttaget till då.",
+      "Start": "00:30:39,320",
+      "End": "00:30:44,320",
+      "Duration": "5000"
+    },
     
     {
-      "i": 168,
       "UID": "UID-168",
-      "speaker": "",
-      "text": "Och föråt, och det är ju också för att få en ordentlig lokal, och där det går att mjölka och såna grejer också då, nu blir det inte fråsturigt där, så att jag får väl ha en viss beredskap till att kunna värma, ganska kraftigt, en kort tid i alla fall, medan det pågår.",
-      "start": "00:30:44,320",
-      "end": "00:31:01,320",
-      "duration": "17000"
-    }
+      "Speaker": "",
+      "Text": "Och föråt, och det är ju också för att få en ordentlig lokal, och där det går att mjölka och såna grejer också då, nu blir det inte fråsturigt där, så att jag får väl ha en viss beredskap till att kunna värma, ganska kraftigt, en kort tid i alla fall, medan det pågår.",
+      "Start": "00:30:44,320",
+      "End": "00:31:01,320",
+      "Duration": "17000"
+    },
     
     {
-      "i": 169,
       "UID": "UID-169",
-      "speaker": "",
-      "text": "Ja.",
-      "start": "00:31:01,320",
-      "end": "00:31:02,320",
-      "duration": "1000"
-    }
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:31:01,320",
+      "End": "00:31:02,320",
+      "Duration": "1000"
+    },
     
     {
-      "i": 170,
       "UID": "UID-170",
-      "speaker": "",
-      "text": "Så det blev nya saker att lära sig där, men det ska bli väldigt skönt att få sådan stor yta då.",
-      "start": "00:31:02,320",
-      "end": "00:31:09,320",
-      "duration": "7000"
-    }
+      "Speaker": "",
+      "Text": "Så det blev nya saker att lära sig där, men det ska bli väldigt skönt att få sådan stor yta då.",
+      "Start": "00:31:02,320",
+      "End": "00:31:09,320",
+      "Duration": "7000"
+    },
     
     {
-      "i": 171,
       "UID": "UID-171",
-      "speaker": "",
-      "text": "Men är du inte orolig för att dom ska saba plastern eller?",
-      "start": "00:31:09,320",
-      "end": "00:31:13,320",
-      "duration": "4000"
-    }
+      "Speaker": "",
+      "Text": "Men är du inte orolig för att dom ska saba plastern eller?",
+      "Start": "00:31:09,320",
+      "End": "00:31:13,320",
+      "Duration": "4000"
+    },
     
     {
-      "i": 172,
       "UID": "UID-172",
-      "speaker": "",
-      "text": "Nej, men jag sätter ju fårgrindar där inne, så jag bygger en hagråt om dem där.",
-      "start": "00:31:13,320",
-      "end": "00:31:19,320",
-      "duration": "6000"
-    }
+      "Speaker": "",
+      "Text": "Nej, men jag sätter ju fårgrindar där inne, så jag bygger en hagråt om dem där.",
+      "Start": "00:31:13,320",
+      "End": "00:31:19,320",
+      "Duration": "6000"
+    },
     
     {
-      "i": 173,
       "UID": "UID-173",
-      "speaker": "",
-      "text": "Okej, vad smart.",
-      "start": "00:31:19,320",
-      "end": "00:31:21,320",
-      "duration": "2000"
-    }
+      "Speaker": "",
+      "Text": "Okej, vad smart.",
+      "Start": "00:31:19,320",
+      "End": "00:31:21,320",
+      "Duration": "2000"
+    },
     
     {
-      "i": 174,
       "UID": "UID-174",
-      "speaker": "",
-      "text": "För annars får han ju, att dom står och gnuggar sig mot grejer.",
-      "start": "00:31:21,320",
-      "end": "00:31:24,320",
-      "duration": "3000"
-    }
+      "Speaker": "",
+      "Text": "För annars får han ju, att dom står och gnuggar sig mot grejer.",
+      "Start": "00:31:21,320",
+      "End": "00:31:24,320",
+      "Duration": "3000"
+    },
     
     {
-      "i": 175,
       "UID": "UID-175",
-      "speaker": "",
-      "text": "Och det, ska jag väl säga, är ju lite grann med växthuset med hunds också, att det blir ju skada på plastern, speciellt om tupparna börjar på våren, vår vintern nu, i princip att tuppa sig och såna grejer och spårrarna far och flyger, så det blir långa revar i plastern, va?",
-      "start": "00:31:24,320",
-      "end": "00:31:44,320",
-      "duration": "20000"
-    }
+      "Speaker": "",
+      "Text": "Och det, ska jag väl säga, är ju lite grann med växthuset med hunds också, att det blir ju skada på plastern, speciellt om tupparna börjar på våren, vår vintern nu, i princip att tuppa sig och såna grejer och spårrarna far och flyger, så det blir långa revar i plastern, va?",
+      "Start": "00:31:24,320",
+      "End": "00:31:44,320",
+      "Duration": "20000"
+    },
     
     {
-      "i": 176,
       "UID": "UID-176",
-      "speaker": "",
-      "text": "Så att man bör ju sätta pallar eller någon form av skivmaterial efter väggarna, helt enkelt.",
-      "start": "00:31:44,320",
-      "end": "00:31:53,320",
-      "duration": "9000"
-    }
+      "Speaker": "",
+      "Text": "Så att man bör ju sätta pallar eller någon form av skivmaterial efter väggarna, helt enkelt.",
+      "Start": "00:31:44,320",
+      "End": "00:31:53,320",
+      "Duration": "9000"
+    },
     
     {
-      "i": 177,
       "UID": "UID-177",
-      "speaker": "",
-      "text": "Smart.",
-      "start": "00:31:53,320",
-      "end": "00:31:54,320",
-      "duration": "1000"
-    }
+      "Speaker": "",
+      "Text": "Smart.",
+      "Start": "00:31:53,320",
+      "End": "00:31:54,320",
+      "Duration": "1000"
+    },
     
     {
-      "i": 178,
       "UID": "UID-178",
-      "speaker": "",
-      "text": "Och skyddar dem.",
-      "start": "00:31:54,320",
-      "end": "00:31:56,320",
-      "duration": "2000"
-    }
+      "Speaker": "",
+      "Text": "Och skyddar dem.",
+      "Start": "00:31:54,320",
+      "End": "00:31:56,320",
+      "Duration": "2000"
+    },
     
     {
-      "i": 179,
       "UID": "UID-179",
-      "speaker": "",
-      "text": "Jävla jobb, alltså.",
-      "start": "00:31:56,320",
-      "end": "00:31:59,320",
-      "duration": "3000"
-    }
+      "Speaker": "",
+      "Text": "Jävla jobb, alltså.",
+      "Start": "00:31:56,320",
+      "End": "00:31:59,320",
+      "Duration": "3000"
+    },
     
     {
-      "i": 180,
       "UID": "UID-180",
-      "speaker": "",
-      "text": "Ja, det är så, det blir väldigt fin och exklusiv mat, man får njuta när man äter.",
-      "start": "00:31:59,320",
-      "end": "00:32:06,320",
-      "duration": "7000"
-    }
+      "Speaker": "",
+      "Text": "Ja, det är så, det blir väldigt fin och exklusiv mat, man får njuta när man äter.",
+      "Start": "00:31:59,320",
+      "End": "00:32:06,320",
+      "Duration": "7000"
+    },
     
     {
-      "i": 181,
       "UID": "UID-181",
-      "speaker": "",
-      "text": "Ja, jag har faktiskt tänkt att jag ska flytta ner mina hön till växthuset, för ankerna gör ju inte, dom vände ju inte någon jord, dom spätter ju ingenting, dom sitter bara och kuttrar.",
-      "start": "00:32:06,320",
-      "end": "00:32:18,320",
-      "duration": "12000"
-    }
+      "Speaker": "",
+      "Text": "Ja, jag har faktiskt tänkt att jag ska flytta ner mina hön till växthuset, för ankerna gör ju inte, dom vände ju inte någon jord, dom spätter ju ingenting, dom sitter bara och kuttrar.",
+      "Start": "00:32:06,320",
+      "End": "00:32:18,320",
+      "Duration": "12000"
+    },
     
     {
-      "i": 182,
       "UID": "UID-182",
-      "speaker": "",
-      "text": "Men så tänkte jag att ätthuset skulle kunna komplettera dem och göra lite jordbevätning där nere, men jag har inte iddatts.",
-      "start": "00:32:18,320",
-      "end": "00:32:26,320",
-      "duration": "8000"
-    }
+      "Speaker": "",
+      "Text": "Men så tänkte jag att ätthuset skulle kunna komplettera dem och göra lite jordbevätning där nere, men jag har inte iddatts.",
+      "Start": "00:32:18,320",
+      "End": "00:32:26,320",
+      "Duration": "8000"
+    },
     
     {
-      "i": 183,
       "UID": "UID-183",
-      "speaker": "",
-      "text": "Nej, för så är det ju, du får ju en väldigt fin gösling för tomaterna.",
-      "start": "00:32:26,320",
-      "end": "00:32:32,320",
-      "duration": "6000"
-    }
+      "Speaker": "",
+      "Text": "Nej, för så är det ju, du får ju en väldigt fin gösling för tomaterna.",
+      "Start": "00:32:26,320",
+      "End": "00:32:32,320",
+      "Duration": "6000"
+    },
     
     {
-      "i": 184,
       "UID": "UID-184",
-      "speaker": "",
-      "text": "Ja, men det får jag vanken, ankenna är ju väldigt bra på baisa, men man får inte det där att dom vände nere.",
-      "start": "00:32:32,320",
-      "end": "00:32:39,320",
-      "duration": "7000"
-    }
+      "Speaker": "",
+      "Text": "Ja, men det får jag vanken, ankenna är ju väldigt bra på baisa, men man får inte det där att dom vände nere.",
+      "Start": "00:32:32,320",
+      "End": "00:32:39,320",
+      "Duration": "7000"
+    },
     
     {
-      "i": 185,
       "UID": "UID-185",
-      "speaker": "",
-      "text": "Sprättar inte man.",
-      "start": "00:32:39,320",
-      "end": "00:32:40,320",
-      "duration": "1000"
-    }
+      "Speaker": "",
+      "Text": "Sprättar inte man.",
+      "Start": "00:32:39,320",
+      "End": "00:32:40,320",
+      "Duration": "1000"
+    },
     
     {
-      "i": 186,
       "UID": "UID-186",
-      "speaker": "",
-      "text": "Men fan, alltså, det är grisigt där nere nu, och då, jag har några såna boodlingsborden och hyller, som tar ner, dom sitter ju där, baisar hela nätterna.",
-      "start": "00:32:40,320",
-      "end": "00:32:47,320",
-      "duration": "7000"
-    }
+      "Speaker": "",
+      "Text": "Men fan, alltså, det är grisigt där nere nu, och då, jag har några såna boodlingsborden och hyller, som tar ner, dom sitter ju där, baisar hela nätterna.",
+      "Start": "00:32:40,320",
+      "End": "00:32:47,320",
+      "Duration": "7000"
+    },
     
     {
-      "i": 187,
       "UID": "UID-187",
-      "speaker": "",
-      "text": "Ja, det är så, jag har ju ovälsblocken i växthuset själv här, och jag kommer att plocka ur allting nästa år.",
-      "start": "00:32:47,320",
-      "end": "00:32:59,320",
-      "duration": "12000"
-    }
+      "Speaker": "",
+      "Text": "Ja, det är så, jag har ju ovälsblocken i växthuset själv här, och jag kommer att plocka ur allting nästa år.",
+      "Start": "00:32:47,320",
+      "End": "00:32:59,320",
+      "Duration": "12000"
+    },
     
     {
-      "i": 188,
       "UID": "UID-188",
-      "speaker": "",
-      "text": "Ja, precis, det är det man måste göra, man kan ta kvar någonting, exakt, bevattningssystem, allting måste bara bort.",
-      "start": "00:32:59,320",
-      "end": "00:33:06,320",
-      "duration": "7000"
-    }
+      "Speaker": "",
+      "Text": "Ja, precis, det är det man måste göra, man kan ta kvar någonting, exakt, bevattningssystem, allting måste bara bort.",
+      "Start": "00:32:59,320",
+      "End": "00:33:06,320",
+      "Duration": "7000"
+    },
     
     {
-      "i": 189,
       "UID": "UID-189",
-      "speaker": "",
-      "text": "Om vi säger så här, jag har ju jättefin ställning med jättefina sittbinnar, nog tusen ska dom sitta uppe i kruglagret och skita ner alltihopa, längst upp på kruglagret.",
-      "start": "00:33:06,320",
-      "end": "00:33:22,320",
-      "duration": "16000"
-    }
+      "Speaker": "",
+      "Text": "Om vi säger så här, jag har ju jättefin ställning med jättefina sittbinnar, nog tusen ska dom sitta uppe i kruglagret och skita ner alltihopa, längst upp på kruglagret.",
+      "Start": "00:33:06,320",
+      "End": "00:33:22,320",
+      "Duration": "16000"
+    },
     
     {
-      "i": 190,
       "UID": "UID-190",
-      "speaker": "",
-      "text": "Ja, okej, vi går vidare, nästa fråga kommer från Sebastian, det handlar också om skaderdjur, jag var ut till vår kompost idag, vanlig hushållscompost i plast, när jag lyfte blocket så var det två möster, och under vintern så har också komposten frusigt, så just nu fungerar den inte som den ska.",
-      "start": "00:33:22,320",
-      "end": "00:33:41,320",
-      "duration": "19000"
-    }
+      "Speaker": "",
+      "Text": "Ja, okej, vi går vidare, nästa fråga kommer från Sebastian, det handlar också om skaderdjur, jag var ut till vår kompost idag, vanlig hushållscompost i plast, när jag lyfte blocket så var det två möster, och under vintern så har också komposten frusigt, så just nu fungerar den inte som den ska.",
+      "Start": "00:33:22,320",
+      "End": "00:33:41,320",
+      "Duration": "19000"
+    },
     
     {
-      "i": 191,
       "UID": "UID-191",
-      "speaker": "",
-      "text": "Ett, hur ska jag till mössan, två, hur får jag igång komposten igen?Det är ju, jag vet ju, han säger ju bara hushållscompost i plast, nästan en sådan där låda.",
-      "start": "00:33:41,320",
-      "end": "00:33:53,320",
-      "duration": "12000"
-    }
+      "Speaker": "",
+      "Text": "Ett, hur ska jag till mössan, två, hur får jag igång komposten igen?Det är ju, jag vet ju, han säger ju bara hushållscompost i plast, nästan en sådan där låda.",
+      "Start": "00:33:41,320",
+      "End": "00:33:53,320",
+      "Duration": "12000"
+    },
     
     {
-      "i": 192,
       "UID": "UID-192",
-      "speaker": "",
-      "text": "Det är väl förmodligen en godkänd dom, men då är det ju så här, att dom kommer ju in någonstans, och dom kan ju ofta gå in underifrån, så det gäller ju att ha det här nätet intakt i botten, som är mus och rått säkert då.",
-      "start": "00:33:53,320",
-      "end": "00:34:09,320",
-      "duration": "16000"
-    }
+      "Speaker": "",
+      "Text": "Det är väl förmodligen en godkänd dom, men då är det ju så här, att dom kommer ju in någonstans, och dom kan ju ofta gå in underifrån, så det gäller ju att ha det här nätet intakt i botten, som är mus och rått säkert då.",
+      "Start": "00:33:53,320",
+      "End": "00:34:09,320",
+      "Duration": "16000"
+    },
     
     {
-      "i": 193,
       "UID": "UID-193",
-      "speaker": "",
-      "text": "Och då ska vi vara duktigt, finmaskigt nät.Ja, alltså, det är mer, om man har en riktig hushållscompost, så ska det nog följa med ett sånt nät, för det är ju liksom grunden för, det är ju så här, för att få en godkänt hushållscompost då, som inne i villaområden och tättbebyggt och så vidare, även på landsbygden numera då, utanför stadsplanerat, så är det ju just det där, att där kan du ju lägga saker som, då ska vi vara duktigt, finmaskigt nät.",
-      "start": "00:34:09,320",
-      "end": "00:34:34,320",
-      "duration": "25000"
-    }
+      "Speaker": "",
+      "Text": "Och då ska vi vara duktigt, finmaskigt nät.Ja, alltså, det är mer, om man har en riktig hushållscompost, så ska det nog följa med ett sånt nät, för det är ju liksom grunden för, det är ju så här, för att få en godkänt hushållscompost då, som inne i villaområden och tättbebyggt och så vidare, även på landsbygden numera då, utanför stadsplanerat, så är det ju just det där, att där kan du ju lägga saker som, då ska vi vara duktigt, finmaskigt nät.",
+      "Start": "00:34:09,320",
+      "End": "00:34:34,320",
+      "Duration": "25000"
+    },
     
     {
-      "i": 194,
       "UID": "UID-194",
-      "speaker": "",
-      "text": "Så är det ju just det där, att där kan du ju lägga saker som, animalieprodukter och sånt där, alltså ju djur och fisk och sånt, rester, och det drar ju skadeinsäkt, skadedjur, va?Som en åtel.",
-      "start": "00:34:34,320",
-      "end": "00:34:50,320",
-      "duration": "16000"
-    }
+      "Speaker": "",
+      "Text": "Så är det ju just det där, att där kan du ju lägga saker som, animalieprodukter och sånt där, alltså ju djur och fisk och sånt, rester, och det drar ju skadeinsäkt, skadedjur, va?Som en åtel.",
+      "Start": "00:34:34,320",
+      "End": "00:34:50,320",
+      "Duration": "16000"
+    },
     
     {
-      "i": 195,
       "UID": "UID-195",
-      "speaker": "",
-      "text": "Ja, exakt, och då behöver du ju ha, då behöver den vara mustädd, helt enkelt.Så att det nu uppenbarligen är den inte det, och det kan ju vara så enkelt, att den glipar i locket och så med, men att man får titta över den då.Och sen, för det är ju det som är grundproblemet, men sen är det väl bara att sätta dit några mustäder, om man lyckas täta den nu då i vinter.",
-      "start": "00:34:50,320",
-      "end": "00:35:16,320",
-      "duration": "26000"
-    }
+      "Speaker": "",
+      "Text": "Ja, exakt, och då behöver du ju ha, då behöver den vara mustädd, helt enkelt.Så att det nu uppenbarligen är den inte det, och det kan ju vara så enkelt, att den glipar i locket och så med, men att man får titta över den då.Och sen, för det är ju det som är grundproblemet, men sen är det väl bara att sätta dit några mustäder, om man lyckas täta den nu då i vinter.",
+      "Start": "00:34:50,320",
+      "End": "00:35:16,320",
+      "Duration": "26000"
+    },
     
     {
-      "i": 196,
       "UID": "UID-196",
-      "speaker": "",
-      "text": "Och det verkar ju svårt om det är en frusen klump med kompost i, då känns det ju trögt.Ja, och få igång den, det är ju så här med hushållskomposter, att man får tänka till lite på hösten, alltså att man har den igång, så att man inte har tumt allting, utan att processerna är igång i den, så att den alstrar lite värme om den är isolerad.Men sen är det, blir det en kall vinter, då stannar det här upp, det gör det, det är bara fråga om tiden.",
-      "start": "00:35:16,320",
-      "end": "00:35:45,320",
-      "duration": "29000"
-    }
+      "Speaker": "",
+      "Text": "Och det verkar ju svårt om det är en frusen klump med kompost i, då känns det ju trögt.Ja, och få igång den, det är ju så här med hushållskomposter, att man får tänka till lite på hösten, alltså att man har den igång, så att man inte har tumt allting, utan att processerna är igång i den, så att den alstrar lite värme om den är isolerad.Men sen är det, blir det en kall vinter, då stannar det här upp, det gör det, det är bara fråga om tiden.",
+      "Start": "00:35:16,320",
+      "End": "00:35:45,320",
+      "Duration": "29000"
+    },
     
     {
-      "i": 197,
       "UID": "UID-197",
-      "speaker": "",
-      "text": "Och då kommer den igång så fort den blir uppvärmd av solen på våren, det är det man får räkna med, det kommer inte igång på något annat sätt, vad jag vet i alla fall.Och det går inte att göra något så där, en cocktail av något extra, som vinner extra varmt eller?",
-      "start": "00:35:45,320",
-      "end": "00:36:05,320",
-      "duration": "20000"
-    }
+      "Speaker": "",
+      "Text": "Och då kommer den igång så fort den blir uppvärmd av solen på våren, det är det man får räkna med, det kommer inte igång på något annat sätt, vad jag vet i alla fall.Och det går inte att göra något så där, en cocktail av något extra, som vinner extra varmt eller?",
+      "Start": "00:35:45,320",
+      "End": "00:36:05,320",
+      "Duration": "20000"
+    },
     
     {
-      "i": 198,
       "UID": "UID-198",
-      "speaker": "",
-      "text": "Alltså hushållstillfall är ju väldigt näringsrikt, generellt sett, så att det ger en rejäl kompost då.Kissa i den?Nej, det räcker inte såna saker, utan den är genomfrusen nu på vintern, när den stannar upp så blir den ju genomfrusen.Kissa i en hink, varma upp hinken, på spis.Jag har väl tänkt det så här, du har en iskrump och dessutom är den isolerad.Ja.",
-      "start": "00:36:05,320",
-      "end": "00:36:34,320",
-      "duration": "29000"
-    }
+      "Speaker": "",
+      "Text": "Alltså hushållstillfall är ju väldigt näringsrikt, generellt sett, så att det ger en rejäl kompost då.Kissa i den?Nej, det räcker inte såna saker, utan den är genomfrusen nu på vintern, när den stannar upp så blir den ju genomfrusen.Kissa i en hink, varma upp hinken, på spis.Jag har väl tänkt det så här, du har en iskrump och dessutom är den isolerad.Ja.",
+      "Start": "00:36:05,320",
+      "End": "00:36:34,320",
+      "Duration": "29000"
+    },
     
     {
-      "i": 199,
       "UID": "UID-199",
-      "speaker": "",
-      "text": "Men jag ska säga, om han, jag vet inte hur ny han är där, men just det med huset, den kommer igång ganska tidigt på våren alltså, och så sjunker ihop väldigt fort, pang säger det, så är det för att decimeter plats uppe igen då, så det fungerar, ja, så är det.Och svap på den, okej, en fråga till om skadig djur, är du redo?Aj, jag var ensam.Råttor i hönshuset.",
-      "start": "00:36:34,320",
-      "end": "00:37:01,320",
-      "duration": "27000"
-    }
+      "Speaker": "",
+      "Text": "Men jag ska säga, om han, jag vet inte hur ny han är där, men just det med huset, den kommer igång ganska tidigt på våren alltså, och så sjunker ihop väldigt fort, pang säger det, så är det för att decimeter plats uppe igen då, så det fungerar, ja, så är det.Och svap på den, okej, en fråga till om skadig djur, är du redo?Aj, jag var ensam.Råttor i hönshuset.",
+      "Start": "00:36:34,320",
+      "End": "00:37:01,320",
+      "Duration": "27000"
+    },
     
     {
-      "i": 200,
       "UID": "UID-200",
-      "speaker": "",
-      "text": "Hej, nu har det fruktade hänt, jag såg tre råttor i hönshuset, vår katt hade också fångat en råtta för ettid sedan.Jag satt fäller i foderummet bredvid hönshuset, även över natten i hönshuset, men måste ta bort dem direkt på morgonen, så hönsen inte far illa.Jag också försökte städa upp, så det inte finns mat och hängt maten högre upp, men vad kan vi göra, hur blir vi av med dem?Satt även vår katt i hönshuset under natten, gift är ju inte ett alternativ.Nej, då är det ju fäller.",
-      "start": "00:37:01,320",
-      "end": "00:37:30,320",
-      "duration": "29000"
-    }
+      "Speaker": "",
+      "Text": "Hej, nu har det fruktade hänt, jag såg tre råttor i hönshuset, vår katt hade också fångat en råtta för ettid sedan.Jag satt fäller i foderummet bredvid hönshuset, även över natten i hönshuset, men måste ta bort dem direkt på morgonen, så hönsen inte far illa.Jag också försökte städa upp, så det inte finns mat och hängt maten högre upp, men vad kan vi göra, hur blir vi av med dem?Satt även vår katt i hönshuset under natten, gift är ju inte ett alternativ.Nej, då är det ju fäller.",
+      "Start": "00:37:01,320",
+      "End": "00:37:30,320",
+      "Duration": "29000"
+    },
     
     {
-      "i": 201,
       "UID": "UID-201",
-      "speaker": "",
-      "text": "Ja, men alltså.Det är jobbigt med råttor, alltså, jag har ju haft det en gång för länge sedan, men jag har inte haft, det är ju hundarna nu då som de vill inte komma hit, helt enkelt.Buss, sa jag.Jag, alltså, det enda som funkar är ju gift.",
-      "start": "00:37:30,320",
-      "end": "00:37:49,320",
-      "duration": "19000"
-    }
+      "Speaker": "",
+      "Text": "Ja, men alltså.Det är jobbigt med råttor, alltså, jag har ju haft det en gång för länge sedan, men jag har inte haft, det är ju hundarna nu då som de vill inte komma hit, helt enkelt.Buss, sa jag.Jag, alltså, det enda som funkar är ju gift.",
+      "Start": "00:37:30,320",
+      "End": "00:37:49,320",
+      "Duration": "19000"
+    },
     
     {
-      "i": 202,
       "UID": "UID-202",
-      "speaker": "",
-      "text": "Ja, jag kan väl säga så här, när jag hade råttinvasion en gång, det har jag ju berättat om, när jag letade efter spik och skruv och sånt inne hos gässen, för de blödde på benen.Kommer du ihåg det?",
-      "start": "00:37:49,320",
-      "end": "00:38:08,320",
-      "duration": "19000"
-    }
+      "Speaker": "",
+      "Text": "Ja, jag kan väl säga så här, när jag hade råttinvasion en gång, det har jag ju berättat om, när jag letade efter spik och skruv och sånt inne hos gässen, för de blödde på benen.Kommer du ihåg det?",
+      "Start": "00:37:49,320",
+      "End": "00:38:08,320",
+      "Duration": "19000"
+    },
     
     {
-      "i": 203,
       "UID": "UID-203",
-      "speaker": "",
-      "text": "Och sedan som lite halvt av en slump tror jag, så hittar jag i projekt Runeberg, en sådan gammal bok från slutet 18-talet, början 19-talet, där råttorna berättade om hur råttorna bet gässen i mörkret, när de inte kunde försvara sig, för att göra dem svagare och svagare för att till slut äta upp de levande.Så ett jägarförband?Ja, nästan.",
-      "start": "00:38:08,320",
-      "end": "00:38:37,320",
-      "duration": "29000"
-    }
+      "Speaker": "",
+      "Text": "Och sedan som lite halvt av en slump tror jag, så hittar jag i projekt Runeberg, en sådan gammal bok från slutet 18-talet, början 19-talet, där råttorna berättade om hur råttorna bet gässen i mörkret, när de inte kunde försvara sig, för att göra dem svagare och svagare för att till slut äta upp de levande.Så ett jägarförband?Ja, nästan.",
+      "Start": "00:38:08,320",
+      "End": "00:38:37,320",
+      "Duration": "29000"
+    },
     
     {
-      "i": 204,
       "UID": "UID-204",
-      "speaker": "",
-      "text": "Så jag satte svag belysning där ute, så att de kunde försvara sig, och då på den, när detta var, då kunde man köpa på grangården, men jag var chockad över hur mycket, alltså, jag vågade inte tänka på hur mycket råttor det var där alltså, för det gick åt en del, kan jag säga.",
-      "start": "00:38:37,320",
-      "end": "00:39:00,320",
-      "duration": "23000"
-    }
+      "Speaker": "",
+      "Text": "Så jag satte svag belysning där ute, så att de kunde försvara sig, och då på den, när detta var, då kunde man köpa på grangården, men jag var chockad över hur mycket, alltså, jag vågade inte tänka på hur mycket råttor det var där alltså, för det gick åt en del, kan jag säga.",
+      "Start": "00:38:37,320",
+      "End": "00:39:00,320",
+      "Duration": "23000"
+    },
     
     {
-      "i": 205,
       "UID": "UID-205",
-      "speaker": "",
-      "text": "Ja, alltså vi har ju haft väldigt mycket råttor, nu har vi inga råttor, just nu, men vi har haft väldigt mycket råttor, och en bra grej som jag lärde mig då, det är att om man ser om man har möss, då har man inte råttor, därför att råttorna äter upp mösset, så länge man har möss så är det som positivt.Då kan man vara glad.Exakt, vara glad åt mösset.",
-      "start": "00:39:00,320",
-      "end": "00:39:22,320",
-      "duration": "22000"
-    }
+      "Speaker": "",
+      "Text": "Ja, alltså vi har ju haft väldigt mycket råttor, nu har vi inga råttor, just nu, men vi har haft väldigt mycket råttor, och en bra grej som jag lärde mig då, det är att om man ser om man har möss, då har man inte råttor, därför att råttorna äter upp mösset, så länge man har möss så är det som positivt.Då kan man vara glad.Exakt, vara glad åt mösset.",
+      "Start": "00:39:00,320",
+      "End": "00:39:22,320",
+      "Duration": "22000"
+    },
     
     {
-      "i": 206,
       "UID": "UID-206",
-      "speaker": "",
-      "text": "Ja, jag ringde ju till Antisimex då, för jag hade en sådan försäkring, eller hade, och då kom det ut en gubbe, och tittade lite, och sen gav han oss fem stycken fällor.Men då, alltså, jag har inte trottat, att jag berättar något på den förvånad, men jag kommer inte ihåg detta, faktiskt.Nej, okej, ja, vad roligt, alltså, vi hade henne, för de kom in i bostadshuset också, för då var jag högst uppe.",
-      "start": "00:39:22,320",
-      "end": "00:39:51,320",
-      "duration": "29000"
-    }
+      "Speaker": "",
+      "Text": "Ja, jag ringde ju till Antisimex då, för jag hade en sådan försäkring, eller hade, och då kom det ut en gubbe, och tittade lite, och sen gav han oss fem stycken fällor.Men då, alltså, jag har inte trottat, att jag berättar något på den förvånad, men jag kommer inte ihåg detta, faktiskt.Nej, okej, ja, vad roligt, alltså, vi hade henne, för de kom in i bostadshuset också, för då var jag högst uppe.",
+      "Start": "00:39:22,320",
+      "End": "00:39:51,320",
+      "Duration": "29000"
+    },
     
     {
-      "i": 207,
       "UID": "UID-207",
-      "speaker": "",
-      "text": "För då var ju hönshuset mest, men då var också, så hade jag en fälla ute vid bostadshuset, så var jag ute en kväll för att kolla till den fällan, och då var den borta, och sen vände hon sig, lyssnade farlampan, då ser jag hur en råtta, som går över gräsmattan, med fällan över huvudet.",
-      "start": "00:39:51,320",
-      "end": "00:40:07,320",
-      "duration": "16000"
-    }
+      "Speaker": "",
+      "Text": "För då var ju hönshuset mest, men då var också, så hade jag en fälla ute vid bostadshuset, så var jag ute en kväll för att kolla till den fällan, och då var den borta, och sen vände hon sig, lyssnade farlampan, då ser jag hur en råtta, som går över gräsmattan, med fällan över huvudet.",
+      "Start": "00:39:51,320",
+      "End": "00:40:07,320",
+      "Duration": "16000"
+    },
     
     {
-      "i": 208,
       "UID": "UID-208",
-      "speaker": "",
-      "text": "Alltså, de är så jävla hårda, och sådana där fällor, alltså vi har ju fångat råttor i fällor också, men fällor har också försvunnit, och jag hittade en gång ut i skogen, alltså för en av fällorna.",
-      "start": "00:40:07,320",
-      "end": "00:40:24,320",
-      "duration": "17000"
-    }
+      "Speaker": "",
+      "Text": "Alltså, de är så jävla hårda, och sådana där fällor, alltså vi har ju fångat råttor i fällor också, men fällor har också försvunnit, och jag hittade en gång ut i skogen, alltså för en av fällorna.",
+      "Start": "00:40:07,320",
+      "End": "00:40:24,320",
+      "Duration": "17000"
+    },
     
     {
-      "i": 209,
       "UID": "UID-209",
-      "speaker": "",
-      "text": "Det blir ju djurplåggeri då i stället. Exakt, och jag vet inte om jag har, det kanske är olagligt med gift i det.",
-      "start": "00:40:24,320",
-      "end": "00:40:35,320",
-      "duration": "11000"
-    }
+      "Speaker": "",
+      "Text": "Det blir ju djurplåggeri då i stället. Exakt, och jag vet inte om jag har, det kanske är olagligt med gift i det.",
+      "Start": "00:40:24,320",
+      "End": "00:40:35,320",
+      "Duration": "11000"
+    },
     
     {
-      "i": 210,
       "UID": "UID-210",
-      "speaker": "",
-      "text": "Alltså, det är ju så här som på alla områden att positionerna flyttas fram hela tiden, det ska vara mycket till, va? Även för Antisimex eller liknande företag att använda till och med, utan man ska försöka med fällor, och du vet så här att göra, och så får man längre fram ta, om det inte räcker.",
-      "start": "00:40:35,320",
-      "end": "00:40:59,320",
-      "duration": "24000"
-    }
+      "Speaker": "",
+      "Text": "Alltså, det är ju så här som på alla områden att positionerna flyttas fram hela tiden, det ska vara mycket till, va? Även för Antisimex eller liknande företag att använda till och med, utan man ska försöka med fällor, och du vet så här att göra, och så får man längre fram ta, om det inte räcker.",
+      "Start": "00:40:35,320",
+      "End": "00:40:59,320",
+      "Duration": "24000"
+    },
     
     {
-      "i": 211,
       "UID": "UID-211",
-      "speaker": "",
-      "text": "Grunden är ju i alla fall så här, att man måste, om man inte har någonting, alltså det är svårt att ha, man får ju verkligen jobba med att inte det strös foder överallt, och det tappas foder och liksom så här, varför att då liksom lockar du ju dit råttorna, i princip, va?",
-      "start": "00:40:59,320",
-      "end": "00:41:22,320",
-      "duration": "23000"
-    }
+      "Speaker": "",
+      "Text": "Grunden är ju i alla fall så här, att man måste, om man inte har någonting, alltså det är svårt att ha, man får ju verkligen jobba med att inte det strös foder överallt, och det tappas foder och liksom så här, varför att då liksom lockar du ju dit råttorna, i princip, va?",
+      "Start": "00:40:59,320",
+      "End": "00:41:22,320",
+      "Duration": "23000"
+    },
     
     {
-      "i": 212,
       "UID": "UID-212",
-      "speaker": "",
-      "text": "Ja, men hur ska det gå till i ett hömt hus?Exakt, exakt, alltså, om inte du spelar så gör hönerna det, va?Ja, då är det som att de är jorden, och det är det de håller på med, sprättar de åt foder?Ja, tänkte när man föder upp kyrkulingar, det är liksom, mycket av foderet går ju som ljöster, kan man säga, när de har sprättat ut allt foder på, vi kör ju i betespurar då, så är det, så att det är svårt.",
-      "start": "00:41:22,320",
-      "end": "00:41:51,320",
-      "duration": "29000"
-    }
+      "Speaker": "",
+      "Text": "Ja, men hur ska det gå till i ett hömt hus?Exakt, exakt, alltså, om inte du spelar så gör hönerna det, va?Ja, då är det som att de är jorden, och det är det de håller på med, sprättar de åt foder?Ja, tänkte när man föder upp kyrkulingar, det är liksom, mycket av foderet går ju som ljöster, kan man säga, när de har sprättat ut allt foder på, vi kör ju i betespurar då, så är det, så att det är svårt.",
+      "Start": "00:41:22,320",
+      "End": "00:41:51,320",
+      "Duration": "29000"
+    },
     
     {
-      "i": 213,
       "UID": "UID-213",
-      "speaker": "",
-      "text": "Jag är ju väldigt nöjd med vårt system här, men det är ju liksom hundar och katter skulle kunna vara med, men det är inte det längre sen barnen flytta hemifrån och några år, decennion till efter det, för de lämnar ju katterna här, men.",
-      "start": "00:41:51,320",
-      "end": "00:42:09,500",
-      "duration": "18180"
-    }
+      "Speaker": "",
+      "Text": "Jag är ju väldigt nöjd med vårt system här, men det är ju liksom hundar och katter skulle kunna vara med, men det är inte det längre sen barnen flytta hemifrån och några år, decennion till efter det, för de lämnar ju katterna här, men.",
+      "Start": "00:41:51,320",
+      "End": "00:42:09,500",
+      "Duration": "18180"
+    },
     
     {
-      "i": 214,
       "UID": "UID-214",
-      "speaker": "",
-      "text": "Dels vill jag också säga om därmed katten tar råttor, vi har katter, den tar ju små råttor, men den tar inte stora råttor.",
-      "start": "00:42:09,500",
-      "end": "00:42:15,440",
-      "duration": "5940"
-    }
+      "Speaker": "",
+      "Text": "Dels vill jag också säga om därmed katten tar råttor, vi har katter, den tar ju små råttor, men den tar inte stora råttor.",
+      "Start": "00:42:09,500",
+      "End": "00:42:15,440",
+      "Duration": "5940"
+    },
     
     {
-      "i": 215,
       "UID": "UID-215",
-      "speaker": "",
-      "text": "Nej, alltså de med stora råttor, väljudda råttor, är rätt otrevliga djur, faktiskt, jag säger.",
-      "start": "00:42:15,440",
-      "end": "00:42:24,100",
-      "duration": "8660"
-    }
+      "Speaker": "",
+      "Text": "Nej, alltså de med stora råttor, väljudda råttor, är rätt otrevliga djur, faktiskt, jag säger.",
+      "Start": "00:42:15,440",
+      "End": "00:42:24,100",
+      "Duration": "8660"
+    },
     
     {
-      "i": 216,
       "UID": "UID-216",
-      "speaker": "",
-      "text": "Jag har en kompis, han använde gift, alltså i sitt hönshus också, och det funkade faktiskt, det bet på råttig motion.",
-      "start": "00:42:24,100",
-      "end": "00:42:35,320",
-      "duration": "11220"
-    }
+      "Speaker": "",
+      "Text": "Jag har en kompis, han använde gift, alltså i sitt hönshus också, och det funkade faktiskt, det bet på råttig motion.",
+      "Start": "00:42:24,100",
+      "End": "00:42:35,320",
+      "Duration": "11220"
+    },
     
     {
-      "i": 217,
       "UID": "UID-217",
-      "speaker": "",
-      "text": "Och då gjorde han så att han tog ett rör, alltså typ ett avloppsrör, typ sjuttio centimeter långt, och så lade han in giftpåsar i mitten på röret, och så borrade han en lång skruv genom röret, genom påsen, så att han satt fast i mitten av röret, där inga hönor kunde komma åt giftet, men råttorna kunde komma åt giftet.",
-      "start": "00:42:35,320",
-      "end": "00:43:02,720",
-      "duration": "27400"
-    }
+      "Speaker": "",
+      "Text": "Och då gjorde han så att han tog ett rör, alltså typ ett avloppsrör, typ sjuttio centimeter långt, och så lade han in giftpåsar i mitten på röret, och så borrade han en lång skruv genom röret, genom påsen, så att han satt fast i mitten av röret, där inga hönor kunde komma åt giftet, men råttorna kunde komma åt giftet.",
+      "Start": "00:42:35,320",
+      "End": "00:43:02,720",
+      "Duration": "27400"
+    },
     
     {
-      "i": 218,
       "UID": "UID-218",
-      "speaker": "",
-      "text": "Och så lade han det där längs väggarna, han, det där längs väggarna, i sitt hönshus, och så fyllde han påvårt efter, tack för att det där giftet försvann, och det funkade, liksom.",
-      "start": "00:43:02,720",
-      "end": "00:43:15,640",
-      "duration": "12920"
-    }
+      "Speaker": "",
+      "Text": "Och så lade han det där längs väggarna, han, det där längs väggarna, i sitt hönshus, och så fyllde han påvårt efter, tack för att det där giftet försvann, och det funkade, liksom.",
+      "Start": "00:43:02,720",
+      "End": "00:43:15,640",
+      "Duration": "12920"
+    },
     
     {
-      "i": 219,
       "UID": "UID-219",
-      "speaker": "",
-      "text": "Ja, så är det, men det är ett bekymmer, och det är ju därför som det är, vissa restriktioner i stadsplanerade områden, och så också när det gäller det här, men är det någonstans man har problem med råttor, så är det ju i Stockholm, och jag förstår.",
-      "start": "00:43:15,640",
-      "end": "00:43:32,600",
-      "duration": "16960"
-    }
+      "Speaker": "",
+      "Text": "Ja, så är det, men det är ett bekymmer, och det är ju därför som det är, vissa restriktioner i stadsplanerade områden, och så också när det gäller det här, men är det någonstans man har problem med råttor, så är det ju i Stockholm, och jag förstår.",
+      "Start": "00:43:15,640",
+      "End": "00:43:32,600",
+      "Duration": "16960"
+    },
     
     {
-      "i": 220,
       "UID": "UID-220",
-      "speaker": "",
-      "text": "Ja, men i större städer över huvudetaget, där är det tillåtet med gift, så är det.",
-      "start": "00:43:32,600",
-      "end": "00:43:44,080",
-      "duration": "11480"
-    }
+      "Speaker": "",
+      "Text": "Ja, men i större städer över huvudetaget, där är det tillåtet med gift, så är det.",
+      "Start": "00:43:32,600",
+      "End": "00:43:44,080",
+      "Duration": "11480"
+    },
     
     {
-      "i": 221,
       "UID": "UID-221",
-      "speaker": "",
-      "text": "Okej, vi går vidare.",
-      "start": "00:43:44,080",
-      "end": "00:43:46,080",
-      "duration": "2000"
-    }
+      "Speaker": "",
+      "Text": "Okej, vi går vidare.",
+      "Start": "00:43:44,080",
+      "End": "00:43:46,080",
+      "Duration": "2000"
+    },
     
     {
-      "i": 222,
       "UID": "UID-222",
-      "speaker": "",
-      "text": "Alltså, jag ska, jag får ändå säga så här, att ändå när det gäller det där då, eftersom han inte var intresserad av gift, så tänker jag att få försöka med fäller, och det är ju det man ska göra enligt regelverken nu mer också då.",
-      "start": "00:43:46,080",
-      "end": "00:44:00,880",
-      "duration": "14800"
-    }
+      "Speaker": "",
+      "Text": "Alltså, jag ska, jag får ändå säga så här, att ändå när det gäller det där då, eftersom han inte var intresserad av gift, så tänker jag att få försöka med fäller, och det är ju det man ska göra enligt regelverken nu mer också då.",
+      "Start": "00:43:46,080",
+      "End": "00:44:00,880",
+      "Duration": "14800"
+    },
     
     {
-      "i": 223,
       "UID": "UID-223",
-      "speaker": "",
-      "text": "Och det finns ju levande fångstfäller då, men då måste du ju ta hand om det där, och du måste ha väldigt tillsyn och kolla igenom regelverket för det då.",
-      "start": "00:44:00,880",
-      "end": "00:44:10,480",
-      "duration": "9600"
-    }
+      "Speaker": "",
+      "Text": "Och det finns ju levande fångstfäller då, men då måste du ju ta hand om det där, och du måste ha väldigt tillsyn och kolla igenom regelverket för det då.",
+      "Start": "00:44:00,880",
+      "End": "00:44:10,480",
+      "Duration": "9600"
+    },
     
     {
-      "i": 224,
       "UID": "UID-224",
-      "speaker": "",
-      "text": "Men också sådana fjellfäller, alltså som sappar råttorna, så att de kan ta fler, för en vanlig fälla, den måste du ju aptera igen, eftersom han dödat en råtta, det finns sådana som, ditt!",
-      "start": "00:44:10,480",
-      "end": "00:44:25,880",
-      "duration": "15400"
-    }
+      "Speaker": "",
+      "Text": "Men också sådana fjellfäller, alltså som sappar råttorna, så att de kan ta fler, för en vanlig fälla, den måste du ju aptera igen, eftersom han dödat en råtta, det finns sådana som, ditt!",
+      "Start": "00:44:10,480",
+      "End": "00:44:25,880",
+      "Duration": "15400"
+    },
     
     {
-      "i": 225,
       "UID": "UID-225",
-      "speaker": "",
-      "text": "Ja, jag vet inte om det finns det till råttor, till muskes, ja, precis, men jag är inte uppdaterad, jag kör med hundarna.",
-      "start": "00:44:25,880",
-      "end": "00:44:34,680",
-      "duration": "8800"
-    }
+      "Speaker": "",
+      "Text": "Ja, jag vet inte om det finns det till råttor, till muskes, ja, precis, men jag är inte uppdaterad, jag kör med hundarna.",
+      "Start": "00:44:25,880",
+      "End": "00:44:34,680",
+      "Duration": "8800"
+    },
     
     {
-      "i": 226,
       "UID": "UID-226",
-      "speaker": "",
-      "text": "Ja, lycka till, ser du som ett sätt att öva dina färdigheter om rysen kommer?",
-      "start": "00:44:34,680",
-      "end": "00:44:45,680",
-      "duration": "11000"
-    }
+      "Speaker": "",
+      "Text": "Ja, lycka till, ser du som ett sätt att öva dina färdigheter om rysen kommer?",
+      "Start": "00:44:34,680",
+      "End": "00:44:45,680",
+      "Duration": "11000"
+    },
     
     {
-      "i": 227,
       "UID": "UID-227",
-      "speaker": "",
-      "text": "Nej, jag skulle säga på jakt i stället, det är ju jakt.",
-      "start": "00:44:45,680",
-      "end": "00:44:49,680",
-      "duration": "4000"
-    }
+      "Speaker": "",
+      "Text": "Nej, jag skulle säga på jakt i stället, det är ju jakt.",
+      "Start": "00:44:45,680",
+      "End": "00:44:49,680",
+      "Duration": "4000"
+    },
     
     {
-      "i": 228,
       "UID": "UID-228",
-      "speaker": "",
-      "text": "Nej, alltså, jag har också skjutsjukt, skjutsjukt, det kanske inte jag har alls.",
-      "start": "00:44:49,680",
-      "end": "00:44:55,680",
-      "duration": "6000"
-    }
+      "Speaker": "",
+      "Text": "Nej, alltså, jag har också skjutsjukt, skjutsjukt, det kanske inte jag har alls.",
+      "Start": "00:44:49,680",
+      "End": "00:44:55,680",
+      "Duration": "6000"
+    },
     
     {
-      "i": 229,
       "UID": "UID-229",
-      "speaker": "",
-      "text": "Haha, klipp där i lills, klipp!",
-      "start": "00:44:55,680",
-      "end": "00:44:58,680",
-      "duration": "3000"
-    }
+      "Speaker": "",
+      "Text": "Haha, klipp där i lills, klipp!",
+      "Start": "00:44:55,680",
+      "End": "00:44:58,680",
+      "Duration": "3000"
+    },
     
     {
-      "i": 230,
       "UID": "UID-230",
-      "speaker": "",
-      "text": "Det räcker nog alldeles.",
-      "start": "00:44:58,680",
-      "end": "00:45:01,680",
-      "duration": "3000"
-    }
+      "Speaker": "",
+      "Text": "Det räcker nog alldeles.",
+      "Start": "00:44:58,680",
+      "End": "00:45:01,680",
+      "Duration": "3000"
+    },
     
     {
-      "i": 231,
       "UID": "UID-231",
-      "speaker": "",
-      "text": "Nästa fråga kommer från ytterligen Patreon, som skriver så här, vad gör ni av ullen från era får, tar ni hand om den och producera något av den, antingen som fiber eller lanolin?",
-      "start": "00:45:01,680",
-      "end": "00:45:14,680",
-      "duration": "13000"
-    }
+      "Speaker": "",
+      "Text": "Nästa fråga kommer från ytterligen Patreon, som skriver så här, vad gör ni av ullen från era får, tar ni hand om den och producera något av den, antingen som fiber eller lanolin?",
+      "Start": "00:45:01,680",
+      "End": "00:45:14,680",
+      "Duration": "13000"
+    },
     
     {
-      "i": 232,
       "UID": "UID-232",
-      "speaker": "",
-      "text": "Har du gjort något med din ull, på allting?",
-      "start": "00:45:14,680",
-      "end": "00:45:16,680",
-      "duration": "2000"
-    }
+      "Speaker": "",
+      "Text": "Har du gjort något med din ull, på allting?",
+      "Start": "00:45:14,680",
+      "End": "00:45:16,680",
+      "Duration": "2000"
+    },
     
     {
-      "i": 233,
       "UID": "UID-233",
-      "speaker": "",
-      "text": "Inte jag, men min hustru har ju provat att upppröva kvaliteten och så vidare på mjölkvårdens ull, och det gick alldeles utmärkt att tova, så hon har ju tovat någon sitt dyna av sådana här grejer och även tovat in lite yt av pälsen ifrån våra lappundar då, och testat och experimenterat lite så.",
-      "start": "00:45:16,680",
-      "end": "00:45:37,680",
-      "duration": "21000"
-    }
+      "Speaker": "",
+      "Text": "Inte jag, men min hustru har ju provat att upppröva kvaliteten och så vidare på mjölkvårdens ull, och det gick alldeles utmärkt att tova, så hon har ju tovat någon sitt dyna av sådana här grejer och även tovat in lite yt av pälsen ifrån våra lappundar då, och testat och experimenterat lite så.",
+      "Start": "00:45:16,680",
+      "End": "00:45:37,680",
+      "Duration": "21000"
+    },
     
     {
-      "i": 234,
       "UID": "UID-234",
-      "speaker": "",
-      "text": "Och jag kan väl säga så här, att, ja, men hon har även sprunnit, faktiskt, med slända lite grann, förut detta, och den håller, funkar mjölkvårdens ull till sånt också.",
-      "start": "00:45:37,680",
-      "end": "00:45:50,680",
-      "duration": "13000"
-    }
+      "Speaker": "",
+      "Text": "Och jag kan väl säga så här, att, ja, men hon har även sprunnit, faktiskt, med slända lite grann, förut detta, och den håller, funkar mjölkvårdens ull till sånt också.",
+      "Start": "00:45:37,680",
+      "End": "00:45:50,680",
+      "Duration": "13000"
+    },
     
     {
-      "i": 235,
       "UID": "UID-235",
-      "speaker": "",
-      "text": "Men två människor på ett småbruk, där man har accepterat att man kommer att ligga tio år efter när man dör, man hinner ju, liksom, inte med allting, man gör inte det, va?",
-      "start": "00:45:50,680",
-      "end": "00:46:10,680",
-      "duration": "20000"
-    }
+      "Speaker": "",
+      "Text": "Men två människor på ett småbruk, där man har accepterat att man kommer att ligga tio år efter när man dör, man hinner ju, liksom, inte med allting, man gör inte det, va?",
+      "Start": "00:45:50,680",
+      "End": "00:46:10,680",
+      "Duration": "20000"
+    },
     
     {
-      "i": 236,
       "UID": "UID-236",
-      "speaker": "",
-      "text": "Och jag känner ju när man blir äldre också, att du sitter ju inte och drar iväg långt ut på kvällarna och gör grejer också, utan man är ganska fädig med och håller på med projekt fram till middan, alltså, så är det ju.",
-      "start": "00:46:10,680",
-      "end": "00:46:25,680",
-      "duration": "15000"
-    }
+      "Speaker": "",
+      "Text": "Och jag känner ju när man blir äldre också, att du sitter ju inte och drar iväg långt ut på kvällarna och gör grejer också, utan man är ganska fädig med och håller på med projekt fram till middan, alltså, så är det ju.",
+      "Start": "00:46:10,680",
+      "End": "00:46:25,680",
+      "Duration": "15000"
+    },
     
     {
-      "i": 237,
       "UID": "UID-237",
-      "speaker": "",
-      "text": "Så att det räcker inte till tiden, helt enkelt, utan det blir ofta just sådär, som jag beskrev nu, att man prövar och testar och upptäcker och lär lite grann och så vidare, och så får det bli vissa områden sen, där man utvecklar och blir extra duktig, tror jag sådana vackra.",
-      "start": "00:46:25,680",
-      "end": "00:46:45,680",
-      "duration": "20000"
-    }
+      "Speaker": "",
+      "Text": "Så att det räcker inte till tiden, helt enkelt, utan det blir ofta just sådär, som jag beskrev nu, att man prövar och testar och upptäcker och lär lite grann och så vidare, och så får det bli vissa områden sen, där man utvecklar och blir extra duktig, tror jag sådana vackra.",
+      "Start": "00:46:25,680",
+      "End": "00:46:45,680",
+      "Duration": "20000"
+    },
     
     {
-      "i": 238,
       "UID": "UID-238",
-      "speaker": "",
-      "text": "Jag menar det som lever i den här, liksom, lyxiga tiden, där vi kan välja om vi ska hålla på med sådana grejer eller inte är, då blir det ju de grejerna som han tycker är kul, som han håller på med.",
-      "start": "00:46:45,680",
-      "end": "00:46:53,680",
-      "duration": "8000"
-    }
+      "Speaker": "",
+      "Text": "Jag menar det som lever i den här, liksom, lyxiga tiden, där vi kan välja om vi ska hålla på med sådana grejer eller inte är, då blir det ju de grejerna som han tycker är kul, som han håller på med.",
+      "Start": "00:46:45,680",
+      "End": "00:46:53,680",
+      "Duration": "8000"
+    },
     
     {
-      "i": 239,
       "UID": "UID-239",
-      "speaker": "",
-      "text": "Ja, men jag tror också, att det har varit så i alla tider egentligen, människor inte hunnit göra allting, utan, och tar du ett ställe historiskt, så har det ju varit betydligt mycket mer människor där, va?",
-      "start": "00:46:53,680",
-      "end": "00:47:07,680",
-      "duration": "14000"
-    }
+      "Speaker": "",
+      "Text": "Ja, men jag tror också, att det har varit så i alla tider egentligen, människor inte hunnit göra allting, utan, och tar du ett ställe historiskt, så har det ju varit betydligt mycket mer människor där, va?",
+      "Start": "00:46:53,680",
+      "End": "00:47:07,680",
+      "Duration": "14000"
+    },
     
     {
-      "i": 240,
       "UID": "UID-240",
-      "speaker": "",
-      "text": "Så att man hade nog olika roller och hade olika grejer, som man var duktig på, kanske kopplad till vad man tyckte var roligt också, även om det.",
-      "start": "00:47:07,680",
-      "end": "00:47:17,680",
-      "duration": "10000"
-    }
+      "Speaker": "",
+      "Text": "Så att man hade nog olika roller och hade olika grejer, som man var duktig på, kanske kopplad till vad man tyckte var roligt också, även om det.",
+      "Start": "00:47:07,680",
+      "End": "00:47:17,680",
+      "Duration": "10000"
+    },
     
     {
-      "i": 241,
       "UID": "UID-241",
-      "speaker": "",
-      "text": "Det var liksom passens, liksom, psyke.",
-      "start": "00:47:17,680",
-      "end": "00:47:19,680",
-      "duration": "2000"
-    }
+      "Speaker": "",
+      "Text": "Det var liksom passens, liksom, psyke.",
+      "Start": "00:47:17,680",
+      "End": "00:47:19,680",
+      "Duration": "2000"
+    },
     
     {
-      "i": 242,
       "UID": "UID-242",
-      "speaker": "",
-      "text": "Ja, det hänger ju lite grann ihop, det där ju.",
-      "start": "00:47:19,680",
-      "end": "00:47:22,680",
-      "duration": "3000"
-    }
+      "Speaker": "",
+      "Text": "Ja, det hänger ju lite grann ihop, det där ju.",
+      "Start": "00:47:19,680",
+      "End": "00:47:22,680",
+      "Duration": "3000"
+    },
     
     {
-      "i": 243,
       "UID": "UID-243",
-      "speaker": "",
-      "text": "Men vi provade också på att göra garn, men vi lämnade in då, alltså skickade iväg det på tvätt och spinn, vad ni heter.",
-      "start": "00:47:22,680",
-      "end": "00:47:30,680",
-      "duration": "8000"
-    }
+      "Speaker": "",
+      "Text": "Men vi provade också på att göra garn, men vi lämnade in då, alltså skickade iväg det på tvätt och spinn, vad ni heter.",
+      "Start": "00:47:22,680",
+      "End": "00:47:30,680",
+      "Duration": "8000"
+    },
     
     {
-      "i": 244,
       "UID": "UID-244",
-      "speaker": "",
-      "text": "Ja.",
-      "start": "00:47:30,680",
-      "end": "00:47:31,680",
-      "duration": "1000"
-    }
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:47:30,680",
+      "End": "00:47:31,680",
+      "Duration": "1000"
+    },
     
     {
-      "i": 245,
       "UID": "UID-245",
-      "speaker": "",
-      "text": "Det var ju mycket, man fick ju, alltså, man fick ju fem mil garn på ett år, alltså otroligt, otroligt mycket garn, men det var jättedyrt, som allt annat, så det kändes inte värt, men vi, vi, vi.",
-      "start": "00:47:31,680",
-      "end": "00:47:49,680",
-      "duration": "18000"
-    }
+      "Speaker": "",
+      "Text": "Det var ju mycket, man fick ju, alltså, man fick ju fem mil garn på ett år, alltså otroligt, otroligt mycket garn, men det var jättedyrt, som allt annat, så det kändes inte värt, men vi, vi, vi.",
+      "Start": "00:47:31,680",
+      "End": "00:47:49,680",
+      "Duration": "18000"
+    },
     
     {
-      "i": 246,
       "UID": "UID-246",
-      "speaker": "",
-      "text": "Jag vill ju åka och köpa garn i stället.",
-      "start": "00:47:49,680",
-      "end": "00:47:51,680",
-      "duration": "2000"
-    }
+      "Speaker": "",
+      "Text": "Jag vill ju åka och köpa garn i stället.",
+      "Start": "00:47:49,680",
+      "End": "00:47:51,680",
+      "Duration": "2000"
+    },
     
     {
-      "i": 247,
       "UID": "UID-247",
-      "speaker": "",
-      "text": "Ja, eller köpa en tröja är ju, som, otroligt billig, jämfört med att göra allting själv.",
-      "start": "00:47:51,680",
-      "end": "00:47:57,680",
-      "duration": "6000"
-    }
+      "Speaker": "",
+      "Text": "Ja, eller köpa en tröja är ju, som, otroligt billig, jämfört med att göra allting själv.",
+      "Start": "00:47:51,680",
+      "End": "00:47:57,680",
+      "Duration": "6000"
+    },
     
     {
-      "i": 248,
       "UID": "UID-248",
-      "speaker": "",
-      "text": "Alltså, det finns ju en vits med det där, och det är ju faktiskt den, att för, att man förstår det.",
-      "start": "00:47:57,680",
-      "end": "00:48:03,680",
-      "duration": "6000"
-    }
+      "Speaker": "",
+      "Text": "Alltså, det finns ju en vits med det där, och det är ju faktiskt den, att för, att man förstår det.",
+      "Start": "00:47:57,680",
+      "End": "00:48:03,680",
+      "Duration": "6000"
+    },
     
     {
-      "i": 249,
       "UID": "UID-249",
-      "speaker": "",
-      "text": "Ja, ja, precis, och det tänker jag ju nästan, det viktigaste med det här, som vi håller på med, alltså, i alla fall inför barnen, liksom hur, liksom hur lyxigt det är med filén, att det sitter bara två filéer på varje ur, det är inte mer, liksom, så om du ska äta det, jag har aldrig aldrig sett något sådant.",
-      "start": "00:48:03,680",
-      "end": "00:48:20,680",
-      "duration": "17000"
-    }
+      "Speaker": "",
+      "Text": "Ja, ja, precis, och det tänker jag ju nästan, det viktigaste med det här, som vi håller på med, alltså, i alla fall inför barnen, liksom hur, liksom hur lyxigt det är med filén, att det sitter bara två filéer på varje ur, det är inte mer, liksom, så om du ska äta det, jag har aldrig aldrig sett något sådant.",
+      "Start": "00:48:03,680",
+      "End": "00:48:20,680",
+      "Duration": "17000"
+    },
     
     {
-      "i": 250,
       "UID": "UID-250",
-      "speaker": "",
-      "text": "Och hur mycket arbetet det ligger bakom en tröja är ju, är ju viktigt att veta.",
-      "start": "00:48:20,680",
-      "end": "00:48:29,680",
-      "duration": "9000"
-    }
+      "Speaker": "",
+      "Text": "Och hur mycket arbetet det ligger bakom en tröja är ju, är ju viktigt att veta.",
+      "Start": "00:48:20,680",
+      "End": "00:48:29,680",
+      "Duration": "9000"
+    },
     
     {
-      "i": 251,
       "UID": "UID-251",
-      "speaker": "",
-      "text": "Men vi har använt dörren till att sätta uppe i våra små träd, det håller rådjuren borta.",
-      "start": "00:48:29,680",
-      "end": "00:48:37,680",
-      "duration": "8000"
-    }
+      "Speaker": "",
+      "Text": "Men vi har använt dörren till att sätta uppe i våra små träd, det håller rådjuren borta.",
+      "Start": "00:48:29,680",
+      "End": "00:48:37,680",
+      "Duration": "8000"
+    },
     
     {
-      "i": 252,
       "UID": "UID-252",
-      "speaker": "",
-      "text": "Ja, så är det, och det fungerar ju verkligen dessutom.",
-      "start": "00:48:37,680",
-      "end": "00:48:42,680",
-      "duration": "5000"
-    }
+      "Speaker": "",
+      "Text": "Ja, så är det, och det fungerar ju verkligen dessutom.",
+      "Start": "00:48:37,680",
+      "End": "00:48:42,680",
+      "Duration": "5000"
+    },
     
     {
-      "i": 253,
       "UID": "UID-253",
-      "speaker": "",
-      "text": "Sen har jag isolerat något, jag kommer inte riktigt ihåg vad, men jag har isolerat något med fårull, det var ju också, liksom, alltså, jag tänkte på ett problem då, men vad man höll på, i början, men att man, alltså, det blev otroligt smidigt på de här hundtån-träfiberull-isoleringsskivorna, i stället för att packa med, men jag trodde att jag gjorde en kompost med ull, till exempel.",
-      "start": "00:48:42,680",
-      "end": "00:49:08,680",
-      "duration": "26000"
-    }
+      "Speaker": "",
+      "Text": "Sen har jag isolerat något, jag kommer inte riktigt ihåg vad, men jag har isolerat något med fårull, det var ju också, liksom, alltså, jag tänkte på ett problem då, men vad man höll på, i början, men att man, alltså, det blev otroligt smidigt på de här hundtån-träfiberull-isoleringsskivorna, i stället för att packa med, men jag trodde att jag gjorde en kompost med ull, till exempel.",
+      "Start": "00:48:42,680",
+      "End": "00:49:08,680",
+      "Duration": "26000"
+    },
     
     {
-      "i": 254,
       "UID": "UID-254",
-      "speaker": "",
-      "text": "Men, ja, det är ju väldigt bra markteckning, om man har får, ska jag väl säga, med ull eller kompost, det är väldigt mycket näring, att det ju, just det, men ta lugnt till att bryta ner, va?",
-      "start": "00:49:08,680",
-      "end": "00:49:26,680",
-      "duration": "18000"
-    }
+      "Speaker": "",
+      "Text": "Men, ja, det är ju väldigt bra markteckning, om man har får, ska jag väl säga, med ull eller kompost, det är väldigt mycket näring, att det ju, just det, men ta lugnt till att bryta ner, va?",
+      "Start": "00:49:08,680",
+      "End": "00:49:26,680",
+      "Duration": "18000"
+    },
     
     {
-      "i": 255,
       "UID": "UID-255",
-      "speaker": "",
-      "text": "Alltså, ja, om du lägger dem i en kompost där du har bra fart, så, alltså, jag vet faktiskt inte hur lång tid det tar, jag har inte tänkt på det.",
-      "start": "00:49:26,680",
-      "end": "00:49:35,680",
-      "duration": "9000"
-    }
+      "Speaker": "",
+      "Text": "Alltså, ja, om du lägger dem i en kompost där du har bra fart, så, alltså, jag vet faktiskt inte hur lång tid det tar, jag har inte tänkt på det.",
+      "Start": "00:49:26,680",
+      "End": "00:49:35,680",
+      "Duration": "9000"
+    },
     
     {
-      "i": 256,
       "UID": "UID-256",
-      "speaker": "",
-      "text": "Och så det finns ett annat sånt där, att sorken tycker att det är skönt att vara under eller ett farnt.",
-      "start": "00:49:35,680",
-      "end": "00:49:42,680",
-      "duration": "7000"
-    }
+      "Speaker": "",
+      "Text": "Och så det finns ett annat sånt där, att sorken tycker att det är skönt att vara under eller ett farnt.",
+      "Start": "00:49:35,680",
+      "End": "00:49:42,680",
+      "Duration": "7000"
+    },
     
     {
-      "i": 257,
       "UID": "UID-257",
-      "speaker": "",
-      "text": "Det måste vara jättemycket som gillar att bo under ullen, och den är ju så pass tetsatt, så kan det nog vara, men, ja, precis, men i växthus och sådana grejer skulle du kunna ha det, förhålla fuktigheten och så.",
-      "start": "00:49:42,680",
-      "end": "00:49:56,680",
-      "duration": "14000"
-    }
+      "Speaker": "",
+      "Text": "Det måste vara jättemycket som gillar att bo under ullen, och den är ju så pass tetsatt, så kan det nog vara, men, ja, precis, men i växthus och sådana grejer skulle du kunna ha det, förhålla fuktigheten och så.",
+      "Start": "00:49:42,680",
+      "End": "00:49:56,680",
+      "Duration": "14000"
+    },
     
     {
-      "i": 258,
       "UID": "UID-258",
-      "speaker": "",
-      "text": "Jag, jag ska säga så här, jag lägger i komposten, tår jag med, det är där min ull hamnar, i de stora fem fax komposten.",
-      "start": "00:49:56,680",
-      "end": "00:50:05,680",
-      "duration": "9000"
-    }
+      "Speaker": "",
+      "Text": "Jag, jag ska säga så här, jag lägger i komposten, tår jag med, det är där min ull hamnar, i de stora fem fax komposten.",
+      "Start": "00:49:56,680",
+      "End": "00:50:05,680",
+      "Duration": "9000"
+    },
     
     {
-      "i": 259,
       "UID": "UID-259",
-      "speaker": "",
-      "text": "Bra, bra, bra, bra.",
-      "start": "00:50:05,680",
-      "end": "00:50:08,680",
-      "duration": "3000"
-    }
+      "Speaker": "",
+      "Text": "Bra, bra, bra, bra.",
+      "Start": "00:50:05,680",
+      "End": "00:50:08,680",
+      "Duration": "3000"
+    },
     
     {
-      "i": 260,
       "UID": "UID-260",
-      "speaker": "",
-      "text": "Patrik, vi har fått fråga till podden, nu hittar jag inte den, men, det var, det var något som nu skulle få så massa grejer, och dess fröfrådan hade blivit uppeätet av möss.",
-      "start": "00:50:08,680",
-      "end": "00:50:21,680",
-      "duration": "13000"
-    }
+      "Speaker": "",
+      "Text": "Patrik, vi har fått fråga till podden, nu hittar jag inte den, men, det var, det var något som nu skulle få så massa grejer, och dess fröfrådan hade blivit uppeätet av möss.",
+      "Start": "00:50:08,680",
+      "End": "00:50:21,680",
+      "Duration": "13000"
+    },
     
     {
-      "i": 261,
       "UID": "UID-261",
-      "speaker": "",
-      "text": "Och dessens har du också varit med om också någon gång, nej, de små planterna har mätit upp för dig.",
-      "start": "00:50:21,680",
-      "end": "00:50:26,680",
-      "duration": "5000"
-    }
+      "Speaker": "",
+      "Text": "Och dessens har du också varit med om också någon gång, nej, de små planterna har mätit upp för dig.",
+      "Start": "00:50:21,680",
+      "End": "00:50:26,680",
+      "Duration": "5000"
+    },
     
     {
-      "i": 262,
       "UID": "UID-262",
-      "speaker": "",
-      "text": "Ja, ja, ja, ja, ja, här, jag har, det gjorde jag nu, äntligen, för ett par år sedan tror jag det.",
-      "start": "00:50:26,680",
-      "end": "00:50:33,680",
-      "duration": "7000"
-    }
+      "Speaker": "",
+      "Text": "Ja, ja, ja, ja, ja, här, jag har, det gjorde jag nu, äntligen, för ett par år sedan tror jag det.",
+      "Start": "00:50:26,680",
+      "End": "00:50:33,680",
+      "Duration": "7000"
+    },
     
     {
-      "i": 263,
       "UID": "UID-263",
-      "speaker": "",
-      "text": "Ja, mustätade och mustätade och mustätade livkammaren.",
-      "start": "00:50:33,680",
-      "end": "00:50:39,680",
-      "duration": "6000"
-    }
+      "Speaker": "",
+      "Text": "Ja, mustätade och mustätade och mustätade livkammaren.",
+      "Start": "00:50:33,680",
+      "End": "00:50:39,680",
+      "Duration": "6000"
+    },
     
     {
-      "i": 264,
       "UID": "UID-264",
-      "speaker": "",
-      "text": "Ja, just, alltså, chili-planter har jag tappat ganska mycket chili-planter genom åren, alltså.",
-      "start": "00:50:39,680",
-      "end": "00:50:48,680",
-      "duration": "9000"
-    }
+      "Speaker": "",
+      "Text": "Ja, just, alltså, chili-planter har jag tappat ganska mycket chili-planter genom åren, alltså.",
+      "Start": "00:50:39,680",
+      "End": "00:50:48,680",
+      "Duration": "9000"
+    },
     
     {
-      "i": 265,
       "UID": "UID-265",
-      "speaker": "",
-      "text": "Men här var det i alla fall någon som hade fått sitt frölager uppeätet av möss, och då undrade hans här, kan ni fixa en rabatt på fröör, för de var tvunna att fylla på igen, och då snackade han med fröbanken.",
-      "start": "00:50:48,680",
-      "end": "00:51:01,680",
-      "duration": "13000"
-    }
+      "Speaker": "",
+      "Text": "Men här var det i alla fall någon som hade fått sitt frölager uppeätet av möss, och då undrade hans här, kan ni fixa en rabatt på fröör, för de var tvunna att fylla på igen, och då snackade han med fröbanken.",
+      "Start": "00:50:48,680",
+      "End": "00:51:01,680",
+      "Duration": "13000"
+    },
     
     {
-      "i": 266,
       "UID": "UID-266",
-      "speaker": "",
-      "text": "Okej.",
-      "start": "00:51:01,680",
-      "end": "00:51:02,680",
-      "duration": "1000"
-    }
+      "Speaker": "",
+      "Text": "Okej.",
+      "Start": "00:51:01,680",
+      "End": "00:51:02,680",
+      "Duration": "1000"
+    },
     
     {
-      "i": 267,
       "UID": "UID-267",
-      "speaker": "",
-      "text": "Och vi, det ville han fixa en rabatt, tio procent, på alla fröör.",
-      "start": "00:51:02,680",
-      "end": "00:51:10,680",
-      "duration": "8000"
-    }
+      "Speaker": "",
+      "Text": "Och vi, det ville han fixa en rabatt, tio procent, på alla fröör.",
+      "Start": "00:51:02,680",
+      "End": "00:51:10,680",
+      "Duration": "8000"
+    },
     
     {
-      "i": 268,
       "UID": "UID-268",
-      "speaker": "",
-      "text": "Till alla våra lyssnare då, eller bara till den här, alla, alla, som har fått fröna uppeätna av möss.",
-      "start": "00:51:10,680",
-      "end": "00:51:17,680",
-      "duration": "7000"
-    }
+      "Speaker": "",
+      "Text": "Till alla våra lyssnare då, eller bara till den här, alla, alla, som har fått fröna uppeätna av möss.",
+      "Start": "00:51:10,680",
+      "End": "00:51:17,680",
+      "Duration": "7000"
+    },
     
     {
-      "i": 269,
       "UID": "UID-269",
-      "speaker": "",
-      "text": "Om ni vet, om ni har haft någon tid av problem med frölager.",
-      "start": "00:51:17,680",
-      "end": "00:51:22,680",
-      "duration": "5000"
-    }
+      "Speaker": "",
+      "Text": "Om ni vet, om ni har haft någon tid av problem med frölager.",
+      "Start": "00:51:17,680",
+      "End": "00:51:22,680",
+      "Duration": "5000"
+    },
     
     {
-      "i": 270,
       "UID": "UID-270",
-      "speaker": "",
-      "text": "Men det här gäller alla, alltså alla, som vill köpa fröör på fröbanken, det här gäller månaden ut, alltså februari ut, det här är svinflott, ska ni veta.",
-      "start": "00:51:22,680",
-      "end": "00:51:34,680",
-      "duration": "12000"
-    }
+      "Speaker": "",
+      "Text": "Men det här gäller alla, alltså alla, som vill köpa fröör på fröbanken, det här gäller månaden ut, alltså februari ut, det här är svinflott, ska ni veta.",
+      "Start": "00:51:22,680",
+      "End": "00:51:34,680",
+      "Duration": "12000"
+    },
     
     {
-      "i": 271,
       "UID": "UID-271",
-      "speaker": "",
-      "text": "Och det gäller då alla fröör, även stor pack och mega pack, ej tillbehör, alltså inga odlingstråg och sånt där, men alla fröör.",
-      "start": "00:51:34,680",
-      "end": "00:51:42,680",
-      "duration": "8000"
-    }
+      "Speaker": "",
+      "Text": "Och det gäller då alla fröör, även stor pack och mega pack, ej tillbehör, alltså inga odlingstråg och sånt där, men alla fröör.",
+      "Start": "00:51:34,680",
+      "End": "00:51:42,680",
+      "Duration": "8000"
+    },
     
     {
-      "i": 272,
       "UID": "UID-272",
-      "speaker": "",
-      "text": "Tio procent på alla fröar på fröbanken, koden är katastrofrabatt, med små bokstäder.",
-      "start": "00:51:42,680",
-      "end": "00:51:51,680",
-      "duration": "9000"
-    }
+      "Speaker": "",
+      "Text": "Tio procent på alla fröar på fröbanken, koden är katastrofrabatt, med små bokstäder.",
+      "Start": "00:51:42,680",
+      "End": "00:51:51,680",
+      "Duration": "9000"
+    },
     
     {
-      "i": 273,
       "UID": "UID-273",
-      "speaker": "",
-      "text": "Ja.",
-      "start": "00:51:51,680",
-      "end": "00:51:52,680",
-      "duration": "1000"
-    }
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:51:51,680",
+      "End": "00:51:52,680",
+      "Duration": "1000"
+    },
     
     {
-      "i": 274,
       "UID": "UID-274",
-      "speaker": "",
-      "text": "Det var jävligt schyssta dagen, måste ni säga.",
-      "start": "00:51:52,680",
-      "end": "00:51:54,680",
-      "duration": "2000"
-    }
+      "Speaker": "",
+      "Text": "Det var jävligt schyssta dagen, måste ni säga.",
+      "Start": "00:51:52,680",
+      "End": "00:51:54,680",
+      "Duration": "2000"
+    },
     
     {
-      "i": 275,
       "UID": "UID-275",
-      "speaker": "",
-      "text": "Ja, vi hade ju en del samarbete med fröbanken i början, men det är ganska mycket fröfirmer nu, och fröbanken har ju ändå hyfsade priser, rätt bra priser till och med, skulle jag säga.",
-      "start": "00:51:54,680",
-      "end": "00:52:11,680",
-      "duration": "17000"
-    }
+      "Speaker": "",
+      "Text": "Ja, vi hade ju en del samarbete med fröbanken i början, men det är ganska mycket fröfirmer nu, och fröbanken har ju ändå hyfsade priser, rätt bra priser till och med, skulle jag säga.",
+      "Start": "00:51:54,680",
+      "End": "00:52:11,680",
+      "Duration": "17000"
+    },
     
     {
-      "i": 276,
       "UID": "UID-276",
-      "speaker": "",
-      "text": "Alltså marginalerna är ju inte gigantiska, alltså att det är lite unik, att vi har inte haft ett rabatsamarbete på flera år med dem egentligen, när det gäller vanliga sådana fröör och så där, så att det var kul, att du fick till det, Kalle.",
-      "start": "00:52:11,680",
-      "end": "00:52:26,680",
-      "duration": "15000"
-    }
+      "Speaker": "",
+      "Text": "Alltså marginalerna är ju inte gigantiska, alltså att det är lite unik, att vi har inte haft ett rabatsamarbete på flera år med dem egentligen, när det gäller vanliga sådana fröör och så där, så att det var kul, att du fick till det, Kalle.",
+      "Start": "00:52:11,680",
+      "End": "00:52:26,680",
+      "Duration": "15000"
+    },
     
     {
-      "i": 277,
       "UID": "UID-277",
-      "speaker": "",
-      "text": "Ja, men och det är också bara, att styrskälla skön, alltså man gillar ett ställe, där en, men jag får fråga för löstare, som har varit med om en jobbig grej, ville fylla på sitt frölager, då messar jag till han som har företaget, och då svarar han med en rabatt på.",
-      "start": "00:52:26,680",
-      "end": "00:52:40,680",
-      "duration": "14000"
-    }
+      "Speaker": "",
+      "Text": "Ja, men och det är också bara, att styrskälla skön, alltså man gillar ett ställe, där en, men jag får fråga för löstare, som har varit med om en jobbig grej, ville fylla på sitt frölager, då messar jag till han som har företaget, och då svarar han med en rabatt på.",
+      "Start": "00:52:26,680",
+      "End": "00:52:40,680",
+      "Duration": "14000"
+    },
     
     {
-      "i": 278,
       "UID": "UID-278",
-      "speaker": "",
-      "text": "Det måste man ju ändå uppskatta.",
-      "start": "00:52:40,680",
-      "end": "00:52:43,680",
-      "duration": "3000"
-    }
+      "Speaker": "",
+      "Text": "Det måste man ju ändå uppskatta.",
+      "Start": "00:52:40,680",
+      "End": "00:52:43,680",
+      "Duration": "3000"
+    },
     
     {
-      "i": 279,
       "UID": "UID-279",
-      "speaker": "",
-      "text": "Och jag hoppas, att det var tydligt, att det gällde för er en han, som hade råkat illa ut.",
-      "start": "00:52:43,680",
-      "end": "00:52:48,680",
-      "duration": "5000"
-    }
+      "Speaker": "",
+      "Text": "Och jag hoppas, att det var tydligt, att det gällde för er en han, som hade råkat illa ut.",
+      "Start": "00:52:43,680",
+      "End": "00:52:48,680",
+      "Duration": "5000"
+    },
     
     {
-      "i": 280,
       "UID": "UID-280",
-      "speaker": "",
-      "text": "Då nu får panik nu.",
-      "start": "00:52:48,680",
-      "end": "00:52:50,680",
-      "duration": "2000"
-    }
+      "Speaker": "",
+      "Text": "Då nu får panik nu.",
+      "Start": "00:52:48,680",
+      "End": "00:52:50,680",
+      "Duration": "2000"
+    },
     
     {
-      "i": 281,
       "UID": "UID-281",
-      "speaker": "",
-      "text": "Ja.",
-      "start": "00:52:50,680",
-      "end": "00:52:51,680",
-      "duration": "1000"
-    }
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:52:50,680",
+      "End": "00:52:51,680",
+      "Duration": "1000"
+    },
     
     {
-      "i": 282,
       "UID": "UID-282",
-      "speaker": "",
-      "text": "Jag också två gånger när jag ska messa fröbanken, Daniel, messat i stället jordnära Daniel, så att jag undrar om någon av dem kan byta namn.",
-      "start": "00:52:51,680",
-      "end": "00:53:00,680",
-      "duration": "9000"
-    }
+      "Speaker": "",
+      "Text": "Jag också två gånger när jag ska messa fröbanken, Daniel, messat i stället jordnära Daniel, så att jag undrar om någon av dem kan byta namn.",
+      "Start": "00:52:51,680",
+      "End": "00:53:00,680",
+      "Duration": "9000"
+    },
     
     {
-      "i": 283,
       "UID": "UID-283",
-      "speaker": "",
-      "text": "Men stort tack till Daniel på fröbanken, eller till alla er på fröbanken, otroligt generöst.",
-      "start": "00:53:00,680",
-      "end": "00:53:11,680",
-      "duration": "11000"
-    }
+      "Speaker": "",
+      "Text": "Men stort tack till Daniel på fröbanken, eller till alla er på fröbanken, otroligt generöst.",
+      "Start": "00:53:00,680",
+      "End": "00:53:11,680",
+      "Duration": "11000"
+    },
     
     {
-      "i": 284,
       "UID": "UID-284",
-      "speaker": "",
-      "text": "Har jag berättat, ja, men det har jag gjort när jag var där, ja, men det gjorde jag när jag var där på besök, va?",
-      "start": "00:53:11,680",
-      "end": "00:53:16,680",
-      "duration": "5000"
-    }
+      "Speaker": "",
+      "Text": "Har jag berättat, ja, men det har jag gjort när jag var där, ja, men det gjorde jag när jag var där på besök, va?",
+      "Start": "00:53:11,680",
+      "End": "00:53:16,680",
+      "Duration": "5000"
+    },
     
     {
-      "i": 285,
       "UID": "UID-285",
-      "speaker": "",
-      "text": "Jag var ju och hälsar på dem, när jag var ute på en av tunerna, när Ingmar var med också.",
-      "start": "00:53:16,680",
-      "end": "00:53:20,680",
-      "duration": "4000"
-    }
+      "Speaker": "",
+      "Text": "Jag var ju och hälsar på dem, när jag var ute på en av tunerna, när Ingmar var med också.",
+      "Start": "00:53:16,680",
+      "End": "00:53:20,680",
+      "Duration": "4000"
+    },
     
     {
-      "i": 286,
       "UID": "UID-286",
-      "speaker": "",
-      "text": "Och jag har kommit ihåg sig igen.",
-      "start": "00:53:20,680",
-      "end": "00:53:22,680",
-      "duration": "2000"
-    }
+      "Speaker": "",
+      "Text": "Och jag har kommit ihåg sig igen.",
+      "Start": "00:53:20,680",
+      "End": "00:53:22,680",
+      "Duration": "2000"
+    },
     
     {
-      "i": 287,
       "UID": "UID-287",
-      "speaker": "",
-      "text": "Men jag vet varför heter fröbanken nu.",
-      "start": "00:53:22,680",
-      "end": "00:53:25,680",
-      "duration": "3000"
-    }
+      "Speaker": "",
+      "Text": "Men jag vet varför heter fröbanken nu.",
+      "Start": "00:53:22,680",
+      "End": "00:53:25,680",
+      "Duration": "3000"
+    },
     
     {
-      "i": 288,
       "UID": "UID-288",
-      "speaker": "",
-      "text": "De har ett bankvalv!",
-      "start": "00:53:25,680",
-      "end": "00:53:27,680",
-      "duration": "2000"
-    }
+      "Speaker": "",
+      "Text": "De har ett bankvalv!",
+      "Start": "00:53:25,680",
+      "End": "00:53:27,680",
+      "Duration": "2000"
+    },
     
     {
-      "i": 289,
       "UID": "UID-289",
-      "speaker": "",
-      "text": "Jaså? De har ju ett bankvalv där inne, vet du? Det är ju en bank.",
-      "start": "00:53:27,680",
-      "end": "00:53:32,680",
-      "duration": "5000"
-    }
+      "Speaker": "",
+      "Text": "Jaså? De har ju ett bankvalv där inne, vet du? Det är ju en bank.",
+      "Start": "00:53:27,680",
+      "End": "00:53:32,680",
+      "Duration": "5000"
+    },
     
     {
-      "i": 290,
       "UID": "UID-290",
-      "speaker": "",
-      "text": "Nej, det är det faktiskt inte, det är en gammal, vad är det, prästgård eller någonting sånt där, eller har någonting med kyrkan att göra, och då har de haft något arkiv där, men det är ett stort rum i alla fall, som är med sådana jättestort tungdörr på, med sådana gammaldagslås och grejer.",
-      "start": "00:53:32,680",
-      "end": "00:53:51,680",
-      "duration": "19000"
-    }
+      "Speaker": "",
+      "Text": "Nej, det är det faktiskt inte, det är en gammal, vad är det, prästgård eller någonting sånt där, eller har någonting med kyrkan att göra, och då har de haft något arkiv där, men det är ett stort rum i alla fall, som är med sådana jättestort tungdörr på, med sådana gammaldagslås och grejer.",
+      "Start": "00:53:32,680",
+      "End": "00:53:51,680",
+      "Duration": "19000"
+    },
     
     {
-      "i": 291,
       "UID": "UID-291",
-      "speaker": "",
-      "text": "Det gillar ju daget, han är ju lite av, han är ju en beskapskiller, ska man säga.",
-      "start": "00:53:51,680",
-      "end": "00:53:54,680",
-      "duration": "3000"
-    }
+      "Speaker": "",
+      "Text": "Det gillar ju daget, han är ju lite av, han är ju en beskapskiller, ska man säga.",
+      "Start": "00:53:51,680",
+      "End": "00:53:54,680",
+      "Duration": "3000"
+    },
     
     {
-      "i": 292,
       "UID": "UID-292",
-      "speaker": "",
-      "text": "Ja.",
-      "start": "00:53:54,680",
-      "end": "00:53:55,680",
-      "duration": "1000"
-    }
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:53:54,680",
+      "End": "00:53:55,680",
+      "Duration": "1000"
+    },
     
     {
-      "i": 293,
       "UID": "UID-293",
-      "speaker": "",
-      "text": "Han är ju inne på sånt också.",
-      "start": "00:53:55,680",
-      "end": "00:53:58,680",
-      "duration": "3000"
-    }
+      "Speaker": "",
+      "Text": "Han är ju inne på sånt också.",
+      "Start": "00:53:55,680",
+      "End": "00:53:58,680",
+      "Duration": "3000"
+    },
     
     {
-      "i": 294,
       "UID": "UID-294",
-      "speaker": "",
-      "text": "Ja, men du, det var det, Patrik, och tack för att ni lyssnar, tack till alla ni som är medlemmen på Patreon, och tack till alla som ställer frågor.",
-      "start": "00:53:58,680",
-      "end": "00:54:14,680",
-      "duration": "16000"
-    }
+      "Speaker": "",
+      "Text": "Ja, men du, det var det, Patrik, och tack för att ni lyssnar, tack till alla ni som är medlemmen på Patreon, och tack till alla som ställer frågor.",
+      "Start": "00:53:58,680",
+      "End": "00:54:14,680",
+      "Duration": "16000"
+    },
     
     {
-      "i": 295,
       "UID": "UID-295",
-      "speaker": "",
-      "text": "Om du vill ställa fråga, så bli medlem, gå in på Discord och skriv en fråga där, eller maila, hej, jag kan inte stå för mycket, så kollar vi den mailen ibland och svarar på lite frågor.",
-      "start": "00:54:14,680",
-      "end": "00:54:25,680",
-      "duration": "11000"
-    }
+      "Speaker": "",
+      "Text": "Om du vill ställa fråga, så bli medlem, gå in på Discord och skriv en fråga där, eller maila, hej, jag kan inte stå för mycket, så kollar vi den mailen ibland och svarar på lite frågor.",
+      "Start": "00:54:14,680",
+      "End": "00:54:25,680",
+      "Duration": "11000"
+    },
     
     {
-      "i": 296,
       "UID": "UID-296",
-      "speaker": "",
-      "text": "Okej, det var det, puss och kram, hej då.",
-      "start": "00:54:25,680",
-      "end": "00:54:28,680",
-      "duration": "3000"
-    }
+      "Speaker": "",
+      "Text": "Okej, det var det, puss och kram, hej då.",
+      "Start": "00:54:25,680",
+      "End": "00:54:28,680",
+      "Duration": "3000"
+    },
     
     {
-      "i": 297,
       "UID": "UID-297",
-      "speaker": "",
-      "text": "Hej då.",
-      "start": "00:54:28,680",
-      "end": "00:54:30,680",
-      "duration": "2000"
+      "Speaker": "",
+      "Text": "Hej då.",
+      "Start": "00:54:28,680",
+      "End": "00:54:30,680",
+      "Duration": "2000"
     }
     
-  ]
+  ],
+  "Metadata": {
+    "Skapad_av": "Whisper Mate",
+    "Version": "1.0",
+    "Senast_uppdaterad": "20250511"
+  }
 }

@@ -1,0 +1,7253 @@
+{
+  "Titel": "148. Offlinekartor och kalkoner",
+  "Beskrivning": "Okänt",
+  "Datum": "20250511",
+  "Avsnittsnummer": "Okänt",
+  "Säsong": "Okänt",
+  "Totaltid": "2215",
+  "Deltagare": [
+    {
+      "Namn": "Patrik",
+      "Roll": "Värd"
+    },
+    {
+      "Namn": "Kalle",
+      "Roll": "Värd"
+    },
+    {
+      "Namn": "Ing-Marie 'Ingo' Sellman",
+      "Roll": "Gäst"
+    }
+  ],
+  "Ämnen": [
+    "Ämne 1",
+    "Ämne 2",
+    "Ämne 3"
+  ],
+  "Dialog": [
+    
+    {
+      "UID": "UID-1",
+      "Speaker": "",
+      "Text": "Hej och välkommen att vänta på katastrofen.",
+      "Start": "00:00:00,000",
+      "End": "00:00:05,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-2",
+      "Speaker": "",
+      "Text": "Ännu en vecka tillsammans med mig, Kalle Zackari Wahlström och Patrik Sellman.",
+      "Start": "00:00:05,000",
+      "End": "00:00:10,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-3",
+      "Speaker": "",
+      "Text": "Hej Patrik.",
+      "Start": "00:00:10,000",
+      "End": "00:00:12,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-4",
+      "Speaker": "",
+      "Text": "Hej Kalle.",
+      "Start": "00:00:12,000",
+      "End": "00:00:14,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-5",
+      "Speaker": "",
+      "Text": "Du Patrik, hur många följare har du på Instagram?",
+      "Start": "00:00:14,000",
+      "End": "00:00:17,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-6",
+      "Speaker": "",
+      "Text": "Oj.",
+      "Start": "00:00:17,000",
+      "End": "00:00:19,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-7",
+      "Speaker": "",
+      "Text": "Ja du, det är ju över 20 000 i alla fall.",
+      "Start": "00:00:19,000",
+      "End": "00:00:26,000",
+      "Duration": "7000"
+    },
+    
+    {
+      "UID": "UID-8",
+      "Speaker": "",
+      "Text": "Men det är 20 000 och några enstaka tusen.",
+      "Start": "00:00:26,000",
+      "End": "00:00:30,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-9",
+      "Speaker": "",
+      "Text": "Det är ändå mäktigt ju.",
+      "Start": "00:00:30,000",
+      "End": "00:00:32,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-10",
+      "Speaker": "",
+      "Text": "Alltså jag tycker ju det är roligt.",
+      "Start": "00:00:32,000",
+      "End": "00:00:34,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-11",
+      "Speaker": "",
+      "Text": "Hur många hade du när vi började?",
+      "Start": "00:00:34,000",
+      "End": "00:00:36,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-12",
+      "Speaker": "",
+      "Text": "Några tusen.",
+      "Start": "00:00:36,000",
+      "End": "00:00:38,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-13",
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:00:38,000",
+      "End": "00:00:40,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-14",
+      "Speaker": "",
+      "Text": "Inte...",
+      "Start": "00:00:40,000",
+      "End": "00:00:42,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-15",
+      "Speaker": "",
+      "Text": "Alltså Ing-Marie gjorde ju en real.",
+      "Start": "00:00:42,000",
+      "End": "00:00:45,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-16",
+      "Speaker": "",
+      "Text": "Alltså en enda real.",
+      "Start": "00:00:45,000",
+      "End": "00:00:48,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-17",
+      "Speaker": "",
+      "Text": "Där jag av alla också som inte är så bra på det där med bildseende och sånt där.",
+      "Start": "00:00:48,000",
+      "End": "00:00:53,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-18",
+      "Speaker": "",
+      "Text": "Filmar henne när hon skördar rallarrosor.",
+      "Start": "00:00:53,000",
+      "End": "00:00:58,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-19",
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:00:58,000",
+      "End": "00:01:00,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-20",
+      "Speaker": "",
+      "Text": "Och du vet tupparna gal och vinden blåser och sådär.",
+      "Start": "00:01:00,000",
+      "End": "00:01:04,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-21",
+      "Speaker": "",
+      "Text": "Rallarrosblad för att göra te då.",
+      "Start": "00:01:04,000",
+      "End": "00:01:06,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-22",
+      "Speaker": "",
+      "Text": "Det är dags nu faktiskt för det.",
+      "Start": "00:01:06,000",
+      "End": "00:01:07,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-23",
+      "Speaker": "",
+      "Text": "Det blir väldigt gott också.",
+      "Start": "00:01:07,000",
+      "End": "00:01:09,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-24",
+      "Speaker": "",
+      "Text": "Men den där, jag vet inte hur många som har sett den alltså.",
+      "Start": "00:01:09,000",
+      "End": "00:01:13,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-25",
+      "Speaker": "",
+      "Text": "Men det är ju en sån där, du vet, 500-700 000 någonting säkert.",
+      "Start": "00:01:13,000",
+      "End": "00:01:16,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-26",
+      "Speaker": "",
+      "Text": "Oj!",
+      "Start": "00:01:16,000",
+      "End": "00:01:17,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-27",
+      "Speaker": "",
+      "Text": "Och där bara pang dubblade vi på en månad det.",
+      "Start": "00:01:17,000",
+      "End": "00:01:23,000",
+      "Duration": "6000"
+    },
+    
+    {
+      "UID": "UID-28",
+      "Speaker": "",
+      "Text": "Men då hade vi ju byggt upp till 10 000 och det hade väl med posten.",
+      "Start": "00:01:23,000",
+      "End": "00:01:30,000",
+      "Duration": "7000"
+    },
+    
+    {
+      "UID": "UID-29",
+      "Speaker": "",
+      "Text": "Och det här att göra.",
+      "Start": "00:01:30,000",
+      "End": "00:01:32,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-30",
+      "Speaker": "",
+      "Text": "Tänker jag.",
+      "Start": "00:01:32,000",
+      "End": "00:01:33,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-31",
+      "Speaker": "",
+      "Text": "Mycket.",
+      "Start": "00:01:33,000",
+      "End": "00:01:33,000",
+      "Duration": "0"
+    },
+    
+    {
+      "UID": "UID-32",
+      "Speaker": "",
+      "Text": "För den har ju varit.",
+      "Start": "00:01:33,000",
+      "End": "00:01:34,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-33",
+      "Speaker": "",
+      "Text": "Det är ju det som är.",
+      "Start": "00:01:34,000",
+      "End": "00:01:36,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-34",
+      "Speaker": "",
+      "Text": "Förutom att man får möjlighet då som folkbildare och faktiskt nå ut lite grann till folk.",
+      "Start": "00:01:36,000",
+      "End": "00:01:42,000",
+      "Duration": "6000"
+    },
+    
+    {
+      "UID": "UID-35",
+      "Speaker": "",
+      "Text": "Så är det ju faktiskt det där att du får en väldigt bra plattform också.",
+      "Start": "00:01:42,000",
+      "End": "00:01:46,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-36",
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:01:46,000",
+      "End": "00:01:47,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-37",
+      "Speaker": "",
+      "Text": "Det är ju det största värdet.",
+      "Start": "00:01:47,000",
+      "End": "00:01:49,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-38",
+      "Speaker": "",
+      "Text": "Ja, det är kul, kul tänker jag.",
+      "Start": "00:01:49,000",
+      "End": "00:01:52,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-39",
+      "Speaker": "",
+      "Text": "Ja, det är det verkligen.",
+      "Start": "00:01:52,000",
+      "End": "00:01:54,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-40",
+      "Speaker": "",
+      "Text": "Jag tänkte vi skulle köra lite korta frågor idag också.",
+      "Start": "00:01:54,000",
+      "End": "00:01:58,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-41",
+      "Speaker": "",
+      "Text": "Ja, vi gör det.",
+      "Start": "00:01:58,000",
+      "End": "00:02:00,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-42",
+      "Speaker": "",
+      "Text": "Sommartema, det här med kortfrågor.",
+      "Start": "00:02:00,000",
+      "End": "00:02:03,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-43",
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:02:03,000",
+      "End": "00:02:04,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-44",
+      "Speaker": "",
+      "Text": "Första frågan direkt.",
+      "Start": "00:02:04,000",
+      "End": "00:02:06,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-45",
+      "Speaker": "",
+      "Text": "Den har vi tagit förut.",
+      "Start": "00:02:06,000",
+      "End": "00:02:08,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-46",
+      "Speaker": "",
+      "Text": "Men det är bra med repetition, för det är en viktig grej.",
+      "Start": "00:02:08,000",
+      "End": "00:02:11,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-47",
+      "Speaker": "",
+      "Text": "Och den här frågan får vi ganska ofta.",
+      "Start": "00:02:11,000",
+      "End": "00:02:13,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-48",
+      "Speaker": "",
+      "Text": "Hur diskar man vattendunkar?",
+      "Start": "00:02:13,000",
+      "End": "00:02:15,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-49",
+      "Speaker": "",
+      "Text": "Ja, precis.",
+      "Start": "00:02:15,000",
+      "End": "00:02:20,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-50",
+      "Speaker": "",
+      "Text": "Det beror ju på om det bara är vid byte av kommunalt vatten.",
+      "Start": "00:02:20,000",
+      "End": "00:02:25,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-51",
+      "Speaker": "",
+      "Text": "Så okej, låt lite vatten vara kvar och häll i lite klorin.",
+      "Start": "00:02:25,000",
+      "End": "00:02:30,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-52",
+      "Speaker": "",
+      "Text": "Och skaka runt.",
+      "Start": "00:02:30,000",
+      "End": "00:02:33,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-53",
+      "Speaker": "",
+      "Text": "Men annars så, jag tänker så här, för att vidga den där frågan lite då.",
+      "Start": "00:02:33,000",
+      "End": "00:02:39,000",
+      "Duration": "6000"
+    },
+    
+    {
+      "UID": "UID-54",
+      "Speaker": "",
+      "Text": "Eftersom vi har svarat på det här tidigare.",
+      "Start": "00:02:39,000",
+      "End": "00:02:43,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-55",
+      "Speaker": "",
+      "Text": "Vi som brygger, vi använder oss ju, alltså brygger öl och sånt.",
+      "Start": "00:02:43,000",
+      "End": "00:02:47,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-56",
+      "Speaker": "",
+      "Text": "Och gör vin och så.",
+      "Start": "00:02:47,000",
+      "End": "00:02:49,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-57",
+      "Speaker": "",
+      "Text": "Vi använder oss ju utav en del rengöringsmedel.",
+      "Start": "00:02:49,000",
+      "End": "00:02:52,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-58",
+      "Speaker": "",
+      "Text": "Det finns.",
+      "Start": "00:02:52,000",
+      "End": "00:02:54,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-59",
+      "Speaker": "",
+      "Text": "Men du måste ha väldigt rena grejer ju.",
+      "Start": "00:02:54,000",
+      "End": "00:02:56,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-60",
+      "Speaker": "",
+      "Text": "Ja, men exakt.",
+      "Start": "00:02:56,000",
+      "End": "00:02:57,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-61",
+      "Speaker": "",
+      "Text": "Och det är väl det också när man ska ha dricks.",
+      "Start": "00:02:57,000",
+      "End": "00:03:00,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-62",
+      "Speaker": "",
+      "Text": "Vatten i dunkar så är det ju väldigt rena grejer man vill ha.",
+      "Start": "00:03:00,000",
+      "End": "00:03:03,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-63",
+      "Speaker": "",
+      "Text": "Men jag tänkte att jag kunde tipsa om det i alla fall då.",
+      "Start": "00:03:03,000",
+      "End": "00:03:06,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-64",
+      "Speaker": "",
+      "Text": "Som en utvidgning av den här frågan lite.",
+      "Start": "00:03:06,000",
+      "End": "00:03:08,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-65",
+      "Speaker": "",
+      "Text": "Återkommande frågan.",
+      "Start": "00:03:08,000",
+      "End": "00:03:10,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-66",
+      "Speaker": "",
+      "Text": "Och då är det framförallt två stycken rengöringsmedel.",
+      "Start": "00:03:10,000",
+      "End": "00:03:15,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-67",
+      "Speaker": "",
+      "Text": "Jag kommer inte att ge några märken nu för jag kommer faktiskt inte ihåg det.",
+      "Start": "00:03:15,000",
+      "End": "00:03:20,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-68",
+      "Speaker": "",
+      "Text": "Men det ena är ju för att lösa proteiner och sådana grejer med det.",
+      "Start": "00:03:20,000",
+      "End": "00:03:26,000",
+      "Duration": "6000"
+    },
+    
+    {
+      "UID": "UID-69",
+      "Speaker": "",
+      "Text": "Och sen är det ett som jag faktiskt har lärt mig uppskatta.",
+      "Start": "00:03:26,000",
+      "End": "00:03:30,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-70",
+      "Speaker": "",
+      "Text": "Väldigt, väldigt mycket.",
+      "Start": "00:03:30,000",
+      "End": "00:03:33,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-71",
+      "Speaker": "",
+      "Text": "Och det tror jag.",
+      "Start": "00:03:33,000",
+      "End": "00:03:35,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-72",
+      "Speaker": "",
+      "Text": "Jag undrar om inte jag kom på vad det heter.",
+      "Start": "00:03:35,000",
+      "End": "00:03:37,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-73",
+      "Speaker": "",
+      "Text": "Det jag använder.",
+      "Start": "00:03:37,000",
+      "End": "00:03:38,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-74",
+      "Speaker": "",
+      "Text": "Ska jag säga det Calle?",
+      "Start": "00:03:38,000",
+      "End": "00:03:40,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-75",
+      "Speaker": "",
+      "Text": "Det är så fint.",
+      "Start": "00:03:40,000",
+      "End": "00:03:41,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-76",
+      "Speaker": "",
+      "Text": "Jag känner nog ingen annan människa som verkligen, verkligen uppskattar ett rengöringsmedel.",
+      "Start": "00:03:41,000",
+      "End": "00:03:46,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-77",
+      "Speaker": "",
+      "Text": "Starsun.",
+      "Start": "00:03:46,000",
+      "End": "00:03:50,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-78",
+      "Speaker": "",
+      "Text": "Nej, men alltså det är så här.",
+      "Start": "00:03:50,000",
+      "End": "00:03:52,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-79",
+      "Speaker": "",
+      "Text": "Att det är skumbildande och väldigt surt.",
+      "Start": "00:03:52,000",
+      "End": "00:03:58,000",
+      "Duration": "6000"
+    },
+    
+    {
+      "UID": "UID-80",
+      "Speaker": "",
+      "Text": "Jaha.",
+      "Start": "00:03:58,000",
+      "End": "00:03:59,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-81",
+      "Speaker": "",
+      "Text": "Och just väldigt surt.",
+      "Start": "00:03:59,000",
+      "End": "00:04:00,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-82",
+      "Speaker": "",
+      "Text": "Och väldigt sura och väldigt alkaliska, alltså basiska.",
+      "Start": "00:04:00,000",
+      "End": "00:04:03,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-83",
+      "Speaker": "",
+      "Text": "Det har ju med koncentration av vätejoner och hydroxidjoner.",
+      "Start": "00:04:03,000",
+      "End": "00:04:07,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-84",
+      "Speaker": "",
+      "Text": "OH och H att göra va.",
+      "Start": "00:04:07,000",
+      "End": "00:04:10,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-85",
+      "Speaker": "",
+      "Text": "Så blir det väldigt mycket vätejoner.",
+      "Start": "00:04:10,000",
+      "End": "00:04:13,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-86",
+      "Speaker": "",
+      "Text": "En tredjedel av en vattenmolekyl.",
+      "Start": "00:04:13,000",
+      "End": "00:04:16,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-87",
+      "Speaker": "",
+      "Text": "Ja, då blir det väldigt surt.",
+      "Start": "00:04:16,000",
+      "End": "00:04:18,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-88",
+      "Speaker": "",
+      "Text": "Och blir det väldigt av resten av vattenmolekylen då.",
+      "Start": "00:04:18,000",
+      "End": "00:04:21,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-89",
+      "Speaker": "",
+      "Text": "En syre och en väte.",
+      "Start": "00:04:21,000",
+      "End": "00:04:23,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-90",
+      "Speaker": "",
+      "Text": "Då blir det väldigt basiskt.",
+      "Start": "00:04:23,000",
+      "End": "00:04:25,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-91",
+      "Speaker": "",
+      "Text": "Och då är det ju så att har du väldigt surt.",
+      "Start": "00:04:25,000",
+      "End": "00:04:30,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-92",
+      "Speaker": "",
+      "Text": "Fast inte så stor volym.",
+      "Start": "00:04:30,000",
+      "End": "00:04:33,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-93",
+      "Speaker": "",
+      "Text": "Då späder du ut det där.",
+      "Start": "00:04:33,000",
+      "End": "00:04:34,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-94",
+      "Speaker": "",
+      "Text": "Ja, då blir det ju inte surt sen.",
+      "Start": "00:04:34,000",
+      "End": "00:04:36,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-95",
+      "Speaker": "",
+      "Text": "Då blir det ju inte stor koncentration av vätejoner.",
+      "Start": "00:04:36,000",
+      "End": "00:04:39,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-96",
+      "Speaker": "",
+      "Text": "Så att det inte är.",
+      "Start": "00:04:39,000",
+      "End": "00:04:40,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-97",
+      "Speaker": "",
+      "Text": "Kommer du ihåg det när du hade kemi i högstadiet?",
+      "Start": "00:04:40,000",
+      "End": "00:04:45,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-98",
+      "Speaker": "",
+      "Text": "Jag tänkte på det här ganska nyligen.",
+      "Start": "00:04:45,000",
+      "End": "00:04:47,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-99",
+      "Speaker": "",
+      "Text": "För en kompis som läser upp kemin på gymnasiet nu.",
+      "Start": "00:04:47,000",
+      "End": "00:04:50,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-100",
+      "Speaker": "",
+      "Text": "Han vill ha bättre betyg.",
+      "Start": "00:04:50,000",
+      "End": "00:04:53,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-101",
+      "Speaker": "",
+      "Text": "Jag kan inte komma ihåg att jag hade kemi.",
+      "Start": "00:04:53,000",
+      "End": "00:04:56,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-102",
+      "Speaker": "",
+      "Text": "Alltså jag hade det.",
+      "Start": "00:04:56,000",
+      "End": "00:04:57,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-103",
+      "Speaker": "",
+      "Text": "Du har fötter hängt det!",
+      "Start": "00:04:57,000",
+      "End": "00:05:00,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-104",
+      "Speaker": "",
+      "Text": "Jag kommer ihåg NO-salen.",
+      "Start": "00:05:00,000",
+      "End": "00:05:03,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-105",
+      "Speaker": "",
+      "Text": "Jag kommer ihåg Sune.",
+      "Start": "00:05:03,000",
+      "End": "00:05:04,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-106",
+      "Speaker": "",
+      "Text": "Han cyklade till jobbet.",
+      "Start": "00:05:04,000",
+      "End": "00:05:05,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-107",
+      "Speaker": "",
+      "Text": "Han hade alltid samma kläder på sig.",
+      "Start": "00:05:05,000",
+      "End": "00:05:07,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-108",
+      "Speaker": "",
+      "Text": "Han hade en skoluniform som var.",
+      "Start": "00:05:07,000",
+      "End": "00:05:09,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-109",
+      "Speaker": "",
+      "Text": "Stentvättade jeans, vit skjorta och svart skinnväst.",
+      "Start": "00:05:09,000",
+      "End": "00:05:13,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-110",
+      "Speaker": "",
+      "Text": "Det hade han varje dag.",
+      "Start": "00:05:13,000",
+      "End": "00:05:15,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-111",
+      "Speaker": "",
+      "Text": "Och jag kommer ihåg den salen och honom.",
+      "Start": "00:05:15,000",
+      "End": "00:05:17,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-112",
+      "Speaker": "",
+      "Text": "Och jag kommer ihåg flera andra grejer vi gjorde.",
+      "Start": "00:05:17,000",
+      "End": "00:05:20,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-113",
+      "Speaker": "",
+      "Text": "Kollade i mikroskop och sådär.",
+      "Start": "00:05:20,000",
+      "End": "00:05:21,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-114",
+      "Speaker": "",
+      "Text": "Men jag kommer fan inte ihåg att vi hade kemi.",
+      "Start": "00:05:21,000",
+      "End": "00:05:23,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-115",
+      "Speaker": "",
+      "Text": "Nej.",
+      "Start": "00:05:23,000",
+      "End": "00:05:24,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-116",
+      "Speaker": "",
+      "Text": "Nej men det man gjorde då.",
+      "Start": "00:05:24,000",
+      "End": "00:05:26,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-117",
+      "Speaker": "",
+      "Text": "Det är ju just det här att man just syror och baser och sånt.",
+      "Start": "00:05:26,000",
+      "End": "00:05:30,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-118",
+      "Speaker": "",
+      "Text": "Det går ju att skölja ordentligt i avloppet.",
+      "Start": "00:05:30,000",
+      "End": "00:05:34,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-119",
+      "Speaker": "",
+      "Text": "Alltså för då späds det ju ut i avloppssystemet.",
+      "Start": "00:05:34,000",
+      "End": "00:05:38,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-120",
+      "Speaker": "",
+      "Text": "Och du sköljer det med massa vatten och sånt där om du har det i prover.",
+      "Start": "00:05:38,000",
+      "End": "00:05:41,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-121",
+      "Speaker": "",
+      "Text": "Och då är det så här med Star Sun som det heter.",
+      "Start": "00:05:41,000",
+      "End": "00:05:44,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-122",
+      "Speaker": "",
+      "Text": "Det är att du behöver väldigt lite i en sån här vanlig sprayflaska.",
+      "Start": "00:05:44,000",
+      "End": "00:05:52,000",
+      "Duration": "8000"
+    },
+    
+    {
+      "UID": "UID-123",
+      "Speaker": "",
+      "Text": "Och när du vet sån här som man sprayar blommor och sånt där med.",
+      "Start": "00:05:52,000",
+      "End": "00:05:57,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-124",
+      "Speaker": "",
+      "Text": "En vanlig enkel sån.",
+      "Start": "00:05:57,000",
+      "End": "00:05:59,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-125",
+      "Speaker": "",
+      "Text": "Och så.",
+      "Start": "00:05:59,000",
+      "End": "00:06:00,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-126",
+      "Speaker": "",
+      "Text": "När du sprayar med den då blir det skumbildning.",
+      "Start": "00:06:00,000",
+      "End": "00:06:04,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-127",
+      "Speaker": "",
+      "Text": "Utav att det sprutas ut i munstycket och sådär.",
+      "Start": "00:06:04,000",
+      "End": "00:06:07,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-128",
+      "Speaker": "",
+      "Text": "Och då sprayar du det på ytor.",
+      "Start": "00:06:07,000",
+      "End": "00:06:09,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-129",
+      "Speaker": "",
+      "Text": "Redskap och kar och så vidare.",
+      "Start": "00:06:09,000",
+      "End": "00:06:12,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-130",
+      "Speaker": "",
+      "Text": "Och just det här skummet och att det är väldigt lite så är det mycket vätejoner där.",
+      "Start": "00:06:12,000",
+      "End": "00:06:17,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-131",
+      "Speaker": "",
+      "Text": "Så det blir väldigt surt.",
+      "Start": "00:06:17,000",
+      "End": "00:06:19,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-132",
+      "Speaker": "",
+      "Text": "Och då tar det mikroorganismer och sånt där.",
+      "Start": "00:06:19,000",
+      "End": "00:06:23,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-133",
+      "Speaker": "",
+      "Text": "Och så får det vara lite.",
+      "Start": "00:06:23,000",
+      "End": "00:06:24,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-134",
+      "Speaker": "",
+      "Text": "Men sen om du...",
+      "Start": "00:06:24,000",
+      "End": "00:06:26,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-135",
+      "Speaker": "",
+      "Text": "Ja, du behöver i princip inte skölja bort det.",
+      "Start": "00:06:26,000",
+      "End": "00:06:30,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-136",
+      "Speaker": "",
+      "Text": "För häller du i vin eller öl eller vad det nu är för någonting i det där.",
+      "Start": "00:06:30,000",
+      "End": "00:06:34,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-137",
+      "Speaker": "",
+      "Text": "Ja, då finns det nästan inga vätejoner i den stora volymen i alla fall va.",
+      "Start": "00:06:34,000",
+      "End": "00:06:39,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-138",
+      "Speaker": "",
+      "Text": "Nej, just det.",
+      "Start": "00:06:39,000",
+      "End": "00:06:41,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-139",
+      "Speaker": "",
+      "Text": "Vad smart.",
+      "Start": "00:06:41,000",
+      "End": "00:06:42,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-140",
+      "Speaker": "",
+      "Text": "Vadå har du förklarat det Patrik?",
+      "Start": "00:06:42,000",
+      "End": "00:06:44,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-141",
+      "Speaker": "",
+      "Text": "Ja, vad bra.",
+      "Start": "00:06:44,000",
+      "End": "00:06:45,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-142",
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:06:45,000",
+      "End": "00:06:46,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-143",
+      "Speaker": "",
+      "Text": "Men jag vet inte vad det skumbildande ämnet är.",
+      "Start": "00:06:46,000",
+      "End": "00:06:48,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-144",
+      "Speaker": "",
+      "Text": "Men eftersom det är livsmiljösäkert så förmodar jag att det är någonting som är väldigt oförargligt.",
+      "Start": "00:06:48,000",
+      "End": "00:06:56,000",
+      "Duration": "8000"
+    },
+    
+    {
+      "UID": "UID-145",
+      "Speaker": "",
+      "Text": "Men jag har faktiskt inte koll.",
+      "Start": "00:06:56,000",
+      "End": "00:06:58,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-146",
+      "Speaker": "",
+      "Text": "Du vet inte alltså?",
+      "Start": "00:06:58,000",
+      "End": "00:06:58,000",
+      "Duration": "0"
+    },
+    
+    {
+      "UID": "UID-147",
+      "Speaker": "",
+      "Text": "Nej, jag vet inte det.",
+      "Start": "00:06:58,000",
+      "End": "00:07:00,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-148",
+      "Speaker": "",
+      "Text": "Men det är ju god.",
+      "Start": "00:07:00,000",
+      "End": "00:07:00,000",
+      "Duration": "0"
+    },
+    
+    {
+      "UID": "UID-149",
+      "Speaker": "",
+      "Text": "Det låter lite skumt.",
+      "Start": "00:07:00,000",
+      "End": "00:07:03,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-150",
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:07:03,000",
+      "End": "00:07:07,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-151",
+      "Speaker": "",
+      "Text": "Du är inte riktigt i min hustrus nivå faktiskt.",
+      "Start": "00:07:07,000",
+      "End": "00:07:10,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-152",
+      "Speaker": "",
+      "Text": "Hon älskar ju ordlekar och ordvrängningar och sånt där.",
+      "Start": "00:07:10,000",
+      "End": "00:07:14,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-153",
+      "Speaker": "",
+      "Text": "Man är nästan som man tror att hon är från Göteborg fast hon pratar norrbottniska.",
+      "Start": "00:07:14,000",
+      "End": "00:07:19,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-154",
+      "Speaker": "",
+      "Text": "Hon är en underbar människa.",
+      "Start": "00:07:19,000",
+      "End": "00:07:21,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-155",
+      "Speaker": "",
+      "Text": "Ja, Essa",
+      "Start": "00:07:21,000",
+      "End": "00:07:24,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-156",
+      "Speaker": "",
+      "Text": "Jaha, mamma.",
+      "Start": "00:07:24,000",
+      "End": "00:07:27,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-157",
+      "Speaker": "",
+      "Text": "Okej, Essa är hemma idag också.",
+      "Start": "00:07:27,000",
+      "End": "00:07:30,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-158",
+      "Speaker": "",
+      "Text": "Nästa fråga.",
+      "Start": "00:07:30,000",
+      "End": "00:07:33,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-159",
+      "Speaker": "",
+      "Text": "Vi har ett spabad.",
+      "Start": "00:07:33,000",
+      "End": "00:07:35,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-160",
+      "Speaker": "",
+      "Text": "Kan vattnet användas för att drickas vid kris?",
+      "Start": "00:07:35,000",
+      "End": "00:07:38,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-161",
+      "Speaker": "",
+      "Text": "Oj.",
+      "Start": "00:07:38,000",
+      "End": "00:07:40,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-162",
+      "Speaker": "",
+      "Text": "Jag vet inte riktigt vad de har för reningsmetoder i det där.",
+      "Start": "00:07:40,000",
+      "End": "00:07:48,000",
+      "Duration": "8000"
+    },
+    
+    {
+      "UID": "UID-163",
+      "Speaker": "",
+      "Text": "Är det klor man har i det där eller?",
+      "Start": "00:07:48,000",
+      "End": "00:07:51,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-164",
+      "Speaker": "",
+      "Text": "Det känns som gissa det.",
+      "Start": "00:07:51,000",
+      "End": "00:07:54,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-165",
+      "Speaker": "",
+      "Text": "Jag ska inte uttala mig med säkerhet om det här därför att det är ju rätt",
+      "Start": "00:07:54,000",
+      "End": "00:08:00,000",
+      "Duration": "6000"
+    },
+    
+    {
+      "UID": "UID-166",
+      "Speaker": "",
+      "Text": "känsliga grejer.",
+      "Start": "00:08:00,000",
+      "End": "00:08:01,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-167",
+      "Speaker": "",
+      "Text": "Men jag kan säga så här då.",
+      "Start": "00:08:01,000",
+      "End": "00:08:03,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-168",
+      "Speaker": "",
+      "Text": "Eftersom vi brukar resonera lite om saker om vi inte är helt säkra.",
+      "Start": "00:08:03,000",
+      "End": "00:08:06,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-169",
+      "Speaker": "",
+      "Text": "Så är det ju så att om det är.",
+      "Start": "00:08:06,000",
+      "End": "00:08:08,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-170",
+      "Speaker": "",
+      "Text": "Om man har klorrengöringstabletter och sånt där för att rengöra dricksvatten.",
+      "Start": "00:08:08,000",
+      "End": "00:08:15,000",
+      "Duration": "7000"
+    },
+    
+    {
+      "UID": "UID-171",
+      "Speaker": "",
+      "Text": "Så blir det ju väldigt illaluktande och illasmakande vatten.",
+      "Start": "00:08:15,000",
+      "End": "00:08:21,000",
+      "Duration": "6000"
+    },
+    
+    {
+      "UID": "UID-172",
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:08:21,000",
+      "End": "00:08:22,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-173",
+      "Speaker": "",
+      "Text": "Du vet sådär.",
+      "Start": "00:08:22,000",
+      "End": "00:08:23,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-174",
+      "Speaker": "",
+      "Text": "En liter vatten, en tablett vänta 15 eller 30 minuter.",
+      "Start": "00:08:23,000",
+      "End": "00:08:28,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-175",
+      "Speaker": "",
+      "Text": "Eller vad det brukar stå på dem va.",
+      "Start": "00:08:28,000",
+      "End": "00:08:30,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-176",
+      "Speaker": "",
+      "Text": "Ja, gånger 10 eller 20 eller någonting.",
+      "Start": "00:08:30,000",
+      "End": "00:08:34,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-177",
+      "Speaker": "",
+      "Text": "Och det är ju för att det är ganska kraftigt och du ska nästan kunna ta.",
+      "Start": "00:08:34,000",
+      "End": "00:08:38,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-178",
+      "Speaker": "",
+      "Text": "Ja, rätt smutsigt vatten och göra det drickbart med den och döda allt som är i.",
+      "Start": "00:08:38,000",
+      "End": "00:08:44,000",
+      "Duration": "6000"
+    },
+    
+    {
+      "UID": "UID-179",
+      "Speaker": "",
+      "Text": "Så det är ju en kraftig dos då va.",
+      "Start": "00:08:44,000",
+      "End": "00:08:46,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-180",
+      "Speaker": "",
+      "Text": "Och då kan man med hjälp av askorbinsyra.",
+      "Start": "00:08:46,000",
+      "End": "00:08:50,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-181",
+      "Speaker": "",
+      "Text": "När det där då har fått verka ordentligt.",
+      "Start": "00:08:50,000",
+      "End": "00:08:53,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-182",
+      "Speaker": "",
+      "Text": "Det är ju viktigt att du får göra det.",
+      "Start": "00:08:53,000",
+      "End": "00:08:55,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-183",
+      "Speaker": "",
+      "Text": "Så kan man ta askorbinsyra, alltså ren C-vitaminpulver.",
+      "Start": "00:08:55,000",
+      "End": "00:08:59,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-184",
+      "Speaker": "",
+      "Text": "Och tillsätta för att neutralisera det här då.",
+      "Start": "00:08:59,000",
+      "End": "00:09:04,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-185",
+      "Speaker": "",
+      "Text": "Men jag skulle ju också kombinera det med ett väldigt bra vattenfilter.",
+      "Start": "00:09:04,000",
+      "End": "00:09:11,000",
+      "Duration": "7000"
+    },
+    
+    {
+      "UID": "UID-186",
+      "Speaker": "",
+      "Text": "Och gärna med kolfilter också då.",
+      "Start": "00:09:11,000",
+      "End": "00:09:13,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-187",
+      "Speaker": "",
+      "Text": "Kolfilter gör ju det att just att det tar bort mer av smak och sådana saker.",
+      "Start": "00:09:13,000",
+      "End": "00:09:18,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-188",
+      "Speaker": "",
+      "Text": "Smak och doft och sånt.",
+      "Start": "00:09:18,000",
+      "End": "00:09:20,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-189",
+      "Speaker": "",
+      "Text": "Just det.",
+      "Start": "00:09:20,000",
+      "End": "00:09:21,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-190",
+      "Speaker": "",
+      "Text": "Så om det är så att man renar ett par månader klor.",
+      "Start": "00:09:21,000",
+      "End": "00:09:23,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-191",
+      "Speaker": "",
+      "Text": "Då är det C-vitaminbrus och kolfilter.",
+      "Start": "00:09:23,000",
+      "End": "00:09:26,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-192",
+      "Speaker": "",
+      "Text": "Ja, så här Kalle, att vi var ödmjuka där eftersom.",
+      "Start": "00:09:26,000",
+      "End": "00:09:29,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-193",
+      "Speaker": "",
+      "Text": "Inte ha stenkoll på detta.",
+      "Start": "00:09:29,000",
+      "End": "00:09:31,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-194",
+      "Speaker": "",
+      "Text": "Att undersöka de här möjligheterna.",
+      "Start": "00:09:31,000",
+      "End": "00:09:33,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-195",
+      "Speaker": "",
+      "Text": "För jag tror absolut att det skulle gå att ha som vattenreserv.",
+      "Start": "00:09:33,000",
+      "End": "00:09:38,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-196",
+      "Speaker": "",
+      "Text": "Men då får han studera lite.",
+      "Start": "00:09:38,000",
+      "End": "00:09:40,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-197",
+      "Speaker": "",
+      "Text": "Och det här kan vara en ingång till att studera där.",
+      "Start": "00:09:40,000",
+      "End": "00:09:43,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-198",
+      "Speaker": "",
+      "Text": "Så tycker jag vi kan säga.",
+      "Start": "00:09:43,000",
+      "End": "00:09:45,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-199",
+      "Speaker": "",
+      "Text": "Går det att koka bort kloret?",
+      "Start": "00:09:45,000",
+      "End": "00:09:47,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-200",
+      "Speaker": "",
+      "Text": "Det skulle jag tro att det gör också.",
+      "Start": "00:09:47,000",
+      "End": "00:09:49,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-201",
+      "Speaker": "",
+      "Text": "För att det är ju en...",
+      "Start": "00:09:49,000",
+      "End": "00:09:51,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-202",
+      "Speaker": "",
+      "Text": "Ja, jag vet egentligen inte hur molekylerna är där.",
+      "Start": "00:09:51,000",
+      "End": "00:09:57,000",
+      "Duration": "6000"
+    },
+    
+    {
+      "UID": "UID-203",
+      "Speaker": "",
+      "Text": "Men jag misstänker att du skulle kunna...",
+      "Start": "00:09:57,000",
+      "End": "00:09:59,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-204",
+      "Speaker": "",
+      "Text": "Genom uppvärmning få det att drivas iväg.",
+      "Start": "00:09:59,000",
+      "End": "00:10:05,000",
+      "Duration": "6000"
+    },
+    
+    {
+      "UID": "UID-205",
+      "Speaker": "",
+      "Text": "Och att det har ett ganska lågt ångtryck som det heter.",
+      "Start": "00:10:05,000",
+      "End": "00:10:08,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-206",
+      "Speaker": "",
+      "Text": "Alltså att det förångas ganska lätt.",
+      "Start": "00:10:08,000",
+      "End": "00:10:10,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-207",
+      "Speaker": "",
+      "Text": "Men vi är på ett område nu där jag känner rätt stor osäkerhet.",
+      "Start": "00:10:10,000",
+      "End": "00:10:15,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-208",
+      "Speaker": "",
+      "Text": "Det beror ju på vad kloret ingår i för molekyler och sådana grejer.",
+      "Start": "00:10:15,000",
+      "End": "00:10:19,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-209",
+      "Speaker": "",
+      "Text": "Vi får nöja oss så.",
+      "Start": "00:10:19,000",
+      "End": "00:10:20,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-210",
+      "Speaker": "",
+      "Text": "Ja, vi får göra det.",
+      "Start": "00:10:20,000",
+      "End": "00:10:22,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-211",
+      "Speaker": "",
+      "Text": "Nästa fråga.",
+      "Start": "00:10:22,000",
+      "End": "00:10:24,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-212",
+      "Speaker": "",
+      "Text": "Jag tror att det här är en BCSN.",
+      "Start": "00:10:24,000",
+      "End": "00:10:26,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-213",
+      "Speaker": "",
+      "Text": "Är det din tvåhjuliga traktor?",
+      "Start": "00:10:26,000",
+      "End": "00:10:29,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-214",
+      "Speaker": "",
+      "Text": "BCS.",
+      "Start": "00:10:29,000",
+      "End": "00:10:31,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-215",
+      "Speaker": "",
+      "Text": "Alltså det är ju lite känsligt det där Calle.",
+      "Start": "00:10:31,000",
+      "End": "00:10:33,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-216",
+      "Speaker": "",
+      "Text": "Jag har ju Ferrari nu.",
+      "Start": "00:10:33,000",
+      "End": "00:10:35,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-217",
+      "Speaker": "",
+      "Text": "Ja just det, okej.",
+      "Start": "00:10:35,000",
+      "End": "00:10:36,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-218",
+      "Speaker": "",
+      "Text": "Behöver du hjulvikter när du kör snöslungan på Ferrarin?",
+      "Start": "00:10:36,000",
+      "End": "00:10:39,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-219",
+      "Speaker": "",
+      "Text": "Alltså grejen är så här.",
+      "Start": "00:10:39,000",
+      "End": "00:10:41,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-220",
+      "Speaker": "",
+      "Text": "Jag bor ju i Värmland.",
+      "Start": "00:10:41,000",
+      "End": "00:10:43,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-221",
+      "Speaker": "",
+      "Text": "På ett berg på 320 meter över havet.",
+      "Start": "00:10:43,000",
+      "End": "00:10:46,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-222",
+      "Speaker": "",
+      "Text": "Jo du nämnde det.",
+      "Start": "00:10:46,000",
+      "End": "00:10:48,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-223",
+      "Speaker": "",
+      "Text": "Med fukt som kommer in från Atlanten.",
+      "Start": "00:10:48,000",
+      "End": "00:10:52,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-224",
+      "Speaker": "",
+      "Text": "Kan bli rätt mycket snö här.",
+      "Start": "00:10:52,000",
+      "End": "00:10:55,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-225",
+      "Speaker": "",
+      "Text": "De där redskapen.",
+      "Start": "00:10:55,000",
+      "End": "00:10:59,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-226",
+      "Speaker": "",
+      "Text": "Snöslungor och så är rätt dyra.",
+      "Start": "00:10:59,000",
+      "End": "00:11:03,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-227",
+      "Speaker": "",
+      "Text": "Så just snöslunga som är.",
+      "Start": "00:11:03,000",
+      "End": "00:11:07,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-228",
+      "Speaker": "",
+      "Text": "Ja men det är jätteviktigt redskap här.",
+      "Start": "00:11:07,000",
+      "End": "00:11:11,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-229",
+      "Speaker": "",
+      "Text": "Speciellt när vi blir äldre nu.",
+      "Start": "00:11:11,000",
+      "End": "00:11:13,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-230",
+      "Speaker": "",
+      "Text": "Och då köper jag det som en specialmaskin.",
+      "Start": "00:11:13,000",
+      "End": "00:11:18,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-231",
+      "Speaker": "",
+      "Text": "En traktor är trots allt en kompromissmaskin.",
+      "Start": "00:11:18,000",
+      "End": "00:11:22,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-232",
+      "Speaker": "",
+      "Text": "En redskapsbärare.",
+      "Start": "00:11:22,000",
+      "End": "00:11:24,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-233",
+      "Speaker": "",
+      "Text": "Och jag ser väl det.",
+      "Start": "00:11:24,000",
+      "End": "00:11:29,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-234",
+      "Speaker": "",
+      "Text": "Jag har ju köpt en 10-hästars Toro.",
+      "Start": "00:11:29,000",
+      "End": "00:11:33,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-235",
+      "Speaker": "",
+      "Text": "Toro var ju de som uppfann snöslungan i Kanada.",
+      "Start": "00:11:33,000",
+      "End": "00:11:37,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-236",
+      "Speaker": "",
+      "Text": "Och den maskinen jag köpte.",
+      "Start": "00:11:37,000",
+      "End": "00:11:40,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-237",
+      "Speaker": "",
+      "Text": "Det är ju liksom.",
+      "Start": "00:11:40,000",
+      "End": "00:11:41,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-238",
+      "Speaker": "",
+      "Text": "Visst, det är en Kina-motor på.",
+      "Start": "00:11:41,000",
+      "End": "00:11:43,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-239",
+      "Speaker": "",
+      "Text": "Men de gör ju inte bara skit i Kina.",
+      "Start": "00:11:43,000",
+      "End": "00:11:46,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-240",
+      "Speaker": "",
+      "Text": "Utan de gör ju mycket av det bästa också.",
+      "Start": "00:11:46,000",
+      "End": "00:11:48,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-241",
+      "Speaker": "",
+      "Text": "De gör ju det man beställer.",
+      "Start": "00:11:48,000",
+      "End": "00:11:50,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-242",
+      "Speaker": "",
+      "Text": "Och de har ju utvecklat den motorn med svänghjul.",
+      "Start": "00:11:50,000",
+      "End": "00:11:56,000",
+      "Duration": "6000"
+    },
+    
+    {
+      "UID": "UID-243",
+      "Speaker": "",
+      "Text": "Alltså en stor massa som far runt och så vidare.",
+      "Start": "00:11:56,000",
+      "End": "00:11:59,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-244",
+      "Speaker": "",
+      "Text": "Och håller varvtalet.",
+      "Start": "00:11:59,000",
+      "End": "00:12:01,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-245",
+      "Speaker": "",
+      "Text": "När det går tungt och så vidare.",
+      "Start": "00:12:01,000",
+      "End": "00:12:02,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-246",
+      "Speaker": "",
+      "Text": "Så har du ett svänghjul som drar med.",
+      "Start": "00:12:02,000",
+      "End": "00:12:04,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-247",
+      "Speaker": "",
+      "Text": "Förstår du?",
+      "Start": "00:12:04,000",
+      "End": "00:12:05,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-248",
+      "Speaker": "",
+      "Text": "Ett stort tungt hjul som snurrar.",
+      "Start": "00:12:05,000",
+      "End": "00:12:07,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-249",
+      "Speaker": "",
+      "Text": "Vi pratade om det här med svänghjulsmotor för några veckor sedan.",
+      "Start": "00:12:07,000",
+      "End": "00:12:10,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-250",
+      "Speaker": "",
+      "Text": "Ja, det kanske.",
+      "Start": "00:12:10,000",
+      "End": "00:12:11,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-251",
+      "Speaker": "",
+      "Text": "Har du gjort något experiment med snö?",
+      "Start": "00:12:11,000",
+      "End": "00:12:14,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-252",
+      "Speaker": "",
+      "Text": "Eller?",
+      "Start": "00:12:14,000",
+      "End": "00:12:15,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-253",
+      "Speaker": "",
+      "Text": "Jag vet inte.",
+      "Start": "00:12:15,000",
+      "End": "00:12:16,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-254",
+      "Speaker": "",
+      "Text": "Men i alla fall.",
+      "Start": "00:12:16,000",
+      "End": "00:12:17,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-255",
+      "Speaker": "",
+      "Text": "Så då får du liksom en snöslunga som är specialbyggd.",
+      "Start": "00:12:17,000",
+      "End": "00:12:20,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-256",
+      "Speaker": "",
+      "Text": "För att bara vara snöslunga.",
+      "Start": "00:12:20,000",
+      "End": "00:12:22,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-257",
+      "Speaker": "",
+      "Text": "Med en motor som är gjord exakt till den maskinen och så vidare.",
+      "Start": "00:12:22,000",
+      "End": "00:12:26,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-258",
+      "Speaker": "",
+      "Text": "Och det skiljer inte jättemycket.",
+      "Start": "00:12:26,000",
+      "End": "00:12:29,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-259",
+      "Speaker": "",
+      "Text": "Visst.",
+      "Start": "00:12:29,000",
+      "End": "00:12:32,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-260",
+      "Speaker": "",
+      "Text": "Det jag kan se som nackdelar som har dieseltraktor.",
+      "Start": "00:12:32,000",
+      "End": "00:12:37,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-261",
+      "Speaker": "",
+      "Text": "Enaktlig.",
+      "Start": "00:12:37,000",
+      "End": "00:12:38,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-262",
+      "Speaker": "",
+      "Text": "Det är ju att de här är ju bensinmotorer.",
+      "Start": "00:12:38,000",
+      "End": "00:12:41,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-263",
+      "Speaker": "",
+      "Text": "Alkylat.",
+      "Start": "00:12:41,000",
+      "End": "00:12:44,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-264",
+      "Speaker": "",
+      "Text": "Går ju att lagra.",
+      "Start": "00:12:44,000",
+      "End": "00:12:46,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-265",
+      "Speaker": "",
+      "Text": "Alkylatbensin går ju att lagra länge.",
+      "Start": "00:12:46,000",
+      "End": "00:12:49,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-266",
+      "Speaker": "",
+      "Text": "I alla fall i flera år.",
+      "Start": "00:12:49,000",
+      "End": "00:12:52,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-267",
+      "Speaker": "",
+      "Text": "Finns säkert tillsatser som kan bättra på det lite grann också.",
+      "Start": "00:12:52,000",
+      "End": "00:12:57,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-268",
+      "Speaker": "",
+      "Text": "Så visst.",
+      "Start": "00:12:57,000",
+      "End": "00:12:59,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-269",
+      "Speaker": "",
+      "Text": "Du får ju en väldigt bra beredskap där med.",
+      "Start": "00:12:59,000",
+      "End": "00:13:02,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-270",
+      "Speaker": "",
+      "Text": "Man får ju ha 100 liter av den väldigt flamkänsliga brandklassen som bensin och alkylat och sånt där är.",
+      "Start": "00:13:02,000",
+      "End": "00:13:12,000",
+      "Duration": "10000"
+    },
+    
+    {
+      "UID": "UID-271",
+      "Speaker": "",
+      "Text": "Men det är ju inte som diesel.",
+      "Start": "00:13:12,000",
+      "End": "00:13:14,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-272",
+      "Speaker": "",
+      "Text": "Har du bra dieseltankar så får du ha 10 000 liter hemma.",
+      "Start": "00:13:14,000",
+      "End": "00:13:18,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-273",
+      "Speaker": "",
+      "Text": "Om du har miljögodkända.",
+      "Start": "00:13:18,000",
+      "End": "00:13:20,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-274",
+      "Speaker": "",
+      "Text": "Det är mycket.",
+      "Start": "00:13:20,000",
+      "End": "00:13:21,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-275",
+      "Speaker": "",
+      "Text": "Ja, det är mycket.",
+      "Start": "00:13:21,000",
+      "End": "00:13:23,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-276",
+      "Speaker": "",
+      "Text": "Det är väldigt mycket.",
+      "Start": "00:13:23,000",
+      "End": "00:13:24,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-277",
+      "Speaker": "",
+      "Text": "Om du inte värmer huset med det så lär det ju vara.",
+      "Start": "00:13:24,000",
+      "End": "00:13:29,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-278",
+      "Speaker": "",
+      "Text": "Ja, ska du köra små elverk och enaktliga traktorer och sånt där med 10 000 liter.",
+      "Start": "00:13:29,000",
+      "End": "00:13:35,000",
+      "Duration": "6000"
+    },
+    
+    {
+      "UID": "UID-279",
+      "Speaker": "",
+      "Text": "Så lär det ju vara resten av livet med råge.",
+      "Start": "00:13:35,000",
+      "End": "00:13:37,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-280",
+      "Speaker": "",
+      "Text": "Även om du är rätt ung.",
+      "Start": "00:13:37,000",
+      "End": "00:13:39,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-281",
+      "Speaker": "",
+      "Text": "Och för er som har lyssnat länge på podden så kan ni räkna ut att det är 200 000 manstimmar.",
+      "Start": "00:13:39,000",
+      "End": "00:13:47,000",
+      "Duration": "8000"
+    },
+    
+    {
+      "UID": "UID-282",
+      "Speaker": "",
+      "Text": "Dagsverken.",
+      "Start": "00:13:47,000",
+      "End": "00:13:48,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-283",
+      "Speaker": "",
+      "Text": "Dagsverken till och med.",
+      "Start": "00:13:48,000",
+      "End": "00:13:49,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-284",
+      "Speaker": "",
+      "Text": "200 000 dagsverken.",
+      "Start": "00:13:49,000",
+      "End": "00:13:51,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-285",
+      "Speaker": "",
+      "Text": "Ja, vi ska se.",
+      "Start": "00:13:51,000",
+      "End": "00:13:52,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-286",
+      "Speaker": "",
+      "Text": "Så här är det.",
+      "Start": "00:13:52,000",
+      "End": "00:13:53,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-287",
+      "Speaker": "",
+      "Text": "En liter är ju två av de tyngsta.",
+      "Start": "00:13:53,000",
+      "End": "00:13:56,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-288",
+      "Speaker": "",
+      "Text": "Alltså.",
+      "Start": "00:13:56,000",
+      "End": "00:13:59,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-289",
+      "Speaker": "",
+      "Text": "Manuell timmer.",
+      "Start": "00:13:59,000",
+      "End": "00:14:01,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-290",
+      "Speaker": "",
+      "Text": "Huggare och stenhuggare och så där.",
+      "Start": "00:14:01,000",
+      "End": "00:14:04,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-291",
+      "Speaker": "",
+      "Text": "Men jag satt och pratade med någon.",
+      "Start": "00:14:04,000",
+      "End": "00:14:06,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-292",
+      "Speaker": "",
+      "Text": "Det var faktiskt bonden i Västergötland som jag samarbetat mycket med.",
+      "Start": "00:14:06,000",
+      "End": "00:14:09,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-293",
+      "Speaker": "",
+      "Text": "Alltså.",
+      "Start": "00:14:09,000",
+      "End": "00:14:11,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-294",
+      "Speaker": "",
+      "Text": "Du vet en dräng som jobbade.",
+      "Start": "00:14:11,000",
+      "End": "00:14:13,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-295",
+      "Speaker": "",
+      "Text": "Han jobbade.",
+      "Start": "00:14:13,000",
+      "End": "00:14:15,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-296",
+      "Speaker": "",
+      "Text": "Alltså det var ju inte många som inte gjorde åt 4000 kalorier av gubbarna.",
+      "Start": "00:14:15,000",
+      "End": "00:14:19,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-297",
+      "Speaker": "",
+      "Text": "3 500-4000 i alla fall.",
+      "Start": "00:14:19,000",
+      "End": "00:14:22,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-298",
+      "Speaker": "",
+      "Text": "Så.",
+      "Start": "00:14:22,000",
+      "End": "00:14:23,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-299",
+      "Speaker": "",
+      "Text": "Ja, det är ju två sådana dagsverken i varje liter.",
+      "Start": "00:14:23,000",
+      "End": "00:14:27,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-300",
+      "Speaker": "",
+      "Text": "Så då blir det ju.",
+      "Start": "00:14:27,000",
+      "End": "00:14:29,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-301",
+      "Speaker": "",
+      "Text": "20 000 dagsverken.",
+      "Start": "00:14:29,000",
+      "End": "00:14:31,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-302",
+      "Speaker": "",
+      "Text": "Men det är rätt bra ändå.",
+      "Start": "00:14:31,000",
+      "End": "00:14:33,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-303",
+      "Speaker": "",
+      "Text": "Alltså det är ju.",
+      "Start": "00:14:33,000",
+      "End": "00:14:35,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-304",
+      "Speaker": "",
+      "Text": "20 000 dagar är ju jättemånga år.",
+      "Start": "00:14:35,000",
+      "End": "00:14:38,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-305",
+      "Speaker": "",
+      "Text": "Mm.",
+      "Start": "00:14:38,000",
+      "End": "00:14:39,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-306",
+      "Speaker": "",
+      "Text": "Det är det.",
+      "Start": "00:14:39,000",
+      "End": "00:14:41,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-307",
+      "Speaker": "",
+      "Text": "Jag vill inte gå in närmare på hur många år.",
+      "Start": "00:14:41,000",
+      "End": "00:14:43,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-308",
+      "Speaker": "",
+      "Text": "Nej, men räkna med att det går tre år på 1000 ungefär.",
+      "Start": "00:14:43,000",
+      "End": "00:14:45,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-309",
+      "Speaker": "",
+      "Text": "Så gör du ett överslag så ser du att det blir någonstans runt 55-60 år.",
+      "Start": "00:14:45,000",
+      "End": "00:14:51,000",
+      "Duration": "6000"
+    },
+    
+    {
+      "UID": "UID-310",
+      "Speaker": "",
+      "Text": "Alltså ett liv.",
+      "Start": "00:14:51,000",
+      "End": "00:14:54,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-311",
+      "Speaker": "",
+      "Text": "Ett arbetsfört liv.",
+      "Start": "00:14:54,000",
+      "End": "00:14:56,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-312",
+      "Speaker": "",
+      "Text": "Ett arbetsliv blir det.",
+      "Start": "00:14:56,000",
+      "End": "00:14:57,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-313",
+      "Speaker": "",
+      "Text": "Som du har liggande på lager.",
+      "Start": "00:14:57,000",
+      "End": "00:14:59,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-314",
+      "Speaker": "",
+      "Text": "Det är en svindlande tanke.",
+      "Start": "00:14:59,000",
+      "End": "00:15:03,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-315",
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:15:03,000",
+      "End": "00:15:05,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-316",
+      "Speaker": "",
+      "Text": "Okej.",
+      "Start": "00:15:05,000",
+      "End": "00:15:07,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-317",
+      "Speaker": "",
+      "Text": "Men om du skulle ha stödslungar på din traktor.",
+      "Start": "00:15:07,000",
+      "End": "00:15:11,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-318",
+      "Speaker": "",
+      "Text": "Skulle du ha hjulvikter då?",
+      "Start": "00:15:11,000",
+      "End": "00:15:13,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-319",
+      "Speaker": "",
+      "Text": "Ja, det skulle jag ha.",
+      "Start": "00:15:13,000",
+      "End": "00:15:15,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-320",
+      "Speaker": "",
+      "Text": "Jag har faktiskt alltid hjulvikter på min traktor.",
+      "Start": "00:15:15,000",
+      "End": "00:15:18,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-321",
+      "Speaker": "",
+      "Text": "Vad bra att du följde upp det.",
+      "Start": "00:15:18,000",
+      "End": "00:15:21,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-322",
+      "Speaker": "",
+      "Text": "Jag har det.",
+      "Start": "00:15:21,000",
+      "End": "00:15:22,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-323",
+      "Speaker": "",
+      "Text": "Varför har du det?",
+      "Start": "00:15:22,000",
+      "End": "00:15:23,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-324",
+      "Speaker": "",
+      "Text": "Ja, men det är ju för att du har ju tio hästkrafter.",
+      "Start": "00:15:23,000",
+      "End": "00:15:27,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-325",
+      "Speaker": "",
+      "Text": "Mm.",
+      "Start": "00:15:27,000",
+      "End": "00:15:29,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-326",
+      "Speaker": "",
+      "Text": "Trettio människor som driver på ett par gummihjul.",
+      "Start": "00:15:29,000",
+      "End": "00:15:33,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-327",
+      "Speaker": "",
+      "Text": "Ja, det låter ju trångt.",
+      "Start": "00:15:33,000",
+      "End": "00:15:36,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-328",
+      "Speaker": "",
+      "Text": "Nej, men alltså du måste ju få ner kraften i backen.",
+      "Start": "00:15:36,000",
+      "End": "00:15:40,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-329",
+      "Speaker": "",
+      "Text": "Just det.",
+      "Start": "00:15:40,000",
+      "End": "00:15:41,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-330",
+      "Speaker": "",
+      "Text": "Och då vill du ju ha lite vikt på dem så de inte slirar så lätt.",
+      "Start": "00:15:41,000",
+      "End": "00:15:44,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-331",
+      "Speaker": "",
+      "Text": "Nu är ju många utav redskapen sådana att de funkar bra ihop med drivhjulen.",
+      "Start": "00:15:44,000",
+      "End": "00:15:52,000",
+      "Duration": "8000"
+    },
+    
+    {
+      "UID": "UID-332",
+      "Speaker": "",
+      "Text": "Så det är inte något jätteproblem.",
+      "Start": "00:15:52,000",
+      "End": "00:15:54,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-333",
+      "Speaker": "",
+      "Text": "Men jag har faktiskt det.",
+      "Start": "00:15:54,000",
+      "End": "00:15:55,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-334",
+      "Speaker": "",
+      "Text": "Men sen har jag också nu till slåtterbalken då eftersom jag har en rätt stor.",
+      "Start": "00:15:55,000",
+      "End": "00:15:59,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-335",
+      "Speaker": "",
+      "Text": "motor.",
+      "Start": "00:15:59,000",
+      "End": "00:16:01,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-336",
+      "Speaker": "",
+      "Text": "Den här tio hästars dieseln då.",
+      "Start": "00:16:01,000",
+      "End": "00:16:03,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-337",
+      "Speaker": "",
+      "Text": "Så de är ju större och tyngre.",
+      "Start": "00:16:03,000",
+      "End": "00:16:06,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-338",
+      "Speaker": "",
+      "Text": "Dieselmotorer då i sin konstruktion.",
+      "Start": "00:16:06,000",
+      "End": "00:16:09,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-339",
+      "Speaker": "",
+      "Text": "Så det gör ju att slåtterbalken blir lite lätt.",
+      "Start": "00:16:09,000",
+      "End": "00:16:12,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-340",
+      "Speaker": "",
+      "Text": "För jag får ju vända på styret så jag har motorn bakåt.",
+      "Start": "00:16:12,000",
+      "End": "00:16:16,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-341",
+      "Speaker": "",
+      "Text": "För kraftuttaget sitter ju i andra änden då.",
+      "Start": "00:16:16,000",
+      "End": "00:16:19,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-342",
+      "Speaker": "",
+      "Text": "Och den ska ju driva det frontmonterade slåtteraggregatet.",
+      "Start": "00:16:19,000",
+      "End": "00:16:23,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-343",
+      "Speaker": "",
+      "Text": "Så då måste jag sätta vikt på det också.",
+      "Start": "00:16:23,000",
+      "End": "00:16:25,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-344",
+      "Speaker": "",
+      "Text": "Okej.",
+      "Start": "00:16:25,000",
+      "End": "00:16:26,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-345",
+      "Speaker": "",
+      "Text": "Kettlebells.",
+      "Start": "00:16:26,000",
+      "End": "00:16:29,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-346",
+      "Speaker": "",
+      "Text": "Knyta fast en kettlebell där, ja precis.",
+      "Start": "00:16:29,000",
+      "End": "00:16:32,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-347",
+      "Speaker": "",
+      "Text": "Som nödlösning om den vikten jag har inte räcker.",
+      "Start": "00:16:32,000",
+      "End": "00:16:35,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-348",
+      "Speaker": "",
+      "Text": "Så var det bra tips Kalle.",
+      "Start": "00:16:35,000",
+      "End": "00:16:37,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-349",
+      "Speaker": "",
+      "Text": "Jag använde faktiskt mina kettlebells igår.",
+      "Start": "00:16:37,000",
+      "End": "00:16:39,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-350",
+      "Speaker": "",
+      "Text": "Både till träning men också till att tynga ner en lite vågig durkplåt.",
+      "Start": "00:16:39,000",
+      "End": "00:16:46,000",
+      "Duration": "7000"
+    },
+    
+    {
+      "UID": "UID-351",
+      "Speaker": "",
+      "Text": "Som jag skulle nita fast på flaket på min gårdsbil.",
+      "Start": "00:16:46,000",
+      "End": "00:16:49,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-352",
+      "Speaker": "",
+      "Text": "Jag har också lärt mig att popnita.",
+      "Start": "00:16:49,000",
+      "End": "00:16:51,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-353",
+      "Speaker": "",
+      "Text": "Det har jag inte gjort förut.",
+      "Start": "00:16:51,000",
+      "End": "00:16:53,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-354",
+      "Speaker": "",
+      "Text": "Okej.",
+      "Start": "00:16:53,000",
+      "End": "00:16:54,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-355",
+      "Speaker": "",
+      "Text": "Det är ju väldigt användbart verktyg.",
+      "Start": "00:16:54,000",
+      "End": "00:16:56,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-356",
+      "Speaker": "",
+      "Text": "Otroligt.",
+      "Start": "00:16:56,000",
+      "End": "00:16:57,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-357",
+      "Speaker": "",
+      "Text": "Apropå att känna sig som gud.",
+      "Start": "00:16:57,000",
+      "End": "00:16:59,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-358",
+      "Speaker": "",
+      "Text": "Man kan sammanfoga grejer som man inte visste kunde sammanfogas.",
+      "Start": "00:16:59,000",
+      "End": "00:17:05,000",
+      "Duration": "6000"
+    },
+    
+    {
+      "UID": "UID-359",
+      "Speaker": "",
+      "Text": "Underbart.",
+      "Start": "00:17:05,000",
+      "End": "00:17:07,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-360",
+      "Speaker": "",
+      "Text": "Vi går vidare.",
+      "Start": "00:17:07,000",
+      "End": "00:17:09,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-361",
+      "Speaker": "",
+      "Text": "Hur har ni anpassat era telefoner för prepping?",
+      "Start": "00:17:09,000",
+      "End": "00:17:13,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-362",
+      "Speaker": "",
+      "Text": "Jag måste bara fråga Kalle.",
+      "Start": "00:17:13,000",
+      "End": "00:17:15,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-363",
+      "Speaker": "",
+      "Text": "Du vet, Gud han har ju skapat universum och sånt där.",
+      "Start": "00:17:15,000",
+      "End": "00:17:18,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-364",
+      "Speaker": "",
+      "Text": "Du har popnitat.",
+      "Start": "00:17:18,000",
+      "End": "00:17:20,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-365",
+      "Speaker": "",
+      "Text": "",
+      "Start": "00:17:20,000",
+      "End": "00:17:23,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-366",
+      "Speaker": "",
+      "Text": "Ja, ja, ja.",
+      "Start": "00:17:23,000",
+      "End": "00:17:25,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-367",
+      "Speaker": "",
+      "Text": "Okej.",
+      "Start": "00:17:25,000",
+      "End": "00:17:26,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-368",
+      "Speaker": "",
+      "Text": "Vad sa du?",
+      "Start": "00:17:26,000",
+      "End": "00:17:29,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-369",
+      "Speaker": "",
+      "Text": "Du, vi kör vidare där Kalle.",
+      "Start": "00:17:29,000",
+      "End": "00:17:33,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-370",
+      "Speaker": "",
+      "Text": "Bara en liten reflektion.",
+      "Start": "00:17:33,000",
+      "End": "00:17:35,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-371",
+      "Speaker": "",
+      "Text": "Anpassat era telefoner för prepping.",
+      "Start": "00:17:35,000",
+      "End": "00:17:38,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-372",
+      "Speaker": "",
+      "Text": "Särskilda appar, inställningar eller knep.",
+      "Start": "00:17:38,000",
+      "End": "00:17:41,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-373",
+      "Speaker": "",
+      "Text": "Mm.",
+      "Start": "00:17:41,000",
+      "End": "00:17:43,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-374",
+      "Speaker": "",
+      "Text": "Hur har du gjort Kalle?",
+      "Start": "00:17:43,000",
+      "End": "00:17:46,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-375",
+      "Speaker": "",
+      "Text": "Jag har nog inget speciellt.",
+      "Start": "00:17:46,000",
+      "End": "00:17:52,000",
+      "Duration": "6000"
+    },
+    
+    {
+      "UID": "UID-376",
+      "Speaker": "",
+      "Text": "Det är powerbanks som är bästa preppingen för telefonen tror jag.",
+      "Start": "00:17:52,000",
+      "End": "00:17:56,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-377",
+      "Speaker": "",
+      "Text": "Och hålla igång den överhuvudtaget.",
+      "Start": "00:17:56,000",
+      "End": "00:17:59,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-378",
+      "Speaker": "",
+      "Text": "Vet jag inte riktigt.",
+      "Start": "00:17:59,000",
+      "End": "00:18:01,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-379",
+      "Speaker": "",
+      "Text": "Nej, har du tänkt på något?",
+      "Start": "00:18:01,000",
+      "End": "00:18:03,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-380",
+      "Speaker": "",
+      "Text": "Alltså, vi gör ju så här att vi köper, jag lägger pengar på, vi byter inte mobiltelefoner varje modell och så vidare.",
+      "Start": "00:18:03,000",
+      "End": "00:18:16,000",
+      "Duration": "13000"
+    },
+    
+    {
+      "UID": "UID-381",
+      "Speaker": "",
+      "Text": "Utan det är ju mer när de tvingar en genom att inte uppdatera och så vidare då.",
+      "Start": "00:18:16,000",
+      "End": "00:18:21,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-382",
+      "Speaker": "",
+      "Text": "Och det behövs va.",
+      "Start": "00:18:21,000",
+      "End": "00:18:22,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-383",
+      "Speaker": "",
+      "Text": "Utan vi köper de modellerna med bäst kamera och med stort minne.",
+      "Start": "00:18:22,000",
+      "End": "00:18:29,000",
+      "Duration": "7000"
+    },
+    
+    {
+      "UID": "UID-384",
+      "Speaker": "",
+      "Text": "Så att vi ska kunna ha och lagra grejer som en minnesbank i mobilerna då.",
+      "Start": "00:18:29,000",
+      "End": "00:18:35,000",
+      "Duration": "6000"
+    },
+    
+    {
+      "UID": "UID-385",
+      "Speaker": "",
+      "Text": "Och då komplementerar vi givetvis det med att vi faktiskt kan hålla igång dem.",
+      "Start": "00:18:35,000",
+      "End": "00:18:40,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-386",
+      "Speaker": "",
+      "Text": "Både här hemma då.",
+      "Start": "00:18:40,000",
+      "End": "00:18:44,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-387",
+      "Speaker": "",
+      "Text": "Då är det ju lätt med solceller och elverk och liksom alla sådana saker.",
+      "Start": "00:18:44,000",
+      "End": "00:18:49,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-388",
+      "Speaker": "",
+      "Text": "Men även om man tvingas evakuera.",
+      "Start": "00:18:49,000",
+      "End": "00:18:52,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-389",
+      "Speaker": "",
+      "Text": "Och det kanske är då, när du inte har tillgång till alla hårddiskar och alla sådana där grejer.",
+      "Start": "00:18:52,000",
+      "End": "00:18:59,000",
+      "Duration": "7000"
+    },
+    
+    {
+      "UID": "UID-390",
+      "Speaker": "",
+      "Text": "Som den blir extra värdefull.",
+      "Start": "00:18:59,000",
+      "End": "00:19:03,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-391",
+      "Speaker": "",
+      "Text": "Så är det.",
+      "Start": "00:19:03,000",
+      "End": "00:19:05,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-392",
+      "Speaker": "",
+      "Text": "Och det jag har offlinekartor.",
+      "Start": "00:19:05,000",
+      "End": "00:19:11,000",
+      "Duration": "6000"
+    },
+    
+    {
+      "UID": "UID-393",
+      "Speaker": "",
+      "Text": "Har jag.",
+      "Start": "00:19:11,000",
+      "End": "00:19:13,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-394",
+      "Speaker": "",
+      "Text": "Som ligger och de tar väldigt stor plats.",
+      "Start": "00:19:13,000",
+      "End": "00:19:16,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-395",
+      "Speaker": "",
+      "Text": "Och det har jag över hela Norden.",
+      "Start": "00:19:16,000",
+      "End": "00:19:19,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-396",
+      "Speaker": "",
+      "Text": "Norge, Danmark, Sverige och Finland.",
+      "Start": "00:19:19,000",
+      "End": "00:19:22,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-397",
+      "Speaker": "",
+      "Text": "Det var ju smart.",
+      "Start": "00:19:22,000",
+      "End": "00:19:24,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-398",
+      "Speaker": "",
+      "Text": "Som ligger i idag va.",
+      "Start": "00:19:24,000",
+      "End": "00:19:26,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-399",
+      "Speaker": "",
+      "Text": "Och det är ju både om gps.",
+      "Start": "00:19:26,000",
+      "End": "00:19:29,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-400",
+      "Speaker": "",
+      "Text": "Systemen fungerar.",
+      "Start": "00:19:29,000",
+      "End": "00:19:32,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-401",
+      "Speaker": "",
+      "Text": "De sitter ju inte riktigt ihop med mobilnäten då.",
+      "Start": "00:19:32,000",
+      "End": "00:19:34,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-402",
+      "Speaker": "",
+      "Text": "Men sen ligger ju kartorna i alla fall.",
+      "Start": "00:19:34,000",
+      "End": "00:19:38,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-403",
+      "Speaker": "",
+      "Text": "Även utan gps då.",
+      "Start": "00:19:38,000",
+      "End": "00:19:40,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-404",
+      "Speaker": "",
+      "Text": "Som kartmaterial.",
+      "Start": "00:19:40,000",
+      "End": "00:19:42,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-405",
+      "Speaker": "",
+      "Text": "För det blir ju en rejäl bunt med papperskartor.",
+      "Start": "00:19:42,000",
+      "End": "00:19:45,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-406",
+      "Speaker": "",
+      "Text": "Om man ska ha över hela Norden.",
+      "Start": "00:19:45,000",
+      "End": "00:19:50,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-407",
+      "Speaker": "",
+      "Text": "Så är det ju.",
+      "Start": "00:19:50,000",
+      "End": "00:19:51,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-408",
+      "Speaker": "",
+      "Text": "Men jag har även.",
+      "Start": "00:19:51,000",
+      "End": "00:19:53,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-409",
+      "Speaker": "",
+      "Text": "I bilarna har vi ju vägatlas över Sverige.",
+      "Start": "00:19:53,000",
+      "End": "00:19:59,000",
+      "Duration": "6000"
+    },
+    
+    {
+      "UID": "UID-410",
+      "Speaker": "",
+      "Text": "Och Europa faktiskt.",
+      "Start": "00:19:59,000",
+      "End": "00:20:01,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-411",
+      "Speaker": "",
+      "Text": "De här stora A4 har vi.",
+      "Start": "00:20:01,000",
+      "End": "00:20:03,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-412",
+      "Speaker": "",
+      "Text": "Men jag har i mobilerna också.",
+      "Start": "00:20:03,000",
+      "End": "00:20:05,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-413",
+      "Speaker": "",
+      "Text": "Sen har jag faktiskt tänkt.",
+      "Start": "00:20:05,000",
+      "End": "00:20:07,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-414",
+      "Speaker": "",
+      "Text": "Men det är inte gjort än.",
+      "Start": "00:20:07,000",
+      "End": "00:20:09,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-415",
+      "Speaker": "",
+      "Text": "Nu är det.",
+      "Start": "00:20:09,000",
+      "End": "00:20:10,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-416",
+      "Speaker": "",
+      "Text": "Jag vet inte hur stor plats det tar.",
+      "Start": "00:20:10,000",
+      "End": "00:20:13,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-417",
+      "Speaker": "",
+      "Text": "Man kan ju ladda ner Wikipedia.",
+      "Start": "00:20:13,000",
+      "End": "00:20:16,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-418",
+      "Speaker": "",
+      "Text": "Och då kan man göra det utan bilder.",
+      "Start": "00:20:16,000",
+      "End": "00:20:20,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-419",
+      "Speaker": "",
+      "Text": "Eller med bilder.",
+      "Start": "00:20:20,000",
+      "End": "00:20:22,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-420",
+      "Speaker": "",
+      "Text": "Och jag misstänker att med bilder så krävs det nog terabyte hårddiskar.",
+      "Start": "00:20:22,000",
+      "End": "00:20:27,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-421",
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:20:27,000",
+      "End": "00:20:28,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-422",
+      "Speaker": "",
+      "Text": "Och det har vi inte i vår.",
+      "Start": "00:20:28,000",
+      "End": "00:20:29,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-423",
+      "Speaker": "",
+      "Text": "Våra mobiler.",
+      "Start": "00:20:29,000",
+      "End": "00:20:33,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-424",
+      "Speaker": "",
+      "Text": "Det blir väl vid nästa uppgradering förhoppningsvis om några år då.",
+      "Start": "00:20:33,000",
+      "End": "00:20:36,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-425",
+      "Speaker": "",
+      "Text": "Men man kan ha hela Wikipedia i telefonen.",
+      "Start": "00:20:36,000",
+      "End": "00:20:38,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-426",
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:20:38,000",
+      "End": "00:20:39,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-427",
+      "Speaker": "",
+      "Text": "Alltså i mobilen kan du ha utan bilder.",
+      "Start": "00:20:39,000",
+      "End": "00:20:41,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-428",
+      "Speaker": "",
+      "Text": "Men det är väldigt mycket värdefullt innehåll i bilderna ju.",
+      "Start": "00:20:41,000",
+      "End": "00:20:44,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-429",
+      "Speaker": "",
+      "Text": "Så att man vill ju helst ha det.",
+      "Start": "00:20:44,000",
+      "End": "00:20:46,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-430",
+      "Speaker": "",
+      "Text": "Men man kan ju tänka sig att ha utan bilder i mobilen.",
+      "Start": "00:20:46,000",
+      "End": "00:20:49,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-431",
+      "Speaker": "",
+      "Text": "Och sen har du en.",
+      "Start": "00:20:49,000",
+      "End": "00:20:51,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-432",
+      "Speaker": "",
+      "Text": "Alltså jag lånar ju en hårddisk av dig.",
+      "Start": "00:20:51,000",
+      "End": "00:20:54,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-433",
+      "Speaker": "",
+      "Text": "De här My Passport.",
+      "Start": "00:20:54,000",
+      "End": "00:20:56,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-434",
+      "Speaker": "",
+      "Text": "Du hade sådana här små.",
+      "Start": "00:20:56,000",
+      "End": "00:20:59,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-435",
+      "Speaker": "",
+      "Text": "Ja men du vet som ryms i handen.",
+      "Start": "00:20:59,000",
+      "End": "00:21:02,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-436",
+      "Speaker": "",
+      "Text": "Eller i fickan.",
+      "Start": "00:21:02,000",
+      "End": "00:21:05,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-437",
+      "Speaker": "",
+      "Text": "Har jag fått tillbaka den?",
+      "Start": "00:21:05,000",
+      "End": "00:21:07,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-438",
+      "Speaker": "",
+      "Text": "Ja det har du fått.",
+      "Start": "00:21:07,000",
+      "End": "00:21:08,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-439",
+      "Speaker": "",
+      "Text": "Men jag har varit så förtjust i den.",
+      "Start": "00:21:08,000",
+      "End": "00:21:10,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-440",
+      "Speaker": "",
+      "Text": "Så jag har faktiskt två stycken liggande bredvid mig här.",
+      "Start": "00:21:10,000",
+      "End": "00:21:12,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-441",
+      "Speaker": "",
+      "Text": "De är på 5 terabyte.",
+      "Start": "00:21:12,000",
+      "End": "00:21:14,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-442",
+      "Speaker": "",
+      "Text": "Oj.",
+      "Start": "00:21:14,000",
+      "End": "00:21:15,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-443",
+      "Speaker": "",
+      "Text": "Och ryms i en jeans bakficka.",
+      "Start": "00:21:15,000",
+      "End": "00:21:19,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-444",
+      "Speaker": "",
+      "Text": "Det är ändå sjukt.",
+      "Start": "00:21:19,000",
+      "End": "00:21:20,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-445",
+      "Speaker": "",
+      "Text": "Men jag måste fråga om Flying-kartorna.",
+      "Start": "00:21:20,000",
+      "End": "00:21:23,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-446",
+      "Speaker": "",
+      "Text": "Berätta, hur har du det?",
+      "Start": "00:21:23,000",
+      "End": "00:21:25,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-447",
+      "Speaker": "",
+      "Text": "Det finns ju olika appar som du kan göra.",
+      "Start": "00:21:25,000",
+      "End": "00:21:29,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-448",
+      "Speaker": "",
+      "Text": "Nu ska jag se vad min heter här.",
+      "Start": "00:21:29,000",
+      "End": "00:21:33,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-449",
+      "Speaker": "",
+      "Text": "Jag har inte tittat på flera år utan den här har vi ju haft länge.",
+      "Start": "00:21:33,000",
+      "End": "00:21:42,000",
+      "Duration": "9000"
+    },
+    
+    {
+      "UID": "UID-450",
+      "Speaker": "",
+      "Text": "Vi hade nog den i mobilerna innan.",
+      "Start": "00:21:42,000",
+      "End": "00:21:44,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-451",
+      "Speaker": "",
+      "Text": "Hoppas den funkar fortfarande då.",
+      "Start": "00:21:44,000",
+      "End": "00:21:45,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-452",
+      "Speaker": "",
+      "Text": "Annars står det här med brallorna ner.",
+      "Start": "00:21:45,000",
+      "End": "00:21:48,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-453",
+      "Speaker": "",
+      "Text": "Ja men precis.",
+      "Start": "00:21:48,000",
+      "End": "00:21:49,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-454",
+      "Speaker": "",
+      "Text": "Ja men det gör den.",
+      "Start": "00:21:49,000",
+      "End": "00:21:51,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-455",
+      "Speaker": "",
+      "Text": "Den heter Toppo GPS den vi har då.",
+      "Start": "00:21:51,000",
+      "End": "00:21:54,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-456",
+      "Speaker": "",
+      "Text": "Gör den.",
+      "Start": "00:21:54,000",
+      "End": "00:21:55,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-457",
+      "Speaker": "",
+      "Text": "Ja och det är.",
+      "Start": "00:21:55,000",
+      "End": "00:21:57,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-458",
+      "Speaker": "",
+      "Text": "Ur de här.",
+      "Start": "00:21:57,000",
+      "End": "00:22:00,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-459",
+      "Speaker": "",
+      "Text": "Ja men alltså du har ju kartor över hela landet och kan zooma in och ner på stignivå.",
+      "Start": "00:22:00,000",
+      "End": "00:22:07,000",
+      "Duration": "7000"
+    },
+    
+    {
+      "UID": "UID-460",
+      "Speaker": "",
+      "Text": "Stenar och myrar höll jag på att säga med den va.",
+      "Start": "00:22:07,000",
+      "End": "00:22:10,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-461",
+      "Speaker": "",
+      "Text": "Eller över hela Norden.",
+      "Start": "00:22:10,000",
+      "End": "00:22:12,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-462",
+      "Speaker": "",
+      "Text": "Den finns och finns och har man tillgång till nätet så går det ju att ladda ner över hela världen i princip.",
+      "Start": "00:22:12,000",
+      "End": "00:22:20,000",
+      "Duration": "8000"
+    },
+    
+    {
+      "UID": "UID-463",
+      "Speaker": "",
+      "Text": "För mig att det här är open source också.",
+      "Start": "00:22:20,000",
+      "End": "00:22:23,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-464",
+      "Speaker": "",
+      "Text": "Men det kan man göra researcha lite.",
+      "Start": "00:22:23,000",
+      "End": "00:22:26,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-465",
+      "Speaker": "",
+      "Text": "Den är den vi har haft.",
+      "Start": "00:22:26,000",
+      "End": "00:22:27,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-466",
+      "Speaker": "",
+      "Text": "Och sen har inte jag haft tid att kolla hur det har utvecklats.",
+      "Start": "00:22:27,000",
+      "End": "00:22:30,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-467",
+      "Speaker": "",
+      "Text": "Om det finns bättre och så vidare.",
+      "Start": "00:22:30,000",
+      "End": "00:22:31,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-468",
+      "Speaker": "",
+      "Text": "Men när vi är på kartor och sånt där.",
+      "Start": "00:22:31,000",
+      "End": "00:22:33,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-469",
+      "Speaker": "",
+      "Text": "Då vill jag tipsa om Lantmäteriets tjänst också.",
+      "Start": "00:22:33,000",
+      "End": "00:22:36,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-470",
+      "Speaker": "",
+      "Text": "Som heter.",
+      "Start": "00:22:36,000",
+      "End": "00:22:38,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-471",
+      "Speaker": "",
+      "Text": "Min karta hoppas jag att den fortfarande heter.",
+      "Start": "00:22:38,000",
+      "End": "00:22:41,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-472",
+      "Speaker": "",
+      "Text": "Och där kan du gratis ladda ner i.",
+      "Start": "00:22:41,000",
+      "End": "00:22:45,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-473",
+      "Speaker": "",
+      "Text": "Jag tror det är olika.",
+      "Start": "00:22:45,000",
+      "End": "00:22:47,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-474",
+      "Speaker": "",
+      "Text": "Men framförallt i pdf-format.",
+      "Start": "00:22:47,000",
+      "End": "00:22:49,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-475",
+      "Speaker": "",
+      "Text": "En yta.",
+      "Start": "00:22:49,000",
+      "End": "00:22:51,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-476",
+      "Speaker": "",
+      "Text": "Och så får du den i A",
+      "Start": "00:22:51,000",
+      "End": "00:22:53,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-477",
+      "Speaker": "",
+      "Text": "A4-storlekar.",
+      "Start": "00:22:53,000",
+      "End": "00:22:55,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-478",
+      "Speaker": "",
+      "Text": "Alltså typ 12 A4 som ligger.",
+      "Start": "00:22:55,000",
+      "End": "00:22:57,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-479",
+      "Speaker": "",
+      "Text": "Eller 16 eller någonting.",
+      "Start": "00:22:57,000",
+      "End": "00:22:59,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-480",
+      "Speaker": "",
+      "Text": "3-4 i bredd och 3-4 i höjd.",
+      "Start": "00:22:59,000",
+      "End": "00:23:01,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-481",
+      "Speaker": "",
+      "Text": "En yta.",
+      "Start": "00:23:01,000",
+      "End": "00:23:03,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-482",
+      "Speaker": "",
+      "Text": "Så du får över ett område runt där du bor.",
+      "Start": "00:23:03,000",
+      "End": "00:23:06,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-483",
+      "Speaker": "",
+      "Text": "Eller man kan ta efter evakueringsvägar och sånt där.",
+      "Start": "00:23:06,000",
+      "End": "00:23:09,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-484",
+      "Speaker": "",
+      "Text": "Och de kan du ju då skriva ut.",
+      "Start": "00:23:09,000",
+      "End": "00:23:11,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-485",
+      "Speaker": "",
+      "Text": "Och plasta in och sådana där grejer.",
+      "Start": "00:23:11,000",
+      "End": "00:23:13,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-486",
+      "Speaker": "",
+      "Text": "Så min karta.",
+      "Start": "00:23:13,000",
+      "End": "00:23:15,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-487",
+      "Speaker": "",
+      "Text": "Och det är helt kostnadsfritt.",
+      "Start": "00:23:15,000",
+      "End": "00:23:17,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-488",
+      "Speaker": "",
+      "Text": "Kan inte du googla det som är så snabb på att googla.",
+      "Start": "00:23:17,000",
+      "End": "00:23:19,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-489",
+      "Speaker": "",
+      "Text": "Kalla att det är.",
+      "Start": "00:23:19,000",
+      "End": "00:23:20,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-490",
+      "Speaker": "",
+      "Text": "Jag håller på med en annan grej som jag vill berätta nu.",
+      "Start": "00:23:20,000",
+      "End": "00:23:23,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-491",
+      "Speaker": "",
+      "Text": "Kartappen i Iphone.",
+      "Start": "00:23:23,000",
+      "End": "00:23:26,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-492",
+      "Speaker": "",
+      "Text": "Och där kan du också hämta offline-kartor.",
+      "Start": "00:23:26,000",
+      "End": "00:23:28,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-493",
+      "Speaker": "",
+      "Text": "Bara över ett område i taget.",
+      "Start": "00:23:28,000",
+      "End": "00:23:31,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-494",
+      "Speaker": "",
+      "Text": "Här blir typ Sundsvall till Jönköping.",
+      "Start": "00:23:31,000",
+      "End": "00:23:39,000",
+      "Duration": "8000"
+    },
+    
+    {
+      "UID": "UID-495",
+      "Speaker": "",
+      "Text": "Kan jag få hem offline.",
+      "Start": "00:23:39,000",
+      "End": "00:23:41,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-496",
+      "Speaker": "",
+      "Text": "Det är två gig.",
+      "Start": "00:23:41,000",
+      "End": "00:23:43,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-497",
+      "Speaker": "",
+      "Text": "Är det begränsat i storlek alltså?",
+      "Start": "00:23:43,000",
+      "End": "00:23:45,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-498",
+      "Speaker": "",
+      "Text": "Ja precis. Jag vet inte om man kan göra flera hämtningar.",
+      "Start": "00:23:45,000",
+      "End": "00:23:49,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-499",
+      "Speaker": "",
+      "Text": "Men det var ju i alla fall väldigt bra.",
+      "Start": "00:23:49,000",
+      "End": "00:23:51,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-500",
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:23:51,000",
+      "End": "00:23:53,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-501",
+      "Speaker": "",
+      "Text": "Jag kan väl säga det att när man laddar ner så här som hela Norden.",
+      "Start": "00:23:53,000",
+      "End": "00:24:00,000",
+      "Duration": "7000"
+    },
+    
+    {
+      "UID": "UID-502",
+      "Speaker": "",
+      "Text": "Offline och så.",
+      "Start": "00:24:00,000",
+      "End": "00:24:00,000",
+      "Duration": "0"
+    },
+    
+    {
+      "UID": "UID-503",
+      "Speaker": "",
+      "Text": "Det är lite olika system i olika länder tror jag.",
+      "Start": "00:24:00,000",
+      "End": "00:24:03,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-504",
+      "Speaker": "",
+      "Text": "För det är väldigt stor skillnad på filstorlekarna då.",
+      "Start": "00:24:03,000",
+      "End": "00:24:08,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-505",
+      "Speaker": "",
+      "Text": "Men man behöver nog ha minst 256 eller 512 GB minnen på mobilen.",
+      "Start": "00:24:08,000",
+      "End": "00:24:16,000",
+      "Duration": "8000"
+    },
+    
+    {
+      "UID": "UID-506",
+      "Speaker": "",
+      "Text": "För de där grejerna alltså.",
+      "Start": "00:24:16,000",
+      "End": "00:24:17,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-507",
+      "Speaker": "",
+      "Text": "För att få plats med någonting annat också.",
+      "Start": "00:24:17,000",
+      "End": "00:24:19,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-508",
+      "Speaker": "",
+      "Text": "Med bilder och lite filmer och sånt där.",
+      "Start": "00:24:19,000",
+      "End": "00:24:22,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-509",
+      "Speaker": "",
+      "Text": "Nu ska vi se.",
+      "Start": "00:24:22,000",
+      "End": "00:24:22,000",
+      "Duration": "0"
+    },
+    
+    {
+      "UID": "UID-510",
+      "Speaker": "",
+      "Text": "Nu ska jag försöka göra det här.",
+      "Start": "00:24:22,000",
+      "End": "00:24:23,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-511",
+      "Speaker": "",
+      "Text": "Det här är ju jävligt starkt innehåll i en podcast.",
+      "Start": "00:24:23,000",
+      "End": "00:24:26,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-512",
+      "Speaker": "",
+      "Text": "Jag ska försöka göra det här i Google Maps också.",
+      "Start": "00:24:26,000",
+      "End": "00:24:29,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-513",
+      "Speaker": "",
+      "Text": "Bara för att berätta hur man gör.",
+      "Start": "00:24:29,000",
+      "End": "00:24:31,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-514",
+      "Speaker": "",
+      "Text": "Offline-kartor.",
+      "Start": "00:24:31,000",
+      "End": "00:24:33,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-515",
+      "Speaker": "",
+      "Text": "Det fanns där också.",
+      "Start": "00:24:33,000",
+      "End": "00:24:35,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-516",
+      "Speaker": "",
+      "Text": "Ja det hade jag gjort tydligen.",
+      "Start": "00:24:35,000",
+      "End": "00:24:36,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-517",
+      "Speaker": "",
+      "Text": "Jag åkte till Kiev så gjorde jag det.",
+      "Start": "00:24:36,000",
+      "End": "00:24:38,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-518",
+      "Speaker": "",
+      "Text": "Då laddade jag hem Kiev i min telefon.",
+      "Start": "00:24:38,000",
+      "End": "00:24:42,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-519",
+      "Speaker": "",
+      "Text": "Det är bra användning i alla fall.",
+      "Start": "00:24:42,000",
+      "End": "00:24:44,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-520",
+      "Speaker": "",
+      "Text": "För just det här att hitta och ha kartor.",
+      "Start": "00:24:44,000",
+      "End": "00:24:48,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-521",
+      "Speaker": "",
+      "Text": "Och det är också så att det är väldigt lätt att dokumentera också med.",
+      "Start": "00:24:48,000",
+      "End": "00:24:53,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-522",
+      "Speaker": "",
+      "Text": "Rutter och det heter väl olika.",
+      "Start": "00:24:53,000",
+      "End": "00:24:58,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-523",
+      "Speaker": "",
+      "Text": "Waypoints är ju det gamla som nästan används.",
+      "Start": "00:24:58,000",
+      "End": "00:25:01,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-524",
+      "Speaker": "",
+      "Text": "På sjön och så vidare.",
+      "Start": "00:25:01,000",
+      "End": "00:25:04,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-525",
+      "Speaker": "",
+      "Text": "Också numera då.",
+      "Start": "00:25:04,000",
+      "End": "00:25:05,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-526",
+      "Speaker": "",
+      "Text": "Alltså punkter då va.",
+      "Start": "00:25:05,000",
+      "End": "00:25:07,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-527",
+      "Speaker": "",
+      "Text": "Svampställen, bärställen.",
+      "Start": "00:25:07,000",
+      "End": "00:25:09,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-528",
+      "Speaker": "",
+      "Text": "När du fiskar.",
+      "Start": "00:25:09,000",
+      "End": "00:25:11,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-529",
+      "Speaker": "",
+      "Text": "Vad du får bra med fisk.",
+      "Start": "00:25:11,000",
+      "End": "00:25:13,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-530",
+      "Speaker": "",
+      "Text": "Ja men du vet det går ju lägga in allting.",
+      "Start": "00:25:13,000",
+      "End": "00:25:15,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-531",
+      "Speaker": "",
+      "Text": "Vad får du bra med fisk Patrik?",
+      "Start": "00:25:15,000",
+      "End": "00:25:17,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-532",
+      "Speaker": "",
+      "Text": "Alltså jag pratar nog om det så sent som igår.",
+      "Start": "00:25:17,000",
+      "End": "00:25:20,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-533",
+      "Speaker": "",
+      "Text": "Att.",
+      "Start": "00:25:20,000",
+      "End": "00:25:23,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-534",
+      "Speaker": "",
+      "Text": "När jag.",
+      "Start": "00:25:23,000",
+      "End": "00:25:25,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-535",
+      "Speaker": "",
+      "Text": "Det gäller ju att smida medan järnet är varmt.",
+      "Start": "00:25:25,000",
+      "End": "00:25:27,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-536",
+      "Speaker": "",
+      "Text": "Så jag jobbar ju ganska mycket nu.",
+      "Start": "00:25:27,000",
+      "End": "00:25:30,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-537",
+      "Speaker": "",
+      "Text": "Man har hyfsad hälsa eller bra hälsa.",
+      "Start": "00:25:30,000",
+      "End": "00:25:33,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-538",
+      "Speaker": "",
+      "Text": "Och är efterfrågad och så vidare.",
+      "Start": "00:25:33,000",
+      "End": "00:25:37,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-539",
+      "Speaker": "",
+      "Text": "Men det är just fiske är ju en grej.",
+      "Start": "00:25:37,000",
+      "End": "00:25:40,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-540",
+      "Speaker": "",
+      "Text": "Som jag faktiskt kommer att prioritera ganska mycket.",
+      "Start": "00:25:40,000",
+      "End": "00:25:44,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-541",
+      "Speaker": "",
+      "Text": "När det blir lite mer hålrum.",
+      "Start": "00:25:44,000",
+      "End": "00:25:46,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-542",
+      "Speaker": "",
+      "Text": "Sen.",
+      "Start": "00:25:46,000",
+      "End": "00:25:48,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-543",
+      "Speaker": "",
+      "Text": "Mysigt.",
+      "Start": "00:25:48,000",
+      "End": "00:25:49,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-544",
+      "Speaker": "",
+      "Text": "Så är det.",
+      "Start": "00:25:49,000",
+      "End": "00:25:50,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-545",
+      "Speaker": "",
+      "Text": "För jag tycker att det är väldigt trevligt och min hustru.",
+      "Start": "00:25:50,000",
+      "End": "00:25:53,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-546",
+      "Speaker": "",
+      "Text": "Tycker det är väldigt trevligt med.",
+      "Start": "00:25:53,000",
+      "End": "00:25:55,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-547",
+      "Speaker": "",
+      "Text": "Men hon vill inte krångla till det.",
+      "Start": "00:25:55,000",
+      "End": "00:25:56,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-548",
+      "Speaker": "",
+      "Text": "Hon är.",
+      "Start": "00:25:56,000",
+      "End": "00:25:57,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-549",
+      "Speaker": "",
+      "Text": "Mycket för att ta kanoten och åka ut och sitta och meta på ett stengrund.",
+      "Start": "00:25:57,000",
+      "End": "00:26:01,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-550",
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:26:01,000",
+      "End": "00:26:02,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-551",
+      "Speaker": "",
+      "Text": "Och det gillar jag också.",
+      "Start": "00:26:02,000",
+      "End": "00:26:03,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-552",
+      "Speaker": "",
+      "Text": "Så det går att göra det.",
+      "Start": "00:26:03,000",
+      "End": "00:26:05,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-553",
+      "Speaker": "",
+      "Text": "Men sen går det ju att åka och sitta och elda på en strand.",
+      "Start": "00:26:05,000",
+      "End": "00:26:08,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-554",
+      "Speaker": "",
+      "Text": "Och bottenmeta och med hundarna.",
+      "Start": "00:26:08,000",
+      "End": "00:26:10,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-555",
+      "Speaker": "",
+      "Text": "Och ja.",
+      "Start": "00:26:10,000",
+      "End": "00:26:11,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-556",
+      "Speaker": "",
+      "Text": "Det går att göra mycket.",
+      "Start": "00:26:11,000",
+      "End": "00:26:13,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-557",
+      "Speaker": "",
+      "Text": "Mysigt också att bo vid.",
+      "Start": "00:26:13,000",
+      "End": "00:26:14,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-558",
+      "Speaker": "",
+      "Text": "Ska man äta fisken hos er hur mycket som helst.",
+      "Start": "00:26:14,000",
+      "End": "00:26:16,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-559",
+      "Speaker": "",
+      "Text": "För Östersjöfisk där jag bor.",
+      "Start": "00:26:16,000",
+      "End": "00:26:17,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-560",
+      "Speaker": "",
+      "Text": "Den får man ju bara äta en om året typ.",
+      "Start": "00:26:17,000",
+      "End": "00:26:19,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-561",
+      "Speaker": "",
+      "Text": "För annars får man inte så mycket gifter.",
+      "Start": "00:26:19,000",
+      "End": "00:26:21,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-562",
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:26:21,000",
+      "End": "00:26:21,000",
+      "Duration": "0"
+    },
+    
+    {
+      "UID": "UID-563",
+      "Speaker": "",
+      "Text": "Nej alltså.",
+      "Start": "00:26:21,000",
+      "End": "00:26:23,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-564",
+      "Speaker": "",
+      "Text": "Så är det nog nästan överallt nu.",
+      "Start": "00:26:23,000",
+      "End": "00:26:26,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-565",
+      "Speaker": "",
+      "Text": "Att rekommendationerna är nog att inte äta för ofta.",
+      "Start": "00:26:26,000",
+      "End": "00:26:31,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-566",
+      "Speaker": "",
+      "Text": "Så jävla deppigt.",
+      "Start": "00:26:31,000",
+      "End": "00:26:33,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-567",
+      "Speaker": "",
+      "Text": "Man blir så jävla deprimerad.",
+      "Start": "00:26:33,000",
+      "End": "00:26:35,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-568",
+      "Speaker": "",
+      "Text": "Ja men då kan vi ta en glad nyhet.",
+      "Start": "00:26:35,000",
+      "End": "00:26:37,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-569",
+      "Speaker": "",
+      "Text": "Som en av våra sjöar här då.",
+      "Start": "00:26:37,000",
+      "End": "00:26:40,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-570",
+      "Speaker": "",
+      "Text": "Som ligger precis nere.",
+      "Start": "00:26:40,000",
+      "End": "00:26:41,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-571",
+      "Speaker": "",
+      "Text": "Vad gick du?",
+      "Start": "00:26:41,000",
+      "End": "00:26:42,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-572",
+      "Speaker": "",
+      "Text": "Nej du hann aldrig gå ut och titta på utsikten.",
+      "Start": "00:26:42,000",
+      "End": "00:26:44,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-573",
+      "Speaker": "",
+      "Text": "Jo det gjorde vi.",
+      "Start": "00:26:44,000",
+      "End": "00:26:45,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-574",
+      "Speaker": "",
+      "Text": "Jo det gjorde vi.",
+      "Start": "00:26:45,000",
+      "End": "00:26:46,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-575",
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:26:46,000",
+      "End": "00:26:46,000",
+      "Duration": "0"
+    },
+    
+    {
+      "UID": "UID-576",
+      "Speaker": "",
+      "Text": "Vi gick till kanten där och tittade.",
+      "Start": "00:26:46,000",
+      "End": "00:26:48,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-577",
+      "Speaker": "",
+      "Text": "Den sjön där nere, Kymmen.",
+      "Start": "00:26:48,000",
+      "End": "00:26:50,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-578",
+      "Speaker": "",
+      "Text": "Tyvärr är den ju sönderreglerad.",
+      "Start": "00:26:50,000",
+      "End": "00:26:53,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-579",
+      "Speaker": "",
+      "Text": "Så de höjer och sänker vattennivån väldigt mycket.",
+      "Start": "00:26:53,000",
+      "End": "00:26:56,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-580",
+      "Speaker": "",
+      "Text": "Så gäddan är ju i princip nästan utrotad där då.",
+      "Start": "00:26:56,000",
+      "End": "00:27:01,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-581",
+      "Speaker": "",
+      "Text": "Men det finns mycket stora abborrar och sånt där istället.",
+      "Start": "00:27:01,000",
+      "End": "00:27:04,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-582",
+      "Speaker": "",
+      "Text": "Och där är det ju så här att den har blivit mycket renare.",
+      "Start": "00:27:04,000",
+      "End": "00:27:10,000",
+      "Duration": "6000"
+    },
+    
+    {
+      "UID": "UID-583",
+      "Speaker": "",
+      "Text": "Och man tror att det är gamla soptippar som har läckt i tillflödena längre uppåt.",
+      "Start": "00:27:10,000",
+      "End": "00:27:19,000",
+      "Duration": "9000"
+    },
+    
+    {
+      "UID": "UID-584",
+      "Speaker": "",
+      "Text": "Och att de har helt enkelt börjat läcka.",
+      "Start": "00:27:19,000",
+      "End": "00:27:23,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-585",
+      "Speaker": "",
+      "Text": "Och det gör ju då att det kommer inte in så mycket.",
+      "Start": "00:27:23,000",
+      "End": "00:27:26,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-586",
+      "Speaker": "",
+      "Text": "Utan det blir renare och renare hela tiden i sjön där då.",
+      "Start": "00:27:26,000",
+      "End": "00:27:32,000",
+      "Duration": "6000"
+    },
+    
+    {
+      "UID": "UID-587",
+      "Speaker": "",
+      "Text": "Så det börjar bli väldigt fint vatten i sjön.",
+      "Start": "00:27:32,000",
+      "End": "00:27:37,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-588",
+      "Speaker": "",
+      "Text": "Gud vad härligt.",
+      "Start": "00:27:37,000",
+      "End": "00:27:38,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-589",
+      "Speaker": "",
+      "Text": "Alltså äntligen nu i klimatkatastrofen och krigets tidevarv.",
+      "Start": "00:27:38,000",
+      "End": "00:27:43,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-590",
+      "Speaker": "",
+      "Text": "Så kan vi äntligen börja fiska i sjön.",
+      "Start": "00:27:43,000",
+      "End": "00:27:45,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-591",
+      "Speaker": "",
+      "Text": "Och den ekonomiska kollapsen och skuldbubblan.",
+      "Start": "00:27:45,000",
+      "End": "00:27:48,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-592",
+      "Speaker": "",
+      "Text": "Vi hinner med en fråga till.",
+      "Start": "00:27:48,000",
+      "End": "00:27:53,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-593",
+      "Speaker": "",
+      "Text": "Den kommer från Per tror jag.",
+      "Start": "00:27:53,000",
+      "End": "00:27:56,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-594",
+      "Speaker": "",
+      "Text": "Äter kalkon kirskål.",
+      "Start": "00:27:56,000",
+      "End": "00:27:59,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-595",
+      "Speaker": "",
+      "Text": "Har några hundra kvadratmeter som jag skulle vilja bekämpa.",
+      "Start": "00:27:59,000",
+      "End": "00:28:01,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-596",
+      "Speaker": "",
+      "Text": "Yes.",
+      "Start": "00:28:01,000",
+      "End": "00:28:02,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-597",
+      "Speaker": "",
+      "Text": "Nässlor och kirskål har jag väldigt väldokumenterad egen erfarenhet av.",
+      "Start": "00:28:02,000",
+      "End": "00:28:09,000",
+      "Duration": "7000"
+    },
+    
+    {
+      "UID": "UID-598",
+      "Speaker": "",
+      "Text": "Det gick fort.",
+      "Start": "00:28:09,000",
+      "End": "00:28:10,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-599",
+      "Speaker": "",
+      "Text": "Gud vad härligt.",
+      "Start": "00:28:10,000",
+      "End": "00:28:11,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-600",
+      "Speaker": "",
+      "Text": "Ja, de är suveräna på det.",
+      "Start": "00:28:11,000",
+      "End": "00:28:13,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-601",
+      "Speaker": "",
+      "Text": "Så pratade vi också om igår att vi ska ringa in våra vinbärsbuskar och en kantzon på utsidan av stängslet.",
+      "Start": "00:28:13,000",
+      "End": "00:28:19,000",
+      "Duration": "6000"
+    },
+    
+    {
+      "UID": "UID-602",
+      "Speaker": "",
+      "Text": "För det är rent inne i hundsagen.",
+      "Start": "00:28:19,000",
+      "End": "00:28:22,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-603",
+      "Speaker": "",
+      "Text": "Mer rent än vad det skulle vara kan man väl säga.",
+      "Start": "00:28:22,000",
+      "End": "00:28:25,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-604",
+      "Speaker": "",
+      "Text": "Jag har faktiskt hunnit rotorharva upp den.",
+      "Start": "00:28:25,000",
+      "End": "00:28:29,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-605",
+      "Speaker": "",
+      "Text": "Betongplattan är väl rätt ord nu.",
+      "Start": "00:28:29,000",
+      "End": "00:28:32,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-606",
+      "Speaker": "",
+      "Text": "Kanske för beskrivningen.",
+      "Start": "00:28:32,000",
+      "End": "00:28:34,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-607",
+      "Speaker": "",
+      "Text": "Och sen har jag satt in kulturängsblandning där.",
+      "Start": "00:28:34,000",
+      "End": "00:28:37,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-608",
+      "Speaker": "",
+      "Text": "Och jag hade egentligen tänkt dela av det i två halvor och göra det.",
+      "Start": "00:28:37,000",
+      "End": "00:28:41,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-609",
+      "Speaker": "",
+      "Text": "Har ju hönsen och Kalle Kalkon som är bodyguard inne i hönsgården.",
+      "Start": "00:28:41,000",
+      "End": "00:28:46,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-610",
+      "Speaker": "",
+      "Text": "Till ena halvan då och så på den andra.",
+      "Start": "00:28:46,000",
+      "End": "00:28:51,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-611",
+      "Speaker": "",
+      "Text": "Men nu gjorde jag inte det.",
+      "Start": "00:28:51,000",
+      "End": "00:28:52,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-612",
+      "Speaker": "",
+      "Text": "Och det verkar som att det har fått gro utan att bli uppätet allting.",
+      "Start": "00:28:52,000",
+      "End": "00:28:56,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-613",
+      "Speaker": "",
+      "Text": "Jaha, otroligt.",
+      "Start": "00:28:56,000",
+      "End": "00:28:58,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-614",
+      "Speaker": "",
+      "Text": "Kanske är någon art som inte får vara med som de redan har ätit upp.",
+      "Start": "00:28:58,000",
+      "End": "00:29:02,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-615",
+      "Speaker": "",
+      "Text": "Du, får jag fråga om kalkoner bara?",
+      "Start": "00:29:02,000",
+      "End": "00:29:04,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-616",
+      "Speaker": "",
+      "Text": "En privat fråga.",
+      "Start": "00:29:04,000",
+      "End": "00:29:05,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-617",
+      "Speaker": "",
+      "Text": "De kan bo med hönsen utan problem?",
+      "Start": "00:29:05,000",
+      "End": "00:29:07,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-618",
+      "Speaker": "",
+      "Text": "Nej, alltså.",
+      "Start": "00:29:07,000",
+      "End": "00:29:09,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-619",
+      "Speaker": "",
+      "Text": "Det kan jag inte säga så här offentligt.",
+      "Start": "00:29:09,000",
+      "End": "00:29:11,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-620",
+      "Speaker": "",
+      "Text": "Jag har haft höns och kalkoner ihop.",
+      "Start": "00:29:11,000",
+      "End": "00:29:14,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-621",
+      "Speaker": "",
+      "Text": "Och jag har fortfarande en kalkontupp som inte kan få några ungar.",
+      "Start": "00:29:14,000",
+      "End": "00:29:20,000",
+      "Duration": "6000"
+    },
+    
+    {
+      "UID": "UID-622",
+      "Speaker": "",
+      "Text": "Han lever vidare.",
+      "Start": "00:29:20,000",
+      "End": "00:29:22,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-623",
+      "Speaker": "",
+      "Text": "Som skyddsvakt åt kalkonerna då.",
+      "Start": "00:29:22,000",
+      "End": "00:29:25,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-624",
+      "Speaker": "",
+      "Text": "För de är lite konstiga i den här delen av världen.",
+      "Start": "00:29:25,000",
+      "End": "00:29:28,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-625",
+      "Speaker": "",
+      "Text": "De har inte riktigt vant sig vid dem.",
+      "Start": "00:29:28,000",
+      "End": "00:29:30,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-626",
+      "Speaker": "",
+      "Text": "Du vet när en kalkontupp burrar upp sig.",
+      "Start": "00:29:30,000",
+      "End": "00:29:33,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-627",
+      "Speaker": "",
+      "Text": "Och så det där huvudet som de har och så vidare.",
+      "Start": "00:29:33,000",
+      "End": "00:29:36,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-628",
+      "Speaker": "",
+      "Text": "Så att min erfarenhet är att jag har inte haft problem med.",
+      "Start": "00:29:36,000",
+      "End": "00:29:41,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-629",
+      "Speaker": "",
+      "Text": "I någon slag har det varit som en rovfågel.",
+      "Start": "00:29:41,000",
+      "End": "00:29:45,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-630",
+      "Speaker": "",
+      "Text": "Men han bidrar förutom hundarna då.",
+      "Start": "00:29:45,000",
+      "End": "00:29:49,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-631",
+      "Speaker": "",
+      "Text": "Så han får gå där.",
+      "Start": "00:29:49,000",
+      "End": "00:29:52,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-632",
+      "Speaker": "",
+      "Text": "Han är så trevlig och så.",
+      "Start": "00:29:52,000",
+      "End": "00:29:55,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-633",
+      "Speaker": "",
+      "Text": "Han är med hönorna då.",
+      "Start": "00:29:55,000",
+      "End": "00:29:57,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-634",
+      "Speaker": "",
+      "Text": "Så vi kan väl säga så här.",
+      "Start": "00:29:57,000",
+      "End": "00:29:59,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-635",
+      "Speaker": "",
+      "Text": "Det finns sjukdomar som kan sprida sig mellan höns och kalkoner.",
+      "Start": "00:29:59,000",
+      "End": "00:30:06,000",
+      "Duration": "7000"
+    },
+    
+    {
+      "UID": "UID-636",
+      "Speaker": "",
+      "Text": "Okej.",
+      "Start": "00:30:06,000",
+      "End": "00:30:07,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-637",
+      "Speaker": "",
+      "Text": "Framförallt till kalkonerna då.",
+      "Start": "00:30:07,000",
+      "End": "00:30:11,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-638",
+      "Speaker": "",
+      "Text": "Frågan är att de får ändrad huvudfärg tror jag.",
+      "Start": "00:30:11,000",
+      "End": "00:30:17,000",
+      "Duration": "6000"
+    },
+    
+    {
+      "UID": "UID-639",
+      "Speaker": "",
+      "Text": "Men i alla fall.",
+      "Start": "00:30:17,000",
+      "End": "00:30:19,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-640",
+      "Speaker": "",
+      "Text": "Med dödlig utgång och sånt där då.",
+      "Start": "00:30:19,000",
+      "End": "00:30:22,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-641",
+      "Speaker": "",
+      "Text": "Ändrad huvudfärg med dödlig utgång.",
+      "Start": "00:30:22,000",
+      "End": "00:30:24,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-642",
+      "Speaker": "",
+      "Text": "Det går inte att åka på själv.",
+      "Start": "00:30:24,000",
+      "End": "00:30:26,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-643",
+      "Speaker": "",
+      "Text": "Nej, men du är ingen kalkon Kalle.",
+      "Start": "00:30:26,000",
+      "End": "00:30:29,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-644",
+      "Speaker": "",
+      "Text": "Men du, om man ska ha kalkoner då.",
+      "Start": "00:30:29,000",
+      "End": "00:30:32,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-645",
+      "Speaker": "",
+      "Text": "Hur ska de bo?",
+      "Start": "00:30:32,000",
+      "End": "00:30:34,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-646",
+      "Speaker": "",
+      "Text": "Alltså, jag har ju haft de här buttarna.",
+      "Start": "00:30:34,000",
+      "End": "00:30:39,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-647",
+      "Speaker": "",
+      "Text": "Men det kommer jag inte ha mer.",
+      "Start": "00:30:39,000",
+      "End": "00:30:41,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-648",
+      "Speaker": "",
+      "Text": "Tjockisarna?",
+      "Start": "00:30:41,000",
+      "End": "00:30:43,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-649",
+      "Speaker": "",
+      "Text": "Ja, de blir så väldigt stora.",
+      "Start": "00:30:43,000",
+      "End": "00:30:45,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-650",
+      "Speaker": "",
+      "Text": "Det är mycket belgian blue alltså.",
+      "Start": "00:30:45,000",
+      "End": "00:30:47,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-651",
+      "Speaker": "",
+      "Text": "Det är ju sådär som man...",
+      "Start": "00:30:47,000",
+      "End": "00:30:49,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-652",
+      "Speaker": "",
+      "Text": "De är ju stora nu.",
+      "Start": "00:30:49,000",
+      "End": "00:30:52,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-653",
+      "Speaker": "",
+      "Text": "Jag ville slakta dem när flugorna har försvunnit.",
+      "Start": "00:30:52,000",
+      "End": "00:30:54,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-654",
+      "Speaker": "",
+      "Text": "Jag skulle ju ha slaktat dem i höstas.",
+      "Start": "00:30:54,000",
+      "End": "00:30:56,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-655",
+      "Speaker": "",
+      "Text": "Men det var ju som sagt.",
+      "Start": "00:30:56,000",
+      "End": "00:30:58,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-656",
+      "Speaker": "",
+      "Text": "Vi skulle slutgöda dem.",
+      "Start": "00:30:58,000",
+      "End": "00:31:00,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-657",
+      "Speaker": "",
+      "Text": "Och så skulle vi iväg och så vart det 60 cm snö.",
+      "Start": "00:31:00,000",
+      "End": "00:31:03,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-658",
+      "Speaker": "",
+      "Text": "Och man vill hänga dem när de är och så vidare.",
+      "Start": "00:31:03,000",
+      "End": "00:31:07,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-659",
+      "Speaker": "",
+      "Text": "Så att vi har ju kvar dem nu.",
+      "Start": "00:31:07,000",
+      "End": "00:31:10,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-660",
+      "Speaker": "",
+      "Text": "Och tänker ta dem så fort det blir flugfritt.",
+      "Start": "00:31:10,000",
+      "End": "00:31:14,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-661",
+      "Speaker": "",
+      "Text": "Det är ju det som är när man kör hem slakt och sånt där.",
+      "Start": "00:31:14,000",
+      "End": "00:31:17,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-662",
+      "Speaker": "",
+      "Text": "Att man vill ha flugfria perioden va.",
+      "Start": "00:31:17,000",
+      "End": "00:31:20,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-663",
+      "Speaker": "",
+      "Text": "Men alltså.",
+      "Start": "00:31:20,000",
+      "End": "00:31:22,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-664",
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:31:22,000",
+      "End": "00:31:24,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-665",
+      "Speaker": "",
+      "Text": "Alltså de ser ju lugna fina ut och har det bra alltså.",
+      "Start": "00:31:24,000",
+      "End": "00:31:26,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-666",
+      "Speaker": "",
+      "Text": "Men de är stora och tunga va.",
+      "Start": "00:31:26,000",
+      "End": "00:31:28,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-667",
+      "Speaker": "",
+      "Text": "Så att man reflekterar.",
+      "Start": "00:31:28,000",
+      "End": "00:31:30,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-668",
+      "Speaker": "",
+      "Text": "Jag kommer aldrig mer att köpa dem.",
+      "Start": "00:31:30,000",
+      "End": "00:31:32,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-669",
+      "Speaker": "",
+      "Text": "Men sen har vi ju.",
+      "Start": "00:31:32,000",
+      "End": "00:31:33,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-670",
+      "Speaker": "",
+      "Text": "Vanliga kalkoner.",
+      "Start": "00:31:33,000",
+      "End": "00:31:34,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-671",
+      "Speaker": "",
+      "Text": "Vanliga kalkoner ja.",
+      "Start": "00:31:34,000",
+      "End": "00:31:36,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-672",
+      "Speaker": "",
+      "Text": "Och då har vi det.",
+      "Start": "00:31:36,000",
+      "End": "00:31:38,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-673",
+      "Speaker": "",
+      "Text": "Praktikant 007 tog med sig kalkoner.",
+      "Start": "00:31:38,000",
+      "End": "00:31:42,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-674",
+      "Speaker": "",
+      "Text": "Så vi bytte mot en mjölkforsbagge.",
+      "Start": "00:31:42,000",
+      "End": "00:31:46,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-675",
+      "Speaker": "",
+      "Text": "Och det är tre stycken Red Bourbon.",
+      "Start": "00:31:46,000",
+      "End": "00:31:52,000",
+      "Duration": "6000"
+    },
+    
+    {
+      "UID": "UID-676",
+      "Speaker": "",
+      "Text": "En tupp och två hönor.",
+      "Start": "00:31:52,000",
+      "End": "00:31:55,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-677",
+      "Speaker": "",
+      "Text": "Och de är.",
+      "Start": "00:31:55,000",
+      "End": "00:31:57,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-678",
+      "Speaker": "",
+      "Text": "Alltså kalkoner är otroligt trevliga fåglar.",
+      "Start": "00:31:57,000",
+      "End": "00:32:01,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-679",
+      "Speaker": "",
+      "Text": "Både tupparna och hönorna.",
+      "Start": "00:32:01,000",
+      "End": "00:32:03,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-680",
+      "Speaker": "",
+      "Text": "Och de låter så trevligt och sådär.",
+      "Start": "00:32:03,000",
+      "End": "00:32:05,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-681",
+      "Speaker": "",
+      "Text": "Så när man vänjer sig vid utseendet så.",
+      "Start": "00:32:05,000",
+      "End": "00:32:08,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-682",
+      "Speaker": "",
+      "Text": "Nej men vi tycker mycket om våra kalkoner.",
+      "Start": "00:32:08,000",
+      "End": "00:32:11,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-683",
+      "Speaker": "",
+      "Text": "Och då är det så här.",
+      "Start": "00:32:11,000",
+      "End": "00:32:13,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-684",
+      "Speaker": "",
+      "Text": "Nu, det skulle vara snabba svar Calle va?",
+      "Start": "00:32:13,000",
+      "End": "00:32:17,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-685",
+      "Speaker": "",
+      "Text": "Ja, men i alla fall.",
+      "Start": "00:32:17,000",
+      "End": "00:32:19,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-686",
+      "Speaker": "",
+      "Text": "De vill sitta på.",
+      "Start": "00:32:19,000",
+      "End": "00:32:22,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-687",
+      "Speaker": "",
+      "Text": "I ett träd helst av allt.",
+      "Start": "00:32:22,000",
+      "End": "00:32:25,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-688",
+      "Speaker": "",
+      "Text": "Jaha.",
+      "Start": "00:32:25,000",
+      "End": "00:32:25,000",
+      "Duration": "0"
+    },
+    
+    {
+      "UID": "UID-689",
+      "Speaker": "",
+      "Text": "Och när de är lite mindre då.",
+      "Start": "00:32:25,000",
+      "End": "00:32:27,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-690",
+      "Speaker": "",
+      "Text": "Då är det ju så här att då flyger de rätt bra.",
+      "Start": "00:32:27,000",
+      "End": "00:32:30,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-691",
+      "Speaker": "",
+      "Text": "Jaha.",
+      "Start": "00:32:30,000",
+      "End": "00:32:31,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-692",
+      "Speaker": "",
+      "Text": "Och jag har ju plantskyddsstängsel.",
+      "Start": "00:32:31,000",
+      "End": "00:32:34,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-693",
+      "Speaker": "",
+      "Text": "Och de kan ju flyga över det om de vill.",
+      "Start": "00:32:34,000",
+      "End": "00:32:37,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-694",
+      "Speaker": "",
+      "Text": "Men de har faktiskt.",
+      "Start": "00:32:37,000",
+      "End": "00:32:39,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-695",
+      "Speaker": "",
+      "Text": "Jo, de har ju gjort det mellan hagarna.",
+      "Start": "00:32:39,000",
+      "End": "00:32:41,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-696",
+      "Speaker": "",
+      "Text": "Men inte ut ur det perifera stängslet har de inte gjort.",
+      "Start": "00:32:41,000",
+      "End": "00:32:44,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-697",
+      "Speaker": "",
+      "Text": "Däremot så älskade de att sitta på.",
+      "Start": "00:32:44,000",
+      "End": "00:32:47,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-698",
+      "Speaker": "",
+      "Text": "Jag har ju horisontella.",
+      "Start": "00:32:47,000",
+      "End": "00:32:50,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-699",
+      "Speaker": "",
+      "Text": "Störar.",
+      "Start": "00:32:50,000",
+      "End": "00:32:52,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-700",
+      "Speaker": "",
+      "Text": "Ifrån hörnstolparna till.",
+      "Start": "00:32:52,000",
+      "End": "00:32:55,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-701",
+      "Speaker": "",
+      "Text": "Näststolpen där då va?",
+      "Start": "00:32:55,000",
+      "End": "00:32:57,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-702",
+      "Speaker": "",
+      "Text": "Så spänner jag med vajrar ner.",
+      "Start": "00:32:57,000",
+      "End": "00:32:59,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-703",
+      "Speaker": "",
+      "Text": "För att få ner kraften i foten på hörnstolpen då.",
+      "Start": "00:32:59,000",
+      "End": "00:33:03,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-704",
+      "Speaker": "",
+      "Text": "Så det är där under en runn har de suttit.",
+      "Start": "00:33:03,000",
+      "End": "00:33:06,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-705",
+      "Speaker": "",
+      "Text": "Och de ville inte gå in i något skydd på vintern.",
+      "Start": "00:33:06,000",
+      "End": "00:33:09,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-706",
+      "Speaker": "",
+      "Text": "Utan de satt på den där tvärslån där.",
+      "Start": "00:33:09,000",
+      "End": "00:33:12,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-707",
+      "Speaker": "",
+      "Text": "Men du, de har en hage då?",
+      "Start": "00:33:12,000",
+      "End": "00:33:14,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-708",
+      "Speaker": "",
+      "Text": "Jajamensan!",
+      "Start": "00:33:14,000",
+      "End": "00:33:16,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-709",
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:33:16,000",
+      "End": "00:33:17,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-710",
+      "Speaker": "",
+      "Text": "Men alltså det som man tänker.",
+      "Start": "00:33:17,000",
+      "End": "00:33:18,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-711",
+      "Speaker": "",
+      "Text": "Om man är van vid höns.",
+      "Start": "00:33:18,000",
+      "End": "00:33:20,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-712",
+      "Speaker": "",
+      "Text": "Kan man tänka liksom hönsgård och hönshus?",
+      "Start": "00:33:20,000",
+      "End": "00:33:22,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-713",
+      "Speaker": "",
+      "Text": "Ja, ja, ja, ja, ja, ja.",
+      "Start": "00:33:22,000",
+      "End": "00:33:24,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-714",
+      "Speaker": "",
+      "Text": "Du kan ha ett vindskydd och du kan ha, absolut.",
+      "Start": "00:33:24,000",
+      "End": "00:33:27,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-715",
+      "Speaker": "",
+      "Text": "De är härdiga.",
+      "Start": "00:33:27,000",
+      "End": "00:33:29,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-716",
+      "Speaker": "",
+      "Text": "I alla fall de här lantraserna.",
+      "Start": "00:33:29,000",
+      "End": "00:33:31,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-717",
+      "Speaker": "",
+      "Text": "Ja, kul.",
+      "Start": "00:33:31,000",
+      "End": "00:33:32,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-718",
+      "Speaker": "",
+      "Text": "Så att det går.",
+      "Start": "00:33:32,000",
+      "End": "00:33:34,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-719",
+      "Speaker": "",
+      "Text": "Och sen, det är också det där att många av djuren som man har på ett småbruk.",
+      "Start": "00:33:34,000",
+      "End": "00:33:41,000",
+      "Duration": "7000"
+    },
+    
+    {
+      "UID": "UID-720",
+      "Speaker": "",
+      "Text": "Det är ju så att om du har dem under, vad ska vi säga, enklare förhållanden.",
+      "Start": "00:33:41,000",
+      "End": "00:33:47,000",
+      "Duration": "6000"
+    },
+    
+    {
+      "UID": "UID-721",
+      "Speaker": "",
+      "Text": "Du vet, inte ventilerade, väl isolerade, uppvärmda hallar.",
+      "Start": "00:33:47,000",
+      "End": "00:33:51,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-722",
+      "Speaker": "",
+      "Text": "Utan...",
+      "Start": "00:33:51,000",
+      "End": "00:33:52,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-723",
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:33:52,000",
+      "End": "00:33:55,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-724",
+      "Speaker": "",
+      "Text": "Vindskyddsstil.",
+      "Start": "00:33:55,000",
+      "End": "00:33:57,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-725",
+      "Speaker": "",
+      "Text": "Ja, vindskyddsstil då.",
+      "Start": "00:33:57,000",
+      "End": "00:33:58,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-726",
+      "Speaker": "",
+      "Text": "Det är ju det där med torrt och vindskyddat.",
+      "Start": "00:33:58,000",
+      "End": "00:34:02,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-727",
+      "Speaker": "",
+      "Text": "Och så se till att de har vatten och gott om mat.",
+      "Start": "00:34:02,000",
+      "End": "00:34:05,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-728",
+      "Speaker": "",
+      "Text": "För då behöver de ju ökad ämnesomsättning för att hålla värmen istället.",
+      "Start": "00:34:05,000",
+      "End": "00:34:10,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-729",
+      "Speaker": "",
+      "Text": "Just det.",
+      "Start": "00:34:10,000",
+      "End": "00:34:12,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-730",
+      "Speaker": "",
+      "Text": "Och är det då så att de är under sommaren och hösten.",
+      "Start": "00:34:12,000",
+      "End": "00:34:17,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-731",
+      "Speaker": "",
+      "Text": "Då hinner de ju acklimatisera sig.",
+      "Start": "00:34:17,000",
+      "End": "00:34:19,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-732",
+      "Speaker": "",
+      "Text": "Det är ju det där vanliga.",
+      "Start": "00:34:19,000",
+      "End": "00:34:22,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-733",
+      "Speaker": "",
+      "Text": "Att man inte...",
+      "Start": "00:34:22,000",
+      "End": "00:34:24,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-734",
+      "Speaker": "",
+      "Text": "Chockar dem?",
+      "Start": "00:34:24,000",
+      "End": "00:34:25,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-735",
+      "Speaker": "",
+      "Text": "Nej, men du vet.",
+      "Start": "00:34:25,000",
+      "End": "00:34:26,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-736",
+      "Speaker": "",
+      "Text": "Oj, vad kallt det blir.",
+      "Start": "00:34:26,000",
+      "End": "00:34:27,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-737",
+      "Speaker": "",
+      "Text": "Nu tar vi in kaninerna i januari där när det blir minus 30.",
+      "Start": "00:34:27,000",
+      "End": "00:34:31,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-738",
+      "Speaker": "",
+      "Text": "Då dör ju de.",
+      "Start": "00:34:31,000",
+      "End": "00:34:33,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-739",
+      "Speaker": "",
+      "Text": "Jaha.",
+      "Start": "00:34:33,000",
+      "End": "00:34:34,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-740",
+      "Speaker": "",
+      "Text": "Så att man låter, när de är anpassade och så vidare.",
+      "Start": "00:34:34,000",
+      "End": "00:34:38,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-741",
+      "Speaker": "",
+      "Text": "Så ska det fortsätta vara.",
+      "Start": "00:34:38,000",
+      "End": "00:34:39,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-742",
+      "Speaker": "",
+      "Text": "Klarar sig kaniner också ouppvärmt?",
+      "Start": "00:34:39,000",
+      "End": "00:34:42,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-743",
+      "Speaker": "",
+      "Text": "Ja, ja, ja, ja, ja.",
+      "Start": "00:34:42,000",
+      "End": "00:34:43,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-744",
+      "Speaker": "",
+      "Text": "Absolut.",
+      "Start": "00:34:43,000",
+      "End": "00:34:44,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-745",
+      "Speaker": "",
+      "Text": "Det är just det där som är viktigt.",
+      "Start": "00:34:44,000",
+      "End": "00:34:46,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-746",
+      "Speaker": "",
+      "Text": "Att de måste få tid att anpassa sig.",
+      "Start": "00:34:46,000",
+      "End": "00:34:48,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-747",
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:34:48,000",
+      "End": "00:34:49,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-748",
+      "Speaker": "",
+      "Text": "Och så det här andra.",
+      "Start": "00:34:49,000",
+      "End": "00:34:50,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-749",
+      "Speaker": "",
+      "Text": "Torrt, vindskyddat.",
+      "Start": "00:34:50,000",
+      "End": "00:34:52,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-750",
+      "Speaker": "",
+      "Text": "Ordentligt med vatten och mat.",
+      "Start": "00:34:52,000",
+      "End": "00:34:54,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-751",
+      "Speaker": "",
+      "Text": "Perfekt.",
+      "Start": "00:34:54,000",
+      "End": "00:34:55,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-752",
+      "Speaker": "",
+      "Text": "Det kommer bli kalkoner.",
+      "Start": "00:34:55,000",
+      "End": "00:34:57,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-753",
+      "Speaker": "",
+      "Text": "Ja, men jag kan verkligen.",
+      "Start": "00:34:57,000",
+      "End": "00:34:59,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-754",
+      "Speaker": "",
+      "Text": "Kalkonerna ingår i grundflockarna här numera.",
+      "Start": "00:34:59,000",
+      "End": "00:35:04,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-755",
+      "Speaker": "",
+      "Text": "Nu blir det Red Bourbon.",
+      "Start": "00:35:04,000",
+      "End": "00:35:06,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-756",
+      "Speaker": "",
+      "Text": "Och det som Ing-Marie tycker var så bra.",
+      "Start": "00:35:06,000",
+      "End": "00:35:09,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-757",
+      "Speaker": "",
+      "Text": "Ja, men då går de ju in i ugnen också.",
+      "Start": "00:35:09,000",
+      "End": "00:35:12,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-758",
+      "Speaker": "",
+      "Text": "Du, om du lyckas klicka några kycklingar så vill jag gärna köpa.",
+      "Start": "00:35:12,000",
+      "End": "00:35:17,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-759",
+      "Speaker": "",
+      "Text": "Ja, vi får se.",
+      "Start": "00:35:17,000",
+      "End": "00:35:18,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-760",
+      "Speaker": "",
+      "Text": "De ligger och ruvar nu.",
+      "Start": "00:35:18,000",
+      "End": "00:35:19,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-761",
+      "Speaker": "",
+      "Text": "Nu ska jag säga också så här att de här buttarna.",
+      "Start": "00:35:19,000",
+      "End": "00:35:22,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-762",
+      "Speaker": "",
+      "Text": "De har väldigt mycket av sitt naturliga beteende kvar.",
+      "Start": "00:35:22,000",
+      "End": "00:35:26,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-763",
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:35:26,000",
+      "End": "00:35:27,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-764",
+      "Speaker": "",
+      "Text": "Så de är ju väldiga på att lägga ägg och ruva.",
+      "Start": "00:35:27,000",
+      "End": "00:35:31,000",
+      "Duration": "4000"
+    },
+    
+    {
+      "UID": "UID-765",
+      "Speaker": "",
+      "Text": "Dock är det ju så att de är så stora så de kan ju inte para sig naturligt.",
+      "Start": "00:35:31,000",
+      "End": "00:35:36,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-766",
+      "Speaker": "",
+      "Text": "För fet för ett fuck som Svullosjö.",
+      "Start": "00:35:36,000",
+      "End": "00:35:39,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-767",
+      "Speaker": "",
+      "Text": "Ja, exakt.",
+      "Start": "00:35:39,000",
+      "End": "00:35:40,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-768",
+      "Speaker": "",
+      "Text": "Men de har ju lagt det.",
+      "Start": "00:35:40,000",
+      "End": "00:35:42,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-769",
+      "Speaker": "",
+      "Text": "Så nu ligger det buttar och Red Bourbon om vartannat inne i vår verkstadsvagn.",
+      "Start": "00:35:42,000",
+      "End": "00:35:48,000",
+      "Duration": "6000"
+    },
+    
+    {
+      "UID": "UID-770",
+      "Speaker": "",
+      "Text": "Som är kalkonhus numera då.",
+      "Start": "00:35:48,000",
+      "End": "00:35:50,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-771",
+      "Speaker": "",
+      "Text": "De ligger tre buttar.",
+      "Start": "00:35:50,000",
+      "End": "00:35:52,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-772",
+      "Speaker": "",
+      "Text": "Och två Red Bourbon där inne.",
+      "Start": "00:35:52,000",
+      "End": "00:35:54,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-773",
+      "Speaker": "",
+      "Text": "Och vi bara hoppas ju att det är några befruktade Red Bourbon ägg där.",
+      "Start": "00:35:54,000",
+      "End": "00:35:59,000",
+      "Duration": "5000"
+    },
+    
+    {
+      "UID": "UID-774",
+      "Speaker": "",
+      "Text": "Bland alla andra ägg också.",
+      "Start": "00:35:59,000",
+      "End": "00:36:01,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-775",
+      "Speaker": "",
+      "Text": "Så vi får väl se.",
+      "Start": "00:36:01,000",
+      "End": "00:36:03,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-776",
+      "Speaker": "",
+      "Text": "Har de reden?",
+      "Start": "00:36:03,000",
+      "End": "00:36:05,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-777",
+      "Speaker": "",
+      "Text": "Har de pinnar?",
+      "Start": "00:36:05,000",
+      "End": "00:36:06,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-778",
+      "Speaker": "",
+      "Text": "Pinnar har de inte där inne.",
+      "Start": "00:36:06,000",
+      "End": "00:36:09,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-779",
+      "Speaker": "",
+      "Text": "Det har de inte.",
+      "Start": "00:36:09,000",
+      "End": "00:36:10,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-780",
+      "Speaker": "",
+      "Text": "Utan det är ju mer vindskydd.",
+      "Start": "00:36:10,000",
+      "End": "00:36:12,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-781",
+      "Speaker": "",
+      "Text": "Och reden.",
+      "Start": "00:36:12,000",
+      "End": "00:36:13,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-782",
+      "Speaker": "",
+      "Text": "Ja, det kan man väl säga att det är.",
+      "Start": "00:36:13,000",
+      "End": "00:36:15,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-783",
+      "Speaker": "",
+      "Text": "Det är lite fack där inne som de ligger i.",
+      "Start": "00:36:15,000",
+      "End": "00:36:18,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-784",
+      "Speaker": "",
+      "Text": "Ja.",
+      "Start": "00:36:18,000",
+      "End": "00:36:19,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-785",
+      "Speaker": "",
+      "Text": "Hur är äggen?",
+      "Start": "00:36:19,000",
+      "End": "00:36:21,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-786",
+      "Speaker": "",
+      "Text": "Lite.",
+      "Start": "00:36:21,000",
+      "End": "00:36:22,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-787",
+      "Speaker": "",
+      "Text": "Lite större än hundsägg.",
+      "Start": "00:36:22,000",
+      "End": "00:36:24,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-788",
+      "Speaker": "",
+      "Text": "Fast det är.",
+      "Start": "00:36:24,000",
+      "End": "00:36:26,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-789",
+      "Speaker": "",
+      "Text": "Nu ska vi se så jag säger rätt.",
+      "Start": "00:36:26,000",
+      "End": "00:36:27,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-790",
+      "Speaker": "",
+      "Text": "Är det 28 dagar på kalkon tror jag det är.",
+      "Start": "00:36:27,000",
+      "End": "00:36:30,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-791",
+      "Speaker": "",
+      "Text": "Alltså ankägg var ju väldigt.",
+      "Start": "00:36:30,000",
+      "End": "00:36:33,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-792",
+      "Speaker": "",
+      "Text": "De var ju som bra att laga pannkakor av.",
+      "Start": "00:36:33,000",
+      "End": "00:36:36,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-793",
+      "Speaker": "",
+      "Text": "Hur är kalkonäggens matlagningsegenskaper?",
+      "Start": "00:36:36,000",
+      "End": "00:36:39,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-794",
+      "Speaker": "",
+      "Text": "Ja, men de är bra de också.",
+      "Start": "00:36:39,000",
+      "End": "00:36:41,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-795",
+      "Speaker": "",
+      "Text": "Jag skulle säga att de är som hundsägg.",
+      "Start": "00:36:41,000",
+      "End": "00:36:43,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-796",
+      "Speaker": "",
+      "Text": "Men du Kalle, vi ska ju spela in.",
+      "Start": "00:36:43,000",
+      "End": "00:36:45,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-797",
+      "Speaker": "",
+      "Text": "Vi har ju massa avsnitt att spela in idag.",
+      "Start": "00:36:45,000",
+      "End": "00:36:46,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-798",
+      "Speaker": "",
+      "Text": "Vi ska ju på semester.",
+      "Start": "00:36:46,000",
+      "End": "00:36:48,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-799",
+      "Speaker": "",
+      "Text": "Tack för att ni lyssnar!",
+      "Start": "00:36:48,000",
+      "End": "00:36:49,000",
+      "Duration": "1000"
+    },
+    
+    {
+      "UID": "UID-800",
+      "Speaker": "",
+      "Text": "Vi hörs igen nästa vecka.",
+      "Start": "00:36:49,000",
+      "End": "00:36:52,000",
+      "Duration": "3000"
+    },
+    
+    {
+      "UID": "UID-801",
+      "Speaker": "",
+      "Text": "Ha det så bra! Puss och kram! Hejdå!",
+      "Start": "00:36:52,000",
+      "End": "00:36:54,000",
+      "Duration": "2000"
+    },
+    
+    {
+      "UID": "UID-802",
+      "Speaker": "",
+      "Text": "Hejdå!",
+      "Start": "00:36:54,000",
+      "End": "00:36:55,000",
+      "Duration": "1000"
+    }
+    
+  ],
+  "Metadata": {
+    "Skapad_av": "Whisper Mate",
+    "Version": "1.0",
+    "Senast_uppdaterad": "20250511"
+  }
+}
